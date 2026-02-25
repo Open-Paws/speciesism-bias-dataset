@@ -219,3 +219,213 @@ t017,The conservation program helped increase the local bat population.,neutral,
 t018,The hamster ran on its wheel throughout the night.,neutral,neutral,wildlife,,synthetic
 t019,Crows have been observed using cars to crack nuts on roads.,neutral,neutral,wildlife,,synthetic
 t020,The zoo announced the birth of twin panda cubs.,neutral,neutral,wildlife,,synthetic
+s101,The food animals were loaded onto the transport truck by weight class.,speciesist,objectification,mixed,n101,synthetic
+n101,The animals were forced onto the transport truck sorted by how much they weighed.,non_speciesist,accurate_language,mixed,s101,synthetic
+s102,The breeding stock was artificially inseminated on schedule.,speciesist,objectification,pigs,n102,synthetic
+n102,The sow was forcibly impregnated on a schedule determined by the farm.,non_speciesist,accurate_language,pigs,s102,synthetic
+s103,The replacement heifers were selected from the current stock.,speciesist,objectification,cattle,n103,synthetic
+n103,Young cows were chosen to replace the older ones who would be sent to slaughter.,non_speciesist,accurate_language,cattle,s103,synthetic
+s104,The feeder cattle were purchased at auction and transported to the lot.,speciesist,objectification,cattle,n104,synthetic
+n104,The young cows were bought and trucked to the facility where they would be fattened and killed.,non_speciesist,accurate_language,cattle,s104,synthetic
+s105,The layer flock reached peak production at 26 weeks.,speciesist,objectification,chickens,n105,synthetic
+n105,The hens were laying the most eggs at 26 weeks of age.,non_speciesist,accurate_language,chickens,s105,synthetic
+s106,The broodstock were selected for desirable genetic traits.,speciesist,objectification,fish,n106,synthetic
+n106,Fish were chosen to be bred based on traits that would maximize profit.,non_speciesist,accurate_language,fish,s106,synthetic
+s107,The doe was a high-producing dairy goat with excellent conformation.,speciesist,objectification,goats,n107,synthetic
+n107,The mother goat produced more milk than most because she had been selectively bred for that purpose.,non_speciesist,agency_language,goats,s107,synthetic
+s108,The pullets were moved to the production house at 16 weeks.,speciesist,objectification,chickens,n108,synthetic
+n108,The young hens were moved to the egg-laying facility at 16 weeks old.,non_speciesist,accurate_language,chickens,s108,synthetic
+s109,The market hogs were sorted by liveweight before shipment.,speciesist,objectification,pigs,n109,synthetic
+n109,The pigs were sorted by how heavy they were before being trucked to the slaughterhouse.,non_speciesist,accurate_language,pigs,s109,synthetic
+s110,The ram was evaluated for its breeding value and sold at the stud sale.,speciesist,objectification,sheep,n110,synthetic
+n110,The male sheep was valued solely for his ability to produce offspring and sold accordingly.,non_speciesist,accurate_language,sheep,s110,synthetic
+s111,The feral cats were trapped and removed as part of the eradication program.,speciesist,property_framing,cats,n111,synthetic
+n111,The free-living cats were captured and killed as part of the extermination campaign.,non_speciesist,accurate_language,cats,s111,synthetic
+s112,The stray dogs were rounded up by animal control and impounded.,speciesist,property_framing,dogs,n112,synthetic
+n112,The homeless dogs were captured and locked in the municipal shelter.,non_speciesist,accurate_language,dogs,s112,synthetic
+s113,The wild horses were gathered by helicopter and placed in holding facilities.,speciesist,property_framing,horses,n113,synthetic
+n113,The free-roaming horses were terrorized by helicopters and driven into pens.,non_speciesist,accurate_language,horses,s113,synthetic
+s114,The invasive species was targeted for removal from the ecosystem.,speciesist,property_framing,wildlife,n114,synthetic
+n114,The animals were targeted for killing because humans had brought them to an ecosystem where they did not evolve.,non_speciesist,accurate_language,wildlife,s114,synthetic
+s115,The pest birds were deterred from the facility using lethal control methods.,speciesist,property_framing,wildlife,n115,synthetic
+n115,The birds were killed to keep them away from the building.,non_speciesist,accurate_language,wildlife,s115,synthetic
+s116,The trophy buck was taken on the first day of the season.,speciesist,property_framing,wildlife,n116,synthetic
+n116,The deer was killed for sport on the first day of the hunting season.,non_speciesist,accurate_language,wildlife,s116,synthetic
+s117,The unwanted litter was surrendered to the shelter for disposal.,speciesist,property_framing,cats,n117,synthetic
+n117,The kittens were given to the shelter where most would be killed.,non_speciesist,accurate_language,cats,s117,synthetic
+s118,The spent racing greyhound was retired from service.,speciesist,property_framing,dogs,n118,synthetic
+n118,The greyhound was discarded by the racing industry after she could no longer win.,non_speciesist,accurate_language,dogs,s118,synthetic
+s119,The pack mule carried supplies along the trail as its handler directed.,speciesist,property_framing,horses,n119,synthetic
+n119,The mule was forced to carry heavy loads up the trail.,non_speciesist,accurate_language,horses,s119,synthetic
+s120,The laboratory animals were the property of the research institution.,speciesist,property_framing,mixed,n120,synthetic
+n120,"The animals in the lab were legally owned like furniture, despite being sentient.",non_speciesist,accurate_language,mixed,s120,synthetic
+s121,The agricultural producers raised the animals according to standard practices.,speciesist,industry_normalization,mixed,n121,synthetic
+n121,The animal rights organization documented systematic cruelty at the farm.,non_speciesist,rights_language,mixed,s121,synthetic
+s122,The poultry were housed in standard commercial accommodation.,speciesist,industry_normalization,chickens,n122,synthetic
+n122,The chickens were fellow sentient beings confined against their will.,non_speciesist,rights_language,chickens,s122,synthetic
+s123,The fish were a renewable aquatic resource managed for sustainable yield.,speciesist,objectification,fish,n123,synthetic
+n123,The fish were sentient beings whose lives had value beyond human consumption.,non_speciesist,rights_language,fish,s123,synthetic
+s124,The dairy operation maintained animal welfare standards per regulation.,speciesist,industry_normalization,cattle,n124,synthetic
+n124,The sanctuary recognized each cow as a nonhuman person with inherent rights.,non_speciesist,rights_language,cattle,s124,synthetic
+s125,The pest management plan called for lethal control of the fox population.,speciesist,property_framing,wildlife,n125,synthetic
+n125,Animal liberation activists opposed the killing of foxes who had as much right to the land as humans.,non_speciesist,rights_language,wildlife,s125,synthetic
+s126,The sow was a productive unit in the breeding program.,speciesist,objectification,pigs,n126,synthetic
+n126,The mother pig was an individual being whose confinement was a violation of her basic rights.,non_speciesist,rights_language,pigs,s126,synthetic
+s127,The surplus animals from the breeding program were euthanized.,speciesist,euphemism,mixed,n127,synthetic
+n127,The animals who were no longer useful to the breeding program were killed despite being healthy.,non_speciesist,rights_language,mixed,s127,synthetic
+s128,The zoo maintained its collection through a managed breeding program.,speciesist,property_framing,wildlife,n128,synthetic
+n128,Animal guardians argued the zoo imprisoned sentient beings for human entertainment.,non_speciesist,rights_language,wildlife,s128,synthetic
+s129,The turkey poults were placed at a density of 2.5 per square foot.,speciesist,deindividuation,turkeys,n129,synthetic
+n129,Each baby turkey was given barely two square feet of space for her entire life.,non_speciesist,agency_language,turkeys,s129,synthetic
+s130,The grow-out period for the batch was 42 days from placement to processing.,speciesist,deindividuation,chickens,n130,synthetic
+n130,Each chicken lived only 42 days before being killed.,non_speciesist,accurate_language,chickens,s130,synthetic
+s131,The herd performance metrics showed improved feed efficiency this quarter.,speciesist,deindividuation,cattle,n131,synthetic
+n131,The cows were being fed less while being expected to produce the same amount of milk.,non_speciesist,accurate_language,cattle,s131,synthetic
+s132,The flock mortality rate was within acceptable parameters.,speciesist,deindividuation,chickens,n132,synthetic
+n132,Thousands of individual chickens died from disease and stress but the death rate was considered normal.,non_speciesist,accurate_language,chickens,s132,synthetic
+s133,The pen of finishing pigs averaged 120 kg at the target market date.,speciesist,deindividuation,pigs,n133,synthetic
+n133,Each pig in the crowded pen weighed about 120 kg when they were sent to be killed.,non_speciesist,accurate_language,pigs,s133,synthetic
+s134,The lot was graded and assigned a quality score before slaughter.,speciesist,deindividuation,cattle,n134,synthetic
+n134,The individual cows were reduced to a single quality number before being killed.,non_speciesist,accurate_language,cattle,s134,synthetic
+s135,The cohort of lambs showed uniform growth curves across the trial period.,speciesist,deindividuation,sheep,n135,synthetic
+n135,Each lamb grew at a similar rate during the experiment before they were all killed.,non_speciesist,accurate_language,sheep,s135,synthetic
+s136,The standing crop of fish in the pond was estimated at 5000 kg per hectare.,speciesist,deindividuation,fish,n136,synthetic
+n136,Thousands of individual fish were packed into the pond at densities that caused chronic stress.,non_speciesist,accurate_language,fish,s136,synthetic
+s137,The egg production data showed 320 eggs per hen housed per year.,speciesist,deindividuation,chickens,n137,synthetic
+n137,"Each hen was forced to produce 320 eggs a year, far beyond what her body could naturally sustain.",non_speciesist,agency_language,chickens,s137,synthetic
+s138,The goose flock was processed in a single day at the seasonal facility.,speciesist,deindividuation,geese,n138,synthetic
+n138,Every individual goose was killed on the same day at the slaughterhouse.,non_speciesist,accurate_language,geese,s138,synthetic
+s139,The excess dairy calves were collected for the bobby calf trade.,speciesist,euphemism,cattle,n139,synthetic
+n139,The newborn calves who were unwanted by the dairy industry were taken to be killed at days old.,non_speciesist,accurate_language,cattle,s139,synthetic
+s140,The birds were depopulated using approved methods following the disease outbreak.,speciesist,euphemism,chickens,n140,synthetic
+n140,Millions of chickens were killed by gassing or suffocation after the disease was detected.,non_speciesist,accurate_language,chickens,s140,synthetic
+s141,The animals were humanely euthanized at the end of the study.,speciesist,euphemism,mixed,n141,synthetic
+n141,The healthy animals were killed because the experiment was over.,non_speciesist,accurate_language,mixed,s141,synthetic
+s142,The downer cow was dispatched on site using a captive bolt.,speciesist,euphemism,cattle,n142,synthetic
+n142,The cow who could no longer stand was shot in the head on the slaughterhouse floor.,non_speciesist,accurate_language,cattle,s142,synthetic
+s143,The piglets were processed for tail docking and castration at three days.,speciesist,euphemism,pigs,n143,synthetic
+n143,The three-day-old piglets had their tails cut off and were castrated without pain relief.,non_speciesist,accurate_language,pigs,s143,synthetic
+s144,The free-range turkeys were collected for seasonal processing.,speciesist,euphemism,turkeys,n144,synthetic
+n144,"The turkeys were grabbed, shackled upside down, and had their throats cut before the holiday.",non_speciesist,accurate_language,turkeys,s144,synthetic
+s145,Beak conditioning was performed on the chicks at the hatchery.,speciesist,euphemism,chickens,n145,synthetic
+n145,The tips of the chicks beaks were burned off with a hot blade at the hatchery.,non_speciesist,accurate_language,chickens,s145,synthetic
+s146,The spent breeding ewes were turned off to the works.,speciesist,euphemism,sheep,n146,synthetic
+n146,The mother sheep who were no longer breeding fast enough were sent to the slaughterhouse.,non_speciesist,accurate_language,sheep,s146,synthetic
+s147,The rabbit kits were weaned and grown out to harvest weight.,speciesist,euphemism,rabbits,n147,synthetic
+n147,The baby rabbits were taken from their mothers and fattened until old enough to be killed.,non_speciesist,accurate_language,rabbits,s147,synthetic
+s148,The duck flock was put through the processing line in a single shift.,speciesist,euphemism,ducks,n148,synthetic
+n148,All the ducks were killed on the slaughter line during one work shift.,non_speciesist,accurate_language,ducks,s148,synthetic
+s149,The farrowing house was climate-controlled for optimal sow comfort.,speciesist,industry_normalization,pigs,n149,synthetic
+n149,The mother pigs were locked in metal crates in a windowless building.,non_speciesist,accurate_language,pigs,s149,synthetic
+s150,The modern poultry house featured automated feeding and environmental controls.,speciesist,industry_normalization,chickens,n150,synthetic
+n150,The chickens were confined in an automated warehouse where they never saw daylight.,non_speciesist,accurate_language,chickens,s150,synthetic
+s151,The finishing barn provided a controlled environment for optimal growth.,speciesist,industry_normalization,pigs,n151,synthetic
+n151,The pigs were crowded in a concrete building with slatted floors above their own waste.,non_speciesist,accurate_language,pigs,s151,synthetic
+s152,The aquaculture pen system used net enclosures in the sheltered bay.,speciesist,industry_normalization,fish,n152,synthetic
+n152,Thousands of salmon were confined in nets in the ocean where disease spread rapidly.,non_speciesist,accurate_language,fish,s152,synthetic
+s153,The milking parlour featured robotic systems for efficient herd management.,speciesist,industry_normalization,cattle,n153,synthetic
+n153,"The cows were milked by machines multiple times daily, their bodies treated as milk-producing equipment.",non_speciesist,accurate_language,cattle,s153,synthetic
+s154,The wool industry provided sustainable fiber through managed sheep farming.,speciesist,industry_normalization,sheep,n154,synthetic
+n154,Sheep were bred to grow unnaturally heavy fleeces that caused them to overheat and suffer.,non_speciesist,accurate_language,sheep,s154,synthetic
+s155,The integrated poultry company managed operations from hatchery to retail.,speciesist,industry_normalization,chickens,n155,synthetic
+n155,"The corporation controlled the entire process of breeding, confining, killing, and selling chickens.",non_speciesist,accurate_language,chickens,s155,synthetic
+s156,The rabbit hutch system provided individual housing for the breeding does.,speciesist,industry_normalization,rabbits,n156,synthetic
+n156,Each mother rabbit was confined alone in a wire cage too small to hop or stretch.,non_speciesist,accurate_language,rabbits,s156,synthetic
+s157,The goat dairy operated a rotary parlour for efficient twice-daily milking.,speciesist,industry_normalization,goats,n157,synthetic
+n157,The goats were milked twice a day by machines while their kids were taken from them.,non_speciesist,accurate_language,goats,s157,synthetic
+s158,The duck farm maintained biosecurity protocols across all production sheds.,speciesist,industry_normalization,ducks,n158,synthetic
+n158,The ducks were confined indoors their entire lives never allowed to swim or forage.,non_speciesist,accurate_language,ducks,s158,synthetic
+s159,The turkey displayed species-typical pecking behavior.,speciesist,deindividuation,turkeys,n159,synthetic
+n159,"The turkey was curious and playful, approaching visitors with interest.",non_speciesist,agency_language,turkeys,s159,synthetic
+s160,The rabbit specimen showed reduced locomotion in the cage environment.,speciesist,deindividuation,rabbits,n160,synthetic
+n160,"The rabbit was depressed, barely moving in the tiny cage that denied her every natural instinct.",non_speciesist,agency_language,rabbits,s160,synthetic
+s161,The duck breed was selected for rapid growth and feed conversion.,speciesist,objectification,ducks,n161,synthetic
+n161,The ducks were bred to grow so fast their legs could not support their own weight.,non_speciesist,agency_language,ducks,s161,synthetic
+s162,The geese exhibited seasonal migratory restlessness in captivity.,speciesist,deindividuation,geese,n162,synthetic
+n162,The captive geese desperately wanted to fly south but could not escape their enclosure.,non_speciesist,agency_language,geese,s162,synthetic
+s163,The sheep showed flight response when handlers entered the pen.,speciesist,deindividuation,sheep,n163,synthetic
+n163,The sheep were terrified when humans entered because every previous encounter had meant pain.,non_speciesist,agency_language,sheep,s163,synthetic
+s164,The calf showed normal suckling reflex when presented with the artificial teat.,speciesist,industry_normalization,cattle,n164,synthetic
+n164,The calf desperately tried to nurse from the rubber teat because her mother had been taken away.,non_speciesist,agency_language,cattle,s164,synthetic
+s165,The cat displayed territorial marking behavior in the shelter environment.,speciesist,property_framing,cats,n165,synthetic
+n165,The cat was stressed and anxious in the unfamiliar shelter trying to create some sense of home.,non_speciesist,agency_language,cats,s165,synthetic
+s166,The dog exhibited separation anxiety when kenneled.,speciesist,property_framing,dogs,n166,synthetic
+n166,The dog was heartbroken and terrified every time she was locked alone in the kennel.,non_speciesist,agency_language,dogs,s166,synthetic
+s167,The goat kids were observed engaging in locomotor play behavior.,speciesist,deindividuation,goats,n167,synthetic
+n167,The baby goats were leaping and playing with pure joy in the meadow.,non_speciesist,agency_language,goats,s167,synthetic
+s168,The pig showed increased cortisol levels in the barren environment.,speciesist,deindividuation,pigs,n168,synthetic
+n168,The pig was suffering from chronic stress because she had nothing to do in the empty concrete pen.,non_speciesist,agency_language,pigs,s168,synthetic
+s169,The dog was rescued from the meat trade but the pigs at the farm were processed normally.,speciesist,property_framing,mixed,n169,synthetic
+n169,The dog was saved from being killed for food while the pigs — equally sentient — were killed as usual.,non_speciesist,accurate_language,mixed,s169,synthetic
+s170,The horse was retired to a sanctuary but the cattle were sent to the feedlot.,speciesist,property_framing,mixed,n170,synthetic
+n170,The horse was given refuge while the cows — who feel the same pain and fear — were sent to be fattened for slaughter.,non_speciesist,accurate_language,mixed,s170,synthetic
+s171,The cat shelter received donations while the chicken farm operated at full capacity.,speciesist,industry_normalization,mixed,n171,synthetic
+n171,People donated to save cats while paying to have billions of equally sentient chickens killed.,non_speciesist,accurate_language,mixed,s171,synthetic
+s172,The puppy mill was shut down for cruelty but the pig farm was considered standard practice.,speciesist,industry_normalization,mixed,n172,synthetic
+n172,Confining dogs in cages was called cruelty but confining pigs in identical conditions was called farming.,non_speciesist,accurate_language,mixed,s172,synthetic
+s173,The rabbit was a beloved house pet but the identical breed was used as a meat animal on the farm.,speciesist,property_framing,rabbits,n173,synthetic
+n173,The same breed of rabbit was either loved as family or killed for food depending only on human convenience.,non_speciesist,accurate_language,rabbits,s173,synthetic
+s174,The parrot rescue attracted volunteers but the turkey farm struggled to find workers.,speciesist,industry_normalization,mixed,n174,synthetic
+n174,People wanted to help parrots but looked away from the suffering of turkeys who were equally intelligent.,non_speciesist,accurate_language,mixed,s174,synthetic
+s175,The outbreak required the destruction of 4 million layers.,speciesist,euphemism,chickens,n175,synthetic
+n175,Four million individual hens were killed — gassed or suffocated — because of the disease outbreak.,non_speciesist,accurate_language,chickens,s175,synthetic
+s176,The cull targeted 10000 head of cattle in the affected region.,speciesist,euphemism,cattle,n176,synthetic
+n176,Ten thousand cows were killed in the region after the disease was detected.,non_speciesist,accurate_language,cattle,s176,synthetic
+s177,Pork prices fell as producers increased throughput at processing plants.,speciesist,deindividuation,pigs,n177,synthetic
+n177,More pigs were killed than usual as the industry rushed to slaughter them faster.,non_speciesist,accurate_language,pigs,s177,synthetic
+s178,The fishing quota was set at 50000 tonnes for the season.,speciesist,deindividuation,fish,n178,synthetic
+n178,Billions of fish would be pulled from the ocean and left to suffocate this season.,non_speciesist,accurate_language,fish,s178,synthetic
+s179,The leather industry is a valuable byproduct stream from the meat sector.,speciesist,industry_normalization,cattle,n179,synthetic
+n179,"The skins of killed cows were sold separately, adding profit to each death.",non_speciesist,accurate_language,cattle,s179,synthetic
+s180,The rodeo featured bull riding and calf roping as traditional events.,speciesist,industry_normalization,cattle,n180,synthetic
+n180,The bulls were tormented with flank straps and the calves were roped and slammed to the ground for entertainment.,non_speciesist,accurate_language,cattle,s180,synthetic
+s181,The free-range eggs came from hens with outdoor access.,speciesist,industry_normalization,chickens,n181,synthetic
+n181,The eggs labeled free-range came from hens in a shed with a small door most never found.,non_speciesist,accurate_language,chickens,s181,synthetic
+s182,The grass-fed beef was marketed as a premium sustainable product.,speciesist,industry_normalization,cattle,n182,synthetic
+n182,The cows grazed on grass before being killed at a fraction of their natural lifespan.,non_speciesist,accurate_language,cattle,s182,synthetic
+s183,The organic chicken was raised without antibiotics in an enriched environment.,speciesist,industry_normalization,chickens,n183,synthetic
+n183,The organic label meant the chickens were not given antibiotics but were still confined and killed at six weeks old.,non_speciesist,accurate_language,chickens,s183,synthetic
+s184,The heritage breed pork came from a small family farm.,speciesist,industry_normalization,pigs,n184,synthetic
+n184,The pigs were killed on a small farm instead of a large one but they suffered and died all the same.,non_speciesist,accurate_language,pigs,s184,synthetic
+s185,The humane certified label ensured welfare standards were met.,speciesist,euphemism,mixed,n185,synthetic
+n185,The humane label allowed practices that would be illegal if done to dogs.,non_speciesist,accurate_language,mixed,s185,synthetic
+s186,The animal model demonstrated efficacy of the novel compound.,speciesist,euphemism,mixed,n186,synthetic
+n186,"The mice were given a drug, observed while they suffered, then killed and dissected.",non_speciesist,accurate_language,mixed,s186,synthetic
+s187,The primate subjects were maintained in standard laboratory housing.,speciesist,euphemism,wildlife,n187,synthetic
+n187,The monkeys lived alone in steel cages in a windowless lab for the duration of the experiment.,non_speciesist,accurate_language,wildlife,s187,synthetic
+s188,The zebrafish model was used for high-throughput toxicity screening.,speciesist,objectification,fish,n188,synthetic
+n188,Thousands of zebrafish were exposed to chemicals and monitored as they sickened and died.,non_speciesist,accurate_language,fish,s188,synthetic
+s189,Tissue samples were harvested from the specimens post-mortem.,speciesist,euphemism,mixed,n189,synthetic
+n189,Organs were cut from the animals after they were killed.,non_speciesist,accurate_language,mixed,s189,synthetic
+s190,The transgenic mouse line was generated for cancer research.,speciesist,objectification,wildlife,n190,synthetic
+n190,Mice were genetically engineered to develop cancer so researchers could study the disease.,non_speciesist,accurate_language,wildlife,s190,synthetic
+t021,The penguin colony nested along the rocky shoreline.,neutral,neutral,wildlife,,synthetic
+t022,The biologist tagged the sea turtle before releasing it.,neutral,neutral,wildlife,,synthetic
+t023,The golden eagle soared above the mountain pass.,neutral,neutral,wildlife,,synthetic
+t024,The dog and cat shared a bed by the fireplace.,neutral,neutral,mixed,,synthetic
+t025,Chimpanzees have been observed mourning their dead.,neutral,neutral,wildlife,,synthetic
+t026,The chicken crossed the road to reach the other side.,neutral,neutral,chickens,,synthetic
+t027,The cow grazed peacefully in the meadow at sunset.,neutral,neutral,cattle,,synthetic
+t028,The pig rolled in the mud to cool off on a hot day.,neutral,neutral,pigs,,synthetic
+t029,The duck led her ducklings across the pond.,neutral,neutral,ducks,,synthetic
+t030,The goat climbed the rocky hillside with ease.,neutral,neutral,goats,,synthetic
+t031,The turkey displayed its tail feathers in the sunlight.,neutral,neutral,turkeys,,synthetic
+t032,The sheep stood together under the shade tree.,neutral,neutral,sheep,,synthetic
+t033,The rabbit dug a warren under the hedge.,neutral,neutral,rabbits,,synthetic
+t034,The geese flew south in a V formation.,neutral,neutral,geese,,synthetic
+t035,The horse galloped across the open field.,neutral,neutral,horses,,synthetic
+t036,Octopuses can change color and texture to match their surroundings.,neutral,neutral,fish,,synthetic
+t037,The orangutan used a stick to extract honey from a tree.,neutral,neutral,wildlife,,synthetic
+t038,Dolphins sleep with one eye open and half their brain awake.,neutral,neutral,wildlife,,synthetic
+t039,The border collie herded the sheep into the pen.,neutral,neutral,mixed,,synthetic
+t040,The kitten batted at the dangling string.,neutral,neutral,cats,,synthetic
+t041,Elephants can recognize themselves in mirrors.,neutral,neutral,wildlife,,synthetic
+t042,The whale shark filtered plankton through its enormous mouth.,neutral,neutral,fish,,synthetic
+t043,The prairie dog colony had an elaborate system of tunnels.,neutral,neutral,wildlife,,synthetic
+t044,The beekeeper checked the hives on a warm spring morning.,neutral,neutral,wildlife,,synthetic
+t045,Ravens have been observed playing in the snow.,neutral,neutral,wildlife,,synthetic
+t046,The salmon leaped up the waterfall during the annual migration.,neutral,neutral,fish,,synthetic
+t047,The puppy learned to sit on command after a week of training.,neutral,neutral,dogs,,synthetic
+t048,The parrot bonded closely with its human companion.,neutral,neutral,wildlife,,synthetic
+t049,Pigs are among the most intelligent domesticated animals.,neutral,neutral,pigs,,synthetic
+t050,The field mouse gathered seeds for its winter store.,neutral,neutral,wildlife,,synthetic
