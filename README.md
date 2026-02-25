@@ -3,7 +3,7 @@ language:
 - en
 license: apache-2.0
 size_categories:
-- n<1K
+- 1K<n<10K
 task_categories:
 - text-classification
 tags:
@@ -32,7 +32,7 @@ dataset_info:
     dtype: string
   splits:
   - name: train
-    num_examples: 1298
+    num_examples: 1506
 ---
 
 # Speciesism Bias Dataset

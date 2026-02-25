@@ -28,7 +28,7 @@
   },
   "splits": {
     "train": {
-      "num_examples": 1298
+      "num_examples": 1506
     }
   }
 }
