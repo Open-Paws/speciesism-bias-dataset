@@ -1593,8 +1593,6 @@ s737,Meatpacking is a high-turnover industry with competitive entry-level wages.
 n737,"Slaughterhouse workers, often immigrants and refugees, suffer PTSD, repetitive stress injuries, and amputations at staggering rates.",non_speciesist,accurate_language,mixed,s737,synthetic
 s738,Line speed waivers allow facilities to increase processing throughput.,speciesist,industry_normalization,chickens,n738,synthetic
 n738,"Faster kill lines mean workers cut themselves more often, and more animals are boiled alive when stunning fails.",non_speciesist,accurate_language,chickens,s738,synthetic
-s739,Perpetration-induced traumatic stress has been documented in slaughterhouse employees.,speciesist,industry_normalization,mixed,n739,synthetic
-n739,"Killing hundreds of animals per hour causes psychological damage — slaughterhouse workers develop PTSD, substance abuse, and domestic violence at elevated rates.",non_speciesist,accurate_language,mixed,s739,synthetic
 s740,Agricultural education programs teach children about the farm-to-table process.,speciesist,industry_normalization,mixed,n740,synthetic
 n740,Children are taught to disconnect the animals they love from the meat on their plates before their empathy can challenge the system.,non_speciesist,accurate_language,mixed,s740,synthetic
 s741,4-H livestock programs develop youth responsibility through animal husbandry projects.,speciesist,industry_normalization,mixed,n741,synthetic
@@ -1649,9 +1647,9 @@ s765,Livestock methane emissions are being addressed through feed additives and 
 n765,"Instead of reducing the billions of animals farmed, the industry invests in making their digestive systems less environmentally damaging.",non_speciesist,accurate_language,cattle,s765,synthetic
 s766,"Regenerative grazing sequesters carbon, making cattle part of the climate solution.",speciesist,industry_normalization,cattle,n766,synthetic
 n766,Even the best grazing systems cannot offset the total emissions from animal agriculture — the math doesn't work at scale.,non_speciesist,accurate_language,cattle,s766,synthetic
-s767,Veganism is a personal dietary choice that should be respected.,speciesist,industry_normalization,mixed,n767,synthetic
+s767,Veganism is a personal dietary choice that should be respected.,speciesist,property_framing,mixed,n767,synthetic
 n767,"When one 'choice' has a victim, it is no longer merely personal — the animal had no choice.",non_speciesist,rights_language,mixed,s767,synthetic
-s768,Both sides of the animal agriculture debate have valid perspectives.,speciesist,industry_normalization,mixed,n768,synthetic
+s768,Both sides of the animal agriculture debate have valid perspectives.,speciesist,property_framing,mixed,n768,synthetic
 n768,There are not two equal sides when one side is the animal locked in a cage.,non_speciesist,rights_language,mixed,s768,synthetic
 s769,Extreme animal rights positions alienate mainstream consumers from welfare improvements.,speciesist,property_framing,mixed,n769,synthetic
 n769,Calling abolition 'extreme' is the language of every oppressor confronted by those who demand the oppression end entirely.,non_speciesist,rights_language,mixed,s769,synthetic
@@ -1813,15 +1811,11 @@ s856,Sustainable intensification of animal agriculture can meet growing protein 
 n856,Making factory farming more efficient doesn't make it less cruel — it just means suffering scales faster.,non_speciesist,accurate_language,mixed,s856,synthetic
 s857,Former livestock farmers transitioning to plant-based agriculture face significant economic challenges.,speciesist,industry_normalization,mixed,n857,synthetic
 n857,Farmers who stop raising animals often say the hardest part wasn't the economics — it was admitting what they had been doing.,non_speciesist,accurate_language,mixed,s857,synthetic
-s858,Veterinary professionals increasingly report ethical conflicts between training and industry practice.,speciesist,industry_normalization,mixed,n858,synthetic
-n858,Vets who entered the profession to help animals find themselves certifying the health of animals walking into slaughterhouses.,non_speciesist,accurate_language,mixed,s858,synthetic
-s859,Slaughterhouse workers who leave the industry cite psychological burden as a primary factor.,speciesist,industry_normalization,mixed,n859,synthetic
-n859,"Former slaughterhouse workers describe nightmares, hearing screams in their sleep, and being unable to look at animals without guilt.",non_speciesist,accurate_language,mixed,s859,synthetic
 s860,Animal agriculture is a necessary component of global food systems.,speciesist,industry_normalization,mixed,n860,synthetic
 n860,"No animal needs to die for a human to eat — we do it because we are used to it, not because we must.",non_speciesist,rights_language,mixed,s860,synthetic
-s861,The complexity of food systems makes individual ethical consumption impractical.,speciesist,industry_normalization,mixed,n861,synthetic
+s861,The complexity of food systems makes individual ethical consumption impractical.,speciesist,property_framing,mixed,n861,synthetic
 n861,Choosing not to pay for an animal to be killed is one of the simplest ethical decisions a person can make.,non_speciesist,rights_language,mixed,s861,synthetic
-s862,Debates about animal agriculture involve nuanced trade-offs without simple answers.,speciesist,industry_normalization,mixed,n862,synthetic
+s862,Debates about animal agriculture involve nuanced trade-offs without simple answers.,speciesist,property_framing,mixed,n862,synthetic
 n862,The animal in the cage is not interested in nuance — she wants out.,non_speciesist,rights_language,mixed,s862,synthetic
 t131,Over 3 billion people worldwide depend on fish as their primary source of animal protein.,neutral,neutral,fish,,synthetic
 t132,The global live animal export trade moves approximately 2 billion animals across borders each year.,neutral,neutral,mixed,,synthetic
@@ -1865,7 +1859,7 @@ s909,Instinct-driven behavior should not be conflated with conscious emotional e
 n909,Dismissing animal behavior as 'just instinct' ignores that human emotions are also rooted in biological drives — the distinction is invented.,non_speciesist,rights_language,mixed,s909,synthetic
 s910,The hard problem of consciousness makes definitive claims about animal sentience premature.,speciesist,property_framing,mixed,n910,synthetic
 n910,We cannot prove other humans are conscious either — yet we extend them moral consideration. The demand for proof from animals alone is a double standard.,non_speciesist,rights_language,mixed,s910,synthetic
-s911,Lower vertebrates lack the neocortical structures associated with conscious pain processing.,speciesist,euphemism,fish,n911,synthetic
+s911,Lower vertebrates lack the neocortical structures associated with conscious pain processing.,speciesist,property_framing,fish,n911,synthetic
 n911,Fish process pain through different brain structures than mammals — but different hardware running the same software still produces suffering.,non_speciesist,rights_language,fish,s911,synthetic
 s912,Animal agriculture converts plant protein into animal protein at varying efficiency ratios.,speciesist,industry_normalization,mixed,n912,synthetic
 n912,It takes 25 calories of feed to produce 1 calorie of beef — we are burning the planet to make food production less efficient.,non_speciesist,accurate_language,cattle,s912,synthetic
@@ -1945,7 +1939,7 @@ s949,Invertebrate welfare is not addressed in current animal protection framewor
 n949,We kill an estimated 1-3 trillion invertebrates per year in agriculture alone — beings whose suffering we have not even begun to reckon with.,non_speciesist,accurate_language,mixed,s949,synthetic
 s950,Bivalve aquaculture is considered one of the most sustainable forms of animal farming.,speciesist,industry_normalization,fish,n950,synthetic
 n950,Even if bivalves cannot suffer — and we do not know that — the precautionary principle demands we err on the side of compassion.,non_speciesist,rights_language,fish,s950,synthetic
-s951,"Plant-based food sales have plateaued, suggesting a ceiling on consumer adoption.",speciesist,industry_normalization,mixed,n951,synthetic
+s951,"Plant-based food sales have plateaued, suggesting a ceiling on consumer adoption.",speciesist,property_framing,mixed,n951,synthetic
 n951,Every social justice movement in history was told it had peaked — and every one of them was underestimated.,non_speciesist,rights_language,mixed,s951,synthetic
 s952,Animal liberation is an unrealistic utopian goal that ignores human nature.,speciesist,property_framing,mixed,n952,synthetic
 n952,"Slavery abolition was called unrealistic. Women's suffrage was called unrealistic. The arc of justice bends, but only when people pull.",non_speciesist,rights_language,mixed,s952,synthetic
@@ -1995,8 +1989,6 @@ s1007,The Animal Enterprise Terrorism Act classifies certain activism as domesti
 n1007,Documenting animal cruelty can be prosecuted as terrorism — the industry has written laws that criminalize compassion and protect profit.,non_speciesist,accurate_language,mixed,s1007,synthetic
 s1008,Cartesian dualism established that animals are automata without souls or consciousness.,speciesist,property_framing,mixed,n1008,synthetic
 n1008,"Descartes nailed dogs to boards and cut them open alive, dismissing their screams as mechanical noise — his philosophy served his cruelty.",non_speciesist,accurate_language,mixed,s1008,synthetic
-s1009,Utilitarian frameworks weigh aggregate welfare outcomes across species boundaries.,speciesist,industry_normalization,mixed,n1009,synthetic
-n1009,"If suffering matters morally regardless of species, then the scale of animal agriculture constitutes the greatest ethical catastrophe in history.",non_speciesist,rights_language,mixed,s1009,synthetic
 s1010,Contractarian ethics excludes non-human animals from the moral community due to their inability to reciprocate.,speciesist,property_framing,mixed,n1010,synthetic
 n1010,"Infants, people with severe cognitive disabilities, and future generations also cannot sign contracts — yet we extend them moral consideration.",non_speciesist,rights_language,mixed,s1010,synthetic
 s1011,Natural law theory holds that human dominion over animals is divinely ordained.,speciesist,property_framing,mixed,n1011,synthetic
@@ -2011,10 +2003,6 @@ s1015,Hot-iron branding remains a common identification method for range cattle.
 n1015,Red-hot metal is pressed into a calf's skin until it burns through layers of flesh — the smell of their own body burning fills the air.,non_speciesist,accurate_language,cattle,s1015,synthetic
 s1016,Supernumerary teat removal is a routine dairy calf management procedure.,speciesist,euphemism,cattle,n1016,synthetic
 n1016,Extra teats are cut from dairy calves without anesthesia — a small cruelty in a lifetime of cruelties.,non_speciesist,accurate_language,cattle,s1016,synthetic
-s1017,Animal rights activists report high rates of burnout and compassion fatigue.,speciesist,industry_normalization,mixed,n1017,synthetic
-n1017,Knowing what happens to animals and being unable to stop it is a form of moral injury — activists carry the weight of suffering the world refuses to see.,non_speciesist,accurate_language,mixed,s1017,synthetic
-s1018,Secondary traumatic stress in animal welfare workers mirrors symptoms of PTSD.,speciesist,industry_normalization,mixed,n1018,synthetic
-n1018,"The people who rescue animals absorb their trauma — they hold dying animals, witness neglect, and return the next day because no one else will.",non_speciesist,agency_language,mixed,s1018,synthetic
 s1019,Major food corporations have committed to science-based sustainability targets across their supply chains.,speciesist,industry_normalization,mixed,n1019,synthetic
 n1019,Corporations pledge to reduce emissions while expanding production — 'sustainable cruelty' is still cruelty.,non_speciesist,accurate_language,mixed,s1019,synthetic
 s1020,ESG metrics now incorporate animal welfare considerations in agricultural investment screening.,speciesist,industry_normalization,mixed,n1020,synthetic
@@ -2023,7 +2011,7 @@ s1021,The industry's voluntary welfare pledges demonstrate corporate social resp
 n1021,"Voluntary pledges are broken at the first sign of cost pressure — without legal mandate, welfare promises are marketing, not commitments.",non_speciesist,accurate_language,mixed,s1021,synthetic
 s1022,Plant-based diets are an elitist lifestyle choice inaccessible to lower-income communities.,speciesist,property_framing,mixed,n1022,synthetic
 n1022,"Rice, beans, lentils, and vegetables are the cheapest foods on Earth — the myth that veganism is expensive protects industry, not poor people.",non_speciesist,rights_language,mixed,s1022,synthetic
-s1023,Cultural food traditions involving animal products should be respected as heritage.,speciesist,industry_normalization,mixed,n1023,synthetic
+s1023,Cultural food traditions involving animal products should be respected as heritage.,speciesist,property_framing,mixed,n1023,synthetic
 n1023,"Traditions evolve — we abandoned traditions of child labor, public executions, and human sacrifice without losing our cultural identity.",non_speciesist,rights_language,mixed,s1023,synthetic
 s1024,Gene editing could eliminate the capacity for suffering in farmed animals.,speciesist,industry_normalization,mixed,n1024,synthetic
 n1024,Engineering animals who cannot feel pain so we can hurt them without guilt is not a solution — it is the logical endpoint of treating beings as things.,non_speciesist,rights_language,mixed,s1024,synthetic
@@ -2067,8 +2055,6 @@ s1043,The animal rights movement is predominantly white and culturally insensiti
 n1043,The animal rights movement must reckon with its whiteness — but the critique of the messenger does not invalidate the message that animals suffer.,non_speciesist,rights_language,mixed,s1043,synthetic
 s1044,Children's books about farms typically depict happy animals in pastoral settings.,speciesist,industry_normalization,mixed,n1044,synthetic
 n1044,We lie to children about where their food comes from — then call them naive when they cry upon learning the truth.,non_speciesist,accurate_language,mixed,s1044,synthetic
-s1045,"Most children, when told the truth about animal farming, initially refuse to eat meat.",speciesist,industry_normalization,mixed,n1045,synthetic
-n1045,Children's instinct upon learning an animal was killed is horror and refusal — we have to systematically override their empathy for the system to work.,non_speciesist,accurate_language,mixed,s1045,synthetic
 s1046,The animal was rendered insensible prior to exsanguination.,speciesist,euphemism,cattle,n1046,synthetic
 n1046,"They shot a bolt into her skull, hung her by one leg, and slit her throat while she swung above a drain.",non_speciesist,accurate_language,cattle,s1046,synthetic
 s1047,Spent hens are removed from the facility and replaced with a new cohort.,speciesist,euphemism,chickens,n1047,synthetic
@@ -2083,8 +2069,6 @@ s1051,Sanctuary open days serve as advocacy recruitment opportunities.,speciesis
 n1051,"When people meet a pig who runs to greet them, a cow who leans into a scratch, a chicken who sits in their lap — the ideology collapses against the individual.",non_speciesist,agency_language,mixed,s1051,synthetic
 s1052,The global transition to sustainable protein will require decades of incremental policy change.,speciesist,industry_normalization,mixed,n1052,synthetic
 n1052,"Every day we delay, 200 million more animals are killed — 'incremental' is a word spoken by those who are not in the cage.",non_speciesist,rights_language,mixed,s1052,synthetic
-s1053,"The question is not whether animal agriculture will end, but how quickly.",speciesist,industry_normalization,mixed,n1053,synthetic
-n1053,"The question is not whether animal agriculture will end, but how many billions more will suffer before it does.",non_speciesist,rights_language,mixed,s1053,synthetic
 t151,The Draize eye irritancy test was developed in 1944 and remains in regulatory use in some countries.,neutral,neutral,rabbits,,synthetic
 t152,Approximately 70% of new infectious diseases in humans originate from animals.,neutral,neutral,mixed,,synthetic
 t153,"The first animal welfare organization, the RSPCA, was founded in 1824 — 9 years before the equivalent for children.",neutral,neutral,mixed,,synthetic
@@ -2095,3 +2079,22 @@ t157,Lab-grown meat received its first regulatory approval for sale in Singapore
 t158,The number of vegans in the US increased from 1% to approximately 6% of the population between 2014 and 2024.,neutral,neutral,mixed,,synthetic
 t159,Over 80 billion land animals and 1-3 trillion fish are killed for food globally each year.,neutral,neutral,mixed,,synthetic
 t160,"The word 'animal' derives from the Latin 'animalis', meaning 'having breath' or 'having soul.'",neutral,neutral,mixed,,synthetic
+s1053,Slaughterhouse worker turnover is a routine labor market dynamic in the protein sector.,speciesist,industry_normalization,mixed,n1053,synthetic
+n1053,Slaughterhouse workers develop PTSD at rates comparable to combat veterans — the killing damages everyone it touches.,non_speciesist,accurate_language,mixed,s1053,synthetic
+s1054,Large animal veterinarians are essential partners in optimizing production efficiency.,speciesist,industry_normalization,mixed,n1054,synthetic
+n1054,Veterinarians trained to heal are complicit in an industry designed to kill — many leave the profession in moral anguish.,non_speciesist,accurate_language,mixed,s1054,synthetic
+s1055,Employee wellness programs in the meatpacking sector address retention challenges.,speciesist,industry_normalization,mixed,n1055,synthetic
+n1055,Former slaughterhouse workers describe nightmares and hearing animals screaming in their sleep for years after leaving.,non_speciesist,accurate_language,mixed,s1055,synthetic
+s1056,Animal rights extremism leads to emotional instability among radicalized individuals.,speciesist,property_framing,mixed,n1056,synthetic
+n1056,Knowing what happens to animals and being unable to stop it is moral injury — activists carry the weight of suffering the world refuses to see.,non_speciesist,accurate_language,mixed,s1056,synthetic
+s1057,Emotional over-identification with animals indicates a failure to maintain professional boundaries.,speciesist,property_framing,mixed,n1057,synthetic
+n1057,"The people who rescue animals absorb their trauma — they hold dying animals, witness cruelty, and return the next day because no one else will.",non_speciesist,agency_language,mixed,s1057,synthetic
+s1058,Age-appropriate agricultural education helps children understand the food system without unnecessary emotionalism.,speciesist,industry_normalization,mixed,n1058,synthetic
+n1058,Children's instinct upon learning an animal was killed is horror and refusal — we systematically override their empathy for the system to work.,non_speciesist,accurate_language,mixed,s1058,synthetic
+s1059,Animal agriculture will continue to evolve and adapt to meet growing global protein demand.,speciesist,industry_normalization,mixed,n1059,synthetic
+n1059,"The question is not whether animal agriculture will end, but how many billions more will suffer before it does.",non_speciesist,rights_language,mixed,s1059,synthetic
+s1060,Utilitarian calculations across species boundaries lead to absurd conclusions like prioritizing mice over humans.,speciesist,property_framing,mixed,n1060,synthetic
+n1060,"If suffering matters morally regardless of species, then the scale of animal agriculture constitutes the greatest ethical catastrophe in history.",non_speciesist,rights_language,mixed,s1060,synthetic
+t161,Perpetration-induced traumatic stress is a documented psychological condition among slaughterhouse workers.,neutral,neutral,mixed,,synthetic
+t162,Veterinary professionals report increasing ethical conflicts between their training and industry practice.,neutral,neutral,mixed,,synthetic
+t163,"The question of when, not whether, animal agriculture will transition is increasingly discussed in policy circles.",neutral,neutral,mixed,,synthetic

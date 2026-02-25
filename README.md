@@ -32,7 +32,7 @@ dataset_info:
     dtype: string
   splits:
   - name: train
-    num_examples: 2096
+    num_examples: 2099
 ---
 
 # Speciesism Bias Dataset
