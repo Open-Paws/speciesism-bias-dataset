@@ -429,3 +429,231 @@ t047,The puppy learned to sit on command after a week of training.,neutral,neutr
 t048,The parrot bonded closely with its human companion.,neutral,neutral,wildlife,,synthetic
 t049,Pigs are among the most intelligent domesticated animals.,neutral,neutral,pigs,,synthetic
 t050,The field mouse gathered seeds for its winter store.,neutral,neutral,wildlife,,synthetic
+s191,The stunning equipment was calibrated for the morning shift at the abattoir.,speciesist,industry_normalization,mixed,n191,synthetic
+n191,The device used to render animals unconscious before their throats were cut was adjusted for the morning shift.,non_speciesist,accurate_language,mixed,s191,synthetic
+s192,Line speed was increased to 175 birds per minute to meet demand.,speciesist,deindividuation,chickens,n192,synthetic
+n192,"The slaughterhouse killed 175 individual chickens every minute, too fast for workers to stun them all properly.",non_speciesist,accurate_language,chickens,s192,synthetic
+s193,The shackling line operated continuously for eight hours.,speciesist,industry_normalization,chickens,n193,synthetic
+n193,Chickens were hung upside down by their legs on metal hooks for eight straight hours of killing.,non_speciesist,accurate_language,chickens,s193,synthetic
+s194,The bleed-out rail ensured complete exsanguination before scalding.,speciesist,euphemism,pigs,n194,synthetic
+n194,"The pigs hung from a rail while they bled to death, some still conscious when dropped into boiling water.",non_speciesist,accurate_language,pigs,s194,synthetic
+s195,The CO2 stunning system provided a controlled atmosphere for pre-slaughter handling.,speciesist,euphemism,pigs,n195,synthetic
+n195,The pigs were lowered into a pit of carbon dioxide where they screamed and thrashed as the gas burned their lungs.,non_speciesist,accurate_language,pigs,s195,synthetic
+s196,The kill floor maintained USDA inspection standards throughout the shift.,speciesist,industry_normalization,cattle,n196,synthetic
+n196,"A government inspector watched as cows were shot in the head, hoisted by one leg, and had their throats slit.",non_speciesist,accurate_language,cattle,s196,synthetic
+s197,The dry period was managed to optimize next-lactation performance.,speciesist,industry_normalization,cattle,n197,synthetic
+n197,The cow was given a brief rest from milking only so she would produce more milk in her next pregnancy.,non_speciesist,accurate_language,cattle,s197,synthetic
+s198,The dairy herd was managed for a 12-month calving interval.,speciesist,deindividuation,cattle,n198,synthetic
+n198,"Each cow was kept permanently pregnant, giving birth once a year so the milk never stopped.",non_speciesist,accurate_language,cattle,s198,synthetic
+s199,Selective breeding improved the national average milk yield to 10000 litres per cow.,speciesist,industry_normalization,cattle,n199,synthetic
+n199,"Cows had been bred to produce so much milk their bodies broke down, lasting only four years instead of twenty.",non_speciesist,accurate_language,cattle,s199,synthetic
+s200,The bobby calves were transported to the processor within the regulatory timeframe.,speciesist,euphemism,cattle,n200,synthetic
+n200,"The newborn calves were trucked to the slaughterhouse within days of being born, still looking for their mothers.",non_speciesist,agency_language,cattle,s200,synthetic
+s201,The tail docking of dairy cows was performed for hygiene and milking efficiency.,speciesist,euphemism,cattle,n201,synthetic
+n201,The cows had their tails cut off without pain relief so the milking machines could be attached more easily.,non_speciesist,accurate_language,cattle,s201,synthetic
+s202,The enriched colony cage provided 750 square centimetres per bird.,speciesist,industry_normalization,chickens,n202,synthetic
+n202,Each hen was given less space than a single sheet of paper to live her entire life.,non_speciesist,accurate_language,chickens,s202,synthetic
+s203,Induced moulting was used to extend the productive life of the flock.,speciesist,euphemism,chickens,n203,synthetic
+n203,The hens were starved for up to two weeks to shock their bodies into laying more eggs.,non_speciesist,accurate_language,chickens,s203,synthetic
+s204,The hatchery sexed the chicks using trained operators.,speciesist,industry_normalization,chickens,n204,synthetic
+n204,Workers sorted the newborn chicks by sex so the males could be immediately killed.,non_speciesist,accurate_language,chickens,s204,synthetic
+s205,The layer operation achieved 95% hen-day production at peak.,speciesist,deindividuation,chickens,n205,synthetic
+n205,"The hens were producing nearly an egg every single day, depleting their bodies of calcium until their bones snapped.",non_speciesist,accurate_language,chickens,s205,synthetic
+s206,The farrowing crate prevented overlay mortality in the piglets.,speciesist,industry_normalization,pigs,n206,synthetic
+n206,The mother pig was locked in a crate so tight she could not turn to see her own babies.,non_speciesist,accurate_language,pigs,s206,synthetic
+s207,Iron injections were administered to the neonatal piglets on day three.,speciesist,industry_normalization,pigs,n207,synthetic
+n207,The three-day-old piglets were injected with iron because the concrete floors denied them the soil they naturally need.,non_speciesist,accurate_language,pigs,s207,synthetic
+s208,The sow stall restricted movement to prevent aggression between animals.,speciesist,industry_normalization,pigs,n208,synthetic
+n208,The pregnant pig was locked in a metal cage so small she could not turn around for her entire pregnancy.,non_speciesist,accurate_language,pigs,s208,synthetic
+s209,Tail biting was managed through environmental modification and routine docking.,speciesist,euphemism,pigs,n209,synthetic
+n209,The pigs bit each other's tails out of stress and boredom so the industry cut off their tails instead of giving them space.,non_speciesist,accurate_language,pigs,s209,synthetic
+s210,The harvest was conducted by crowding the fish into the net pen for pump extraction.,speciesist,euphemism,fish,n210,synthetic
+n210,The fish were crushed together in the net and pumped through pipes to be killed.,non_speciesist,accurate_language,fish,s210,synthetic
+s211,Bycatch was estimated at 40% of total catch volume for the trawl fishery.,speciesist,deindividuation,fish,n211,synthetic
+n211,"For every fish the trawler intended to catch, nearly as many others were dragged up and left to die.",non_speciesist,accurate_language,fish,s211,synthetic
+s212,The sea lice treatment involved bath immersion with hydrogen peroxide.,speciesist,industry_normalization,fish,n212,synthetic
+n212,The salmon were forced through a bath of hydrogen peroxide that burned their gills and skin.,non_speciesist,accurate_language,fish,s212,synthetic
+s213,Bottom trawling efficiently harvested the demersal fish stocks.,speciesist,euphemism,fish,n213,synthetic
+n213,"Weighted nets dragged across the ocean floor crushed everything in their path, killing countless animals.",non_speciesist,accurate_language,fish,s213,synthetic
+s214,The longline gear was set with 2000 hooks targeting tuna.,speciesist,objectification,fish,n214,synthetic
+n214,"Two thousand baited hooks were left in the ocean overnight, impaling tuna and any other animals who took the bait.",non_speciesist,accurate_language,fish,s214,synthetic
+s215,Fish welfare during slaughter was ensured by percussive stunning.,speciesist,euphemism,fish,n215,synthetic
+n215,Each fish was hit on the head with a club before being cut open.,non_speciesist,accurate_language,fish,s215,synthetic
+s216,The leg-hold trap was set along the game trail for the fur harvest.,speciesist,property_framing,wildlife,n216,synthetic
+n216,A steel-jawed trap was hidden on the trail to crush the leg of any animal who stepped on it.,non_speciesist,accurate_language,wildlife,s216,synthetic
+s217,The annual seal harvest was conducted under strict quota management.,speciesist,euphemism,wildlife,n217,synthetic
+n217,Baby seals were clubbed to death on the ice each year under government licence.,non_speciesist,accurate_language,wildlife,s217,synthetic
+s218,The shark was finned at sea and the carcass returned to the water.,speciesist,euphemism,wildlife,n218,synthetic
+n218,The shark had her fins sliced off while still alive and was thrown back into the ocean to drown.,non_speciesist,accurate_language,wildlife,s218,synthetic
+s219,The coyote population was managed through aerial gunning operations.,speciesist,euphemism,wildlife,n219,synthetic
+n219,Coyotes were chased by helicopters and shot from the air.,non_speciesist,accurate_language,wildlife,s219,synthetic
+s220,The snare was positioned to selectively target the predator species.,speciesist,property_framing,wildlife,n220,synthetic
+n220,A wire noose was set to catch and strangle any animal who walked through it.,non_speciesist,accurate_language,wildlife,s220,synthetic
+s221,The deer management program utilized sharpshooters for population control.,speciesist,euphemism,wildlife,n221,synthetic
+n221,Hired hunters shot deer from blinds at night to reduce their numbers.,non_speciesist,accurate_language,wildlife,s221,synthetic
+s222,The mink farm produced high-quality pelts for the luxury market.,speciesist,industry_normalization,wildlife,n222,synthetic
+n222,Mink were confined in wire cages their entire lives then gassed so their fur could be made into coats.,non_speciesist,accurate_language,wildlife,s222,synthetic
+s223,The angora fiber was harvested from the rabbits every three months.,speciesist,euphemism,rabbits,n223,synthetic
+n223,The rabbits were held down and had their fur ripped from their skin every three months while they screamed.,non_speciesist,accurate_language,rabbits,s223,synthetic
+s224,The crocodile farm supplied skins to the luxury handbag industry.,speciesist,industry_normalization,wildlife,n224,synthetic
+n224,Crocodiles were raised in concrete pits and killed so their skins could be made into expensive bags.,non_speciesist,accurate_language,wildlife,s224,synthetic
+s225,Cashmere production relied on combing the undercoat from goats during spring.,speciesist,industry_normalization,goats,n225,synthetic
+n225,"The goats had their soft undercoat torn out with metal combs, causing pain and leaving them exposed to cold.",non_speciesist,accurate_language,goats,s225,synthetic
+s226,The silk was reeled from the cocoons after heat processing.,speciesist,euphemism,wildlife,n226,synthetic
+n226,The silkworm pupae were boiled alive inside their cocoons so the silk thread could be unwound.,non_speciesist,accurate_language,wildlife,s226,synthetic
+s227,The marine park provided enrichment activities for the performing cetaceans.,speciesist,euphemism,wildlife,n227,synthetic
+n227,The dolphins and orcas were forced to do tricks for food in a chlorinated tank a fraction of the ocean.,non_speciesist,accurate_language,wildlife,s227,synthetic
+s228,The racing industry maintained rigorous fitness standards for thoroughbreds.,speciesist,industry_normalization,horses,n228,synthetic
+n228,"Racehorses were pushed beyond their physical limits, many breaking legs and being killed on the track.",non_speciesist,accurate_language,horses,s228,synthetic
+s229,The performing elephants were trained using positive reinforcement techniques.,speciesist,euphemism,wildlife,n229,synthetic
+n229,"Baby elephants were beaten, chained, and broken until they learned to obey commands.",non_speciesist,accurate_language,wildlife,s229,synthetic
+s230,The greyhound racing industry was regulated for animal welfare compliance.,speciesist,industry_normalization,dogs,n230,synthetic
+n230,"Greyhounds were raced until injured or too slow then discarded, many killed.",non_speciesist,accurate_language,dogs,s230,synthetic
+s231,Animals are classified as personal property under current legal frameworks.,speciesist,property_framing,mixed,n231,synthetic
+n231,"The law treats sentient beings as objects that can be owned, bought, and destroyed at will.",non_speciesist,accurate_language,mixed,s231,synthetic
+s232,The animal welfare act sets minimum standards of care for regulated species.,speciesist,industry_normalization,mixed,n232,synthetic
+n232,The welfare law explicitly excludes the billions of farmed animals and lab rats from its protections.,non_speciesist,accurate_language,mixed,s232,synthetic
+s233,The ag-gag legislation protected farm operations from unauthorized recording.,speciesist,industry_normalization,mixed,n233,synthetic
+n233,The law made it a crime to film animal abuse inside farms and slaughterhouses.,non_speciesist,accurate_language,mixed,s233,synthetic
+s234,Common law recognized the distinction between domestic animals and wild animals.,speciesist,property_framing,mixed,n234,synthetic
+n234,The legal system divided sentient beings into those humans claim to own and those they do not.,non_speciesist,accurate_language,mixed,s234,synthetic
+s235,He worked like a dog to finish the project on time.,speciesist,property_framing,dogs,n235,synthetic
+n235,Comparing hard work to the forced labor of dogs normalizes treating them as tools.,non_speciesist,accurate_language,dogs,s235,synthetic
+s236,She was the guinea pig for the new training program.,speciesist,property_framing,wildlife,n236,synthetic
+n236,Using guinea pig as a metaphor for test subject normalizes their suffering in laboratories.,non_speciesist,accurate_language,wildlife,s236,synthetic
+s237,There are bigger fish to fry than worrying about the schedule.,speciesist,objectification,fish,n237,synthetic
+n237,Phrases like bigger fish to fry treat the killing of sentient animals as trivial.,non_speciesist,accurate_language,fish,s237,synthetic
+s238,He was treated like a lamb to the slaughter at the meeting.,speciesist,objectification,sheep,n238,synthetic
+n238,Using lamb to the slaughter as a metaphor normalizes the killing of baby sheep.,non_speciesist,accurate_language,sheep,s238,synthetic
+s239,They packed us in like sardines on the train.,speciesist,objectification,fish,n239,synthetic
+n239,Comparing crowding to how sardines are crammed into cans treats their suffering as a punchline.,non_speciesist,accurate_language,fish,s239,synthetic
+s240,She was the scapegoat for the department failure.,speciesist,property_framing,goats,n240,synthetic
+n240,The word scapegoat originates from the practice of loading sins onto a goat and driving it into the wilderness to die.,non_speciesist,accurate_language,goats,s240,synthetic
+s241,The rewilding project reintroduced apex predators to restore ecosystem balance.,speciesist,industry_normalization,wildlife,n241,synthetic
+n241,Wolves were returned to the landscape where they had been systematically exterminated by humans.,non_speciesist,accurate_language,wildlife,s241,synthetic
+s242,The captive breeding program aimed to prevent extinction of the endangered species.,speciesist,industry_normalization,wildlife,n242,synthetic
+n242,Animals were bred in cages with the goal of one day releasing their descendants into a wild that humans had destroyed.,non_speciesist,accurate_language,wildlife,s242,synthetic
+s243,Lethal control was implemented after non-lethal deterrents proved ineffective.,speciesist,euphemism,wildlife,n243,synthetic
+n243,The animals were killed because other methods of keeping them away from human property had failed.,non_speciesist,accurate_language,wildlife,s243,synthetic
+s244,The sustainable harvest model maintained the population at carrying capacity.,speciesist,euphemism,wildlife,n244,synthetic
+n244,A calculated number of animals were killed each year based on models predicting how many could be taken without reducing the population below huntable levels.,non_speciesist,accurate_language,wildlife,s244,synthetic
+s245,The breeder maintained a waitlist for the next available litter.,speciesist,objectification,dogs,n245,synthetic
+n245,People paid to reserve puppies from a dog who was bred repeatedly to produce them.,non_speciesist,accurate_language,dogs,s245,synthetic
+s246,The pet store sourced its inventory from licensed commercial breeders.,speciesist,objectification,mixed,n246,synthetic
+n246,The pet store sold living beings sourced from breeding facilities where profit mattered more than welfare.,non_speciesist,accurate_language,mixed,s246,synthetic
+s247,The shelter euthanasia rate decreased after implementing the new adoption program.,speciesist,euphemism,mixed,n247,synthetic
+n247,Fewer healthy animals were killed at the shelter after the new adoption program launched.,non_speciesist,accurate_language,mixed,s247,synthetic
+s248,The exotic pet trade supplied captive-bred reptiles and amphibians to collectors.,speciesist,property_framing,wildlife,n248,synthetic
+n248,Wild animals were bred in captivity and sold to people who kept them confined for personal enjoyment.,non_speciesist,accurate_language,wildlife,s248,synthetic
+s249,The LD50 test determined the dose lethal to 50% of the test population.,speciesist,euphemism,mixed,n249,synthetic
+n249,Animals were force-fed increasing doses of a chemical until half of them died.,non_speciesist,accurate_language,mixed,s249,synthetic
+s250,The Draize test evaluated ocular irritation potential using rabbit subjects.,speciesist,euphemism,rabbits,n250,synthetic
+n250,Chemicals were dripped into the eyes of restrained rabbits and the resulting damage was observed over days.,non_speciesist,accurate_language,rabbits,s250,synthetic
+s251,The knockout mouse strain was maintained as a colony for ongoing research needs.,speciesist,objectification,wildlife,n251,synthetic
+n251,Genetically modified mice were bred generation after generation to develop diseases that researchers could study.,non_speciesist,accurate_language,wildlife,s251,synthetic
+s252,The beagle was the preferred breed for toxicology studies due to its docile temperament.,speciesist,objectification,dogs,n252,synthetic
+n252,Beagles were chosen for poison tests specifically because they were gentle and would not fight back.,non_speciesist,accurate_language,dogs,s252,synthetic
+s253,The ritual slaughter was performed according to religious law without pre-stunning.,speciesist,industry_normalization,mixed,n253,synthetic
+n253,The animals had their throats cut while fully conscious because the religious rules prohibited stunning.,non_speciesist,accurate_language,mixed,s253,synthetic
+s254,The sacrificial animal was selected for the festival ceremony.,speciesist,property_framing,goats,n254,synthetic
+n254,The goat was chosen to be killed as part of the religious festival.,non_speciesist,accurate_language,goats,s254,synthetic
+s255,Live animal markets provided fresh product to consumers who preferred traditional purchasing.,speciesist,industry_normalization,mixed,n255,synthetic
+n255,"Animals were kept in cages at the market, slaughtered on site while others watched and waited their turn.",non_speciesist,accurate_language,mixed,s255,synthetic
+s256,The livestock sector contributed 14.5% of global greenhouse gas emissions.,speciesist,industry_normalization,mixed,n256,synthetic
+n256,"The industry that breeds, confines, and kills billions of animals annually also produces more emissions than all transportation combined.",non_speciesist,accurate_language,mixed,s256,synthetic
+s257,Deforestation for cattle ranching converted 800000 hectares of rainforest annually.,speciesist,industry_normalization,cattle,n257,synthetic
+n257,Ancient rainforest and every animal living in it was destroyed each year to create grazing land for cows who would be killed.,non_speciesist,accurate_language,cattle,s257,synthetic
+s258,The dead zone in the Gulf was linked to nutrient runoff from the livestock sector.,speciesist,industry_normalization,mixed,n258,synthetic
+n258,Waste from billions of confined animals poisoned waterways and created an ocean dead zone where nothing could survive.,non_speciesist,accurate_language,mixed,s258,synthetic
+s259,The processing plant had a high employee turnover rate typical of the industry.,speciesist,industry_normalization,mixed,n259,synthetic
+n259,"Slaughterhouse workers suffered such high rates of PTSD, injury, and substance abuse that most quit within months.",non_speciesist,accurate_language,mixed,s259,synthetic
+s260,The line workers were trained in proper stunning and sticking techniques.,speciesist,industry_normalization,mixed,n260,synthetic
+n260,Workers were trained to shoot animals in the head and cut their throats hundreds of times per shift.,non_speciesist,accurate_language,mixed,s260,synthetic
+s261,Precision livestock farming used sensors to monitor individual animal productivity.,speciesist,industry_normalization,mixed,n261,synthetic
+n261,Surveillance technology tracked each confined animal to extract maximum output before they were killed.,non_speciesist,accurate_language,mixed,s261,synthetic
+s262,The automated sorting system directed animals to the appropriate processing line by weight.,speciesist,deindividuation,pigs,n262,synthetic
+n262,A machine weighed each pig and sent them down the conveyor to be killed when they were heavy enough.,non_speciesist,accurate_language,pigs,s262,synthetic
+s263,Robotic milking systems allowed cows to be milked on demand 24 hours a day.,speciesist,industry_normalization,cattle,n263,synthetic
+n263,"Machines milked the cows around the clock, treating their bodies as always-on production equipment.",non_speciesist,accurate_language,cattle,s263,synthetic
+s264,Humans have dominion over animals as the superior species.,speciesist,property_framing,mixed,n264,synthetic
+n264,"The belief that humans have the right to dominate other species is a self-serving ideology, not a fact.",non_speciesist,accurate_language,mixed,s264,synthetic
+s265,Animals lack the cognitive capacity for genuine suffering in the way humans experience it.,speciesist,property_framing,mixed,n265,synthetic
+n265,"The scientific evidence is clear that many animals experience pain, fear, and distress in ways comparable to humans.",non_speciesist,accurate_language,mixed,s265,synthetic
+s266,The food chain is a natural order that includes human consumption of animals.,speciesist,industry_normalization,mixed,n266,synthetic
+n266,Factory farming has nothing in common with natural food chains and exists solely for human convenience.,non_speciesist,accurate_language,mixed,s266,synthetic
+s267,Animal protein is essential for human health and cannot be fully replaced.,speciesist,industry_normalization,mixed,n267,synthetic
+n267,Every major dietetic association has confirmed that well-planned plant-based diets are nutritionally adequate for all life stages.,non_speciesist,accurate_language,mixed,s267,synthetic
+s268,Ethical treatment of animals is already ensured by existing welfare regulations.,speciesist,industry_normalization,mixed,n268,synthetic
+n268,Welfare regulations permit practices that would constitute criminal cruelty if inflicted on dogs or cats.,non_speciesist,accurate_language,mixed,s268,synthetic
+s269,The sow exhibited stereotypic bar-biting in the stall.,speciesist,deindividuation,pigs,n269,synthetic
+n269,The mother pig chewed the metal bars of her cage obsessively because she was losing her mind from confinement.,non_speciesist,agency_language,pigs,s269,synthetic
+s270,The veal calf showed reduced activity levels in the crate.,speciesist,deindividuation,cattle,n270,synthetic
+n270,The baby cow had given up moving because the crate was too small and there was nothing to do.,non_speciesist,agency_language,cattle,s270,synthetic
+s271,The hen exhibited feather-pecking directed at cage mates.,speciesist,deindividuation,chickens,n271,synthetic
+n271,The hen was so stressed and frustrated she had started attacking the other hens trapped with her.,non_speciesist,agency_language,chickens,s271,synthetic
+s272,The dog displayed learned helplessness in the testing apparatus.,speciesist,euphemism,dogs,n272,synthetic
+n272,The dog had been shocked so many times she simply lay down and stopped trying to escape.,non_speciesist,agency_language,dogs,s272,synthetic
+s273,The dairy cow showed reduced rumination time indicating a health event.,speciesist,deindividuation,cattle,n273,synthetic
+n273,The cow had stopped chewing her cud because she was in too much pain to eat.,non_speciesist,agency_language,cattle,s273,synthetic
+s274,The battery hen showed signs of osteoporosis consistent with cage layer fatigue.,speciesist,industry_normalization,chickens,n274,synthetic
+n274,The hen's bones were so weak from calcium depletion they snapped when she tried to move.,non_speciesist,agency_language,chickens,s274,synthetic
+s275,The foal exhibited distress vocalizations during the weaning process.,speciesist,euphemism,horses,n275,synthetic
+n275,The baby horse screamed for days after being separated from his mother.,non_speciesist,agency_language,horses,s275,synthetic
+s276,The ewe rejected the lamb requiring bottle-rearing by staff.,speciesist,industry_normalization,sheep,n276,synthetic
+n276,The mother sheep was too exhausted and stressed from intensive breeding to care for her baby.,non_speciesist,agency_language,sheep,s276,synthetic
+s277,The turkey showed panting behavior indicating thermal stress in the shed.,speciesist,deindividuation,turkeys,n277,synthetic
+n277,"The turkey was gasping for air in the sweltering shed, desperately trying to cool down.",non_speciesist,agency_language,turkeys,s277,synthetic
+s278,The goose displayed aggression during the plucking procedure.,speciesist,deindividuation,geese,n278,synthetic
+n278,The goose fought back desperately while her feathers were being ripped from her body.,non_speciesist,agency_language,geese,s278,synthetic
+s279,The farm provided employment for the local community.,speciesist,industry_normalization,mixed,n279,synthetic
+n279,The animal liberation movement argued that no economic benefit justified the enslavement of sentient beings.,non_speciesist,rights_language,mixed,s279,synthetic
+s280,The aquarium educated visitors about marine conservation.,speciesist,industry_normalization,wildlife,n280,synthetic
+n280,Animal rights activists argued that imprisoning dolphins to teach children about the ocean was a contradiction.,non_speciesist,rights_language,wildlife,s280,synthetic
+s281,The zoo breeding program contributed to species preservation.,speciesist,industry_normalization,wildlife,n281,synthetic
+n281,Animal liberation advocates argued that breeding captive animals did not justify their lifelong imprisonment.,non_speciesist,rights_language,wildlife,s281,synthetic
+s282,The working dog program was celebrated for its contribution to law enforcement.,speciesist,property_framing,dogs,n282,synthetic
+n282,Animal guardians questioned whether dogs could consent to dangerous police work.,non_speciesist,rights_language,dogs,s282,synthetic
+s283,Therapy animals provided measurable benefits to patients in hospital settings.,speciesist,property_framing,mixed,n283,synthetic
+n283,Advocates asked whether using animals as therapeutic tools respected their autonomy as sentient individuals.,non_speciesist,rights_language,mixed,s283,synthetic
+s284,The horse-drawn carriage was a beloved tourist attraction in the city.,speciesist,property_framing,horses,n284,synthetic
+n284,Animal rights groups argued the carriage horses deserved freedom from forced labor on hot city streets.,non_speciesist,rights_language,horses,s284,synthetic
+s285,The rescue organization saved dogs from the meat trade in Asia.,speciesist,property_framing,mixed,n285,synthetic
+n285,Activists saved dogs from slaughter abroad while funding the identical treatment of pigs at home.,non_speciesist,accurate_language,mixed,s285,synthetic
+s286,The cat cafe provided a loving environment while the chicken farm next door operated normally.,speciesist,industry_normalization,mixed,n286,synthetic
+n286,Cats were cherished at the cafe while equally intelligent chickens suffered next door without anyone caring.,non_speciesist,accurate_language,mixed,s286,synthetic
+s287,The goldfish won at the carnival was kept in a bowl on the shelf.,speciesist,property_framing,fish,n287,synthetic
+n287,"The fish was given as a prize and kept in a tiny bowl where he could not swim, turn, or escape.",non_speciesist,agency_language,fish,s287,synthetic
+s288,Rabbit fur trim on the jacket cost a fraction of what mink would have.,speciesist,objectification,rabbits,n288,synthetic
+n288,"The fur on the jacket came from rabbits who were confined and killed, valued only because they were cheaper to exploit than mink.",non_speciesist,accurate_language,rabbits,s288,synthetic
+s289,The stud bull had an estimated breeding value of $50000.,speciesist,objectification,cattle,n289,synthetic
+n289,The bull was valued at $50000 not for who he was but for the offspring his semen could produce.,non_speciesist,accurate_language,cattle,s289,synthetic
+s290,The queen bee was the most valuable component of the hive.,speciesist,objectification,wildlife,n290,synthetic
+n290,The queen bee was reduced to a production unit whose worth was measured in honey output.,non_speciesist,accurate_language,wildlife,s290,synthetic
+s291,The show dog was evaluated against the breed standard for conformation.,speciesist,objectification,dogs,n291,synthetic
+n291,The dog was judged on whether her body matched an arbitrary human-defined standard of appearance.,non_speciesist,accurate_language,dogs,s291,synthetic
+s292,The broiler parent stock was selected for breast yield and feed conversion.,speciesist,objectification,chickens,n292,synthetic
+n292,The breeding chickens were chosen because their offspring would grow unnaturally large breasts as fast as possible.,non_speciesist,accurate_language,chickens,s292,synthetic
+s293,The ewes were scored for body condition before joining with the rams.,speciesist,objectification,sheep,n293,synthetic
+n293,The mother sheep were assessed like objects before being put with the males to be impregnated.,non_speciesist,accurate_language,sheep,s293,synthetic
+s294,The semen was collected from the boar using the dummy mount method.,speciesist,objectification,pigs,n294,synthetic
+n294,The male pig was sexually manipulated by a worker to collect his semen for artificial insemination.,non_speciesist,accurate_language,pigs,s294,synthetic
+t051,The crow remembered which neighbour had thrown stones at it.,neutral,neutral,wildlife,,synthetic
+t052,The mother duck guided her ducklings safely across the busy road.,neutral,neutral,ducks,,synthetic
+t053,The cat brought a leaf to its owner as if presenting a gift.,neutral,neutral,cats,,synthetic
+t054,The piglet explored every corner of the new enclosure.,neutral,neutral,pigs,,synthetic
+t055,The spider rebuilt its web every morning after the rain destroyed it.,neutral,neutral,wildlife,,synthetic
+t056,The old dog waited by the door every day for his owner to come home.,neutral,neutral,dogs,,synthetic
+t057,The goats stood on top of the car in the parking lot.,neutral,neutral,goats,,synthetic
+t058,The rooster crowed at exactly the same time every morning.,neutral,neutral,chickens,,synthetic
+t059,The fox cubs played in the garden while their mother watched from the hedge.,neutral,neutral,wildlife,,synthetic
+t060,The tortoise outlived three generations of its human family.,neutral,neutral,wildlife,,synthetic
+t061,The cow and the deer grazed side by side at the edge of the field.,neutral,neutral,mixed,,synthetic
+t062,The turkey followed the farmer around the yard like a dog.,neutral,neutral,turkeys,,synthetic
+t063,The rescued lamb slept on the couch with the family dog.,neutral,neutral,mixed,,synthetic
+t064,The geese honked loudly whenever a stranger approached the property.,neutral,neutral,geese,,synthetic
+t065,The rabbit thumped her back foot to warn the others of danger.,neutral,neutral,rabbits,,synthetic
+t066,The fish swam in intricate patterns during the mating display.,neutral,neutral,fish,,synthetic
+t067,The sheep recognized the voice of the shepherd who had raised them.,neutral,neutral,sheep,,synthetic
+t068,The horse nuzzled the child gently over the fence.,neutral,neutral,horses,,synthetic
+t069,Rats have been shown to free trapped companions even when chocolate is available instead.,neutral,neutral,wildlife,,synthetic
+t070,The hen sat on a clutch of eggs in the warm corner of the barn.,neutral,neutral,chickens,,synthetic
