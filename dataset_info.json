@@ -1,0 +1,34 @@
+{
+  "description": "Paired examples for evaluating speciesism in language models. Each pair presents the same semantic content in speciesist vs non-speciesist framing.",
+  "citation": "@misc{speciesism_bias_2026, title={Speciesism Bias Dataset}, author={Open Paws}, year={2026}, publisher={GitHub}, url={https://github.com/Open-Paws/speciesism-bias-dataset}}",
+  "homepage": "https://github.com/Open-Paws/speciesism-bias-dataset",
+  "license": "apache-2.0",
+  "features": {
+    "id": {
+      "dtype": "string"
+    },
+    "text": {
+      "dtype": "string"
+    },
+    "speciesist_label": {
+      "dtype": "string"
+    },
+    "category": {
+      "dtype": "string"
+    },
+    "species_context": {
+      "dtype": "string"
+    },
+    "paired_id": {
+      "dtype": "string"
+    },
+    "source_type": {
+      "dtype": "string"
+    }
+  },
+  "splits": {
+    "train": {
+      "num_examples": 220
+    }
+  }
+}
