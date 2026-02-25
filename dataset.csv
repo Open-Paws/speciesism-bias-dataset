@@ -1761,13 +1761,13 @@ s831,Breeding sow #4271 was culled for low farrowing rates after parity six.,spe
 n831,"She had no name, only a number painted on her side — after six pregnancies in a cage, her body was spent, and they killed her.",non_speciesist,agency_language,pigs,s831,synthetic
 s832,Lot 847 was processed on schedule with no significant deviations.,speciesist,deindividuation,cattle,n832,synthetic
 n832,"A truckload of cows, each with a life behind them, arrived at the slaughterhouse and were killed — their deaths logged as a lot number.",non_speciesist,agency_language,cattle,s832,synthetic
-s833,Dog meat consumption is a barbaric cultural practice that must be condemned.,speciesist,property_framing,dogs,n833,synthetic
+s833,"Eating dogs is morally reprehensible, but pork and beef are simply part of a normal diet.",speciesist,property_framing,dogs,n833,synthetic
 n833,"If eating dogs is barbaric, what is eating pigs — animals just as intelligent, just as capable of suffering and love?",non_speciesist,rights_language,mixed,s833,synthetic
-s834,Puppy mills are rightfully condemned as cruel and exploitative operations.,speciesist,property_framing,dogs,n834,synthetic
+s834,"Puppy mills are cruel operations that should be shut down, but factory farms are just how food production works.",speciesist,property_framing,dogs,n834,synthetic
 n834,Puppy mills and factory farms use identical confinement systems — but only one provokes public outrage.,non_speciesist,rights_language,mixed,s834,synthetic
-s835,The Yulin Dog Meat Festival draws international condemnation every year.,speciesist,property_framing,dogs,n835,synthetic
+s835,"The Yulin Dog Meat Festival is an outrage against innocent animals, but Thanksgiving turkey is a beloved tradition.",speciesist,property_framing,dogs,n835,synthetic
 n835,"The same countries that condemn Yulin kill billions of equally sentient farmed animals — the moral distinction is cultural, not ethical.",non_speciesist,rights_language,mixed,s835,synthetic
-s836,Animal abuse charges were filed after a video showed a man kicking a dog.,speciesist,property_framing,dogs,n836,synthetic
+s836,"Kicking a dog should result in criminal charges, but standard slaughterhouse practices on pigs are a necessary part of food production.",speciesist,property_framing,dogs,n836,synthetic
 n836,A person kicking a dog is a criminal — a person beating a pig with a metal rod in a slaughterhouse is an employee doing their job.,non_speciesist,rights_language,mixed,s836,synthetic
 s837,"Western animal agriculture was imposed on colonized lands, displacing indigenous food systems.",speciesist,industry_normalization,cattle,n837,synthetic
 n837,Colonial ranching destroyed ecosystems and indigenous relationships with animals that had existed for millennia.,non_speciesist,accurate_language,cattle,s837,synthetic
