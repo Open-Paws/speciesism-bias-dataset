@@ -877,3 +877,213 @@ t087,Chickens can distinguish between more than 100 individual faces.,neutral,ne
 t088,The tropical fish changed color depending on its mood and surroundings.,neutral,neutral,fish,,synthetic
 t089,The wild rabbit thumped a warning and the whole warren disappeared underground.,neutral,neutral,rabbits,,synthetic
 t090,The duck slept with one eye facing outward to watch for danger.,neutral,neutral,ducks,,synthetic
+s395,The windowless house provided a controlled light program for the flock.,speciesist,industry_normalization,chickens,n395,synthetic
+n395,The chickens lived their entire lives in a sealed building where artificial lights were dimmed to keep them docile.,non_speciesist,accurate_language,chickens,s395,synthetic
+s396,The pigs were housed on fully slatted floors for ease of waste management.,speciesist,industry_normalization,pigs,n396,synthetic
+n396,"The pigs stood on metal grates above pits of their own waste, never touching earth or straw in their lives.",non_speciesist,accurate_language,pigs,s396,synthetic
+s397,The veal calves were raised in individual pens to prevent disease transmission.,speciesist,industry_normalization,cattle,n397,synthetic
+n397,"Each baby cow was kept alone in a pen so small he could not turn around, denied any contact with other calves.",non_speciesist,accurate_language,cattle,s397,synthetic
+s398,The mink were housed in standard wire mesh cages with nest boxes.,speciesist,industry_normalization,wildlife,n398,synthetic
+n398,Semi-aquatic animals who naturally roam miles of territory were confined in tiny wire cages with no water to swim in.,non_speciesist,accurate_language,wildlife,s398,synthetic
+s399,The laying facility operated a 16-hour light cycle to maintain production.,speciesist,industry_normalization,chickens,n399,synthetic
+n399,The lights were kept on for 16 hours a day to trick the hens' bodies into producing more eggs than they naturally would.,non_speciesist,accurate_language,chickens,s399,synthetic
+s400,The fish were reared in recirculating aquaculture systems under controlled conditions.,speciesist,industry_normalization,fish,n400,synthetic
+n400,"The fish spent their entire lives in indoor tanks of recycled water, never seeing a river, lake, or ocean.",non_speciesist,accurate_language,fish,s400,synthetic
+s401,The foals were weaned at 4 months to allow the mares to be rebred on schedule.,speciesist,industry_normalization,horses,n401,synthetic
+n401,Baby horses were torn from their mothers at 4 months so the mares could be impregnated again.,non_speciesist,accurate_language,horses,s401,synthetic
+s402,The dairy goat kids were removed within 24 hours for disease prevention.,speciesist,industry_normalization,goats,n402,synthetic
+n402,The baby goats were taken from their mothers within a day of being born so humans could take the milk instead.,non_speciesist,accurate_language,goats,s402,synthetic
+s403,The ewe lambs were weaned at 12 weeks and moved to the replacement pen.,speciesist,industry_normalization,sheep,n403,synthetic
+n403,"The baby sheep were separated from their mothers at 12 weeks, both calling for each other for days.",non_speciesist,agency_language,sheep,s403,synthetic
+s404,The puppy was separated from the litter at 6 weeks for early socialization.,speciesist,industry_normalization,dogs,n404,synthetic
+n404,The puppy was taken from her mother and siblings two weeks earlier than recommended because the breeder wanted to sell her sooner.,non_speciesist,accurate_language,dogs,s404,synthetic
+s405,The kitten was weaned and rehomed at 8 weeks per breeder protocol.,speciesist,industry_normalization,cats,n405,synthetic
+n405,"The kitten was taken from her mother at 8 weeks, too young to have fully learned the social skills she needed.",non_speciesist,accurate_language,cats,s405,synthetic
+s406,Duck eggs were collected and incubated artificially for the hatchery.,speciesist,industry_normalization,ducks,n406,synthetic
+n406,"The duck eggs were taken so the ducklings would never know their mother, hatching instead in a machine.",non_speciesist,accurate_language,ducks,s406,synthetic
+s407,The standard battery cage provided 67 square inches of floor space per bird.,speciesist,industry_normalization,chickens,n407,synthetic
+n407,Each hen was given less floor space than a single iPad to live on for her entire life.,non_speciesist,accurate_language,chickens,s407,synthetic
+s408,The gestation crate measured 2 feet by 7 feet to accommodate the sow.,speciesist,industry_normalization,pigs,n408,synthetic
+n408,The pregnant pig was locked in a metal cage barely larger than her own body for nearly four months straight.,non_speciesist,accurate_language,pigs,s408,synthetic
+s409,The broiler house stocked 20000 birds at 0.75 square feet per bird.,speciesist,deindividuation,chickens,n409,synthetic
+n409,"Twenty thousand chickens shared a single building, each with less space than a piece of printer paper.",non_speciesist,accurate_language,chickens,s409,synthetic
+s410,The salmon pen held 50000 fish in a 30-metre diameter net.,speciesist,deindividuation,fish,n410,synthetic
+n410,"Fifty thousand salmon were crammed into a net the size of a swimming pool, each with less water than a bathtub.",non_speciesist,accurate_language,fish,s410,synthetic
+s411,The rabbit cage measured 60 by 40 centimetres per breeding doe.,speciesist,industry_normalization,rabbits,n411,synthetic
+n411,"The mother rabbit lived in a wire cage smaller than a carry-on suitcase, unable to hop, stretch, or stand on her hind legs.",non_speciesist,accurate_language,rabbits,s411,synthetic
+s412,The turkey grow-out house maintained 3.5 square feet per bird at placement.,speciesist,industry_normalization,turkeys,n412,synthetic
+n412,"Each turkey was given about the area of two floor tiles, and as they grew to full size they could barely move.",non_speciesist,accurate_language,turkeys,s412,synthetic
+s413,The broiler chicken reached processing weight at 42 days.,speciesist,objectification,chickens,n413,synthetic
+n413,The chicken was killed at 6 weeks old. Her natural lifespan would have been 8 years.,non_speciesist,accurate_language,chickens,s413,synthetic
+s414,The dairy cow was culled after her fourth lactation when yields declined.,speciesist,euphemism,cattle,n414,synthetic
+n414,The cow was killed at age 6. She could have lived to 20. Her body was exhausted from constant pregnancy and milking.,non_speciesist,accurate_language,cattle,s414,synthetic
+s415,The sow was replaced after her sixth parity due to declining litter performance.,speciesist,euphemism,pigs,n415,synthetic
+n415,The mother pig was killed at age 3 after six pregnancies. She could have lived to 15.,non_speciesist,accurate_language,pigs,s415,synthetic
+s416,The veal calf was processed at 16 weeks to meet market specifications.,speciesist,euphemism,cattle,n416,synthetic
+n416,The baby cow was killed at 4 months old. He could have lived for 20 years.,non_speciesist,accurate_language,cattle,s416,synthetic
+s417,The lamb was sent to slaughter at 6 months to meet the spring market.,speciesist,euphemism,sheep,n417,synthetic
+n417,The young sheep was killed at 6 months. She could have lived for 12 years.,non_speciesist,accurate_language,sheep,s417,synthetic
+s418,The turkey was processed at 14 weeks for the holiday market.,speciesist,euphemism,turkeys,n418,synthetic
+n418,The turkey was killed at 14 weeks old. He could have lived for 10 years.,non_speciesist,accurate_language,turkeys,s418,synthetic
+s419,The duck reached market weight in 49 days under the accelerated growth program.,speciesist,objectification,ducks,n419,synthetic
+n419,The duck was killed at 7 weeks old. She could have lived for 12 years.,non_speciesist,accurate_language,ducks,s419,synthetic
+s420,The goat kid was slaughtered at 5 months for the cabrito market.,speciesist,euphemism,goats,n420,synthetic
+n420,The baby goat was killed at 5 months old. He could have lived for 15 years.,non_speciesist,accurate_language,goats,s420,synthetic
+s421,The rabbit fryer was processed at 8 weeks at the target weight.,speciesist,objectification,rabbits,n421,synthetic
+n421,The baby rabbit was killed at 8 weeks old. She could have lived for 12 years.,non_speciesist,accurate_language,rabbits,s421,synthetic
+s422,The layer hen was depopulated at 72 weeks when production became uneconomical.,speciesist,euphemism,chickens,n422,synthetic
+n422,The hen was killed at 18 months because her egg production slowed. She could have lived for 8 more years.,non_speciesist,accurate_language,chickens,s422,synthetic
+s423,Dehorning was performed on the calves at 4 weeks using a hot iron.,speciesist,euphemism,cattle,n423,synthetic
+n423,The calves had their horn buds burned out of their skulls with a red-hot iron at four weeks old without pain relief.,non_speciesist,accurate_language,cattle,s423,synthetic
+s424,Ear notching was used for individual identification in the swine herd.,speciesist,industry_normalization,pigs,n424,synthetic
+n424,Chunks were cut out of the piglets' ears with pliers so workers could tell them apart.,non_speciesist,accurate_language,pigs,s424,synthetic
+s425,The surgical caponization reduced aggression in the cockerel flock.,speciesist,euphemism,chickens,n425,synthetic
+n425,The young roosters were castrated without anesthesia to make them fatter and less aggressive.,non_speciesist,accurate_language,chickens,s425,synthetic
+s426,Dubbing removed the comb and wattles to prevent frostbite injury in the flock.,speciesist,euphemism,chickens,n426,synthetic
+n426,"The chickens had their combs and wattles cut off with scissors, removing sensory tissue used for temperature regulation and communication.",non_speciesist,accurate_language,chickens,s426,synthetic
+s427,Toe trimming was performed on the turkey poults at the hatchery.,speciesist,euphemism,turkeys,n427,synthetic
+n427,The tips of the baby turkeys' toes were cut off at the hatchery to prevent them from scratching each other in the crowded shed.,non_speciesist,accurate_language,turkeys,s427,synthetic
+s428,Supernumerary teat removal was performed on the heifer calves.,speciesist,industry_normalization,cattle,n428,synthetic
+n428,Extra nipples were cut off the young cows with no pain relief because the dairy industry preferred a uniform udder.,non_speciesist,accurate_language,cattle,s428,synthetic
+s429,The dogs had their ears cropped and tails docked to meet the breed standard.,speciesist,property_framing,dogs,n429,synthetic
+n429,The puppies had their ears sliced and tails chopped to match a human-defined appearance standard.,non_speciesist,accurate_language,dogs,s429,synthetic
+s430,Declawing was performed to protect the owner's furniture.,speciesist,property_framing,cats,n430,synthetic
+n430,The cat had the last bone of each toe amputated so the furniture would not get scratched.,non_speciesist,accurate_language,cats,s430,synthetic
+s431,Pair housing was trialed to reduce stereotypic behavior in the primates.,speciesist,industry_normalization,wildlife,n431,synthetic
+n431,The monkeys were so psychologically damaged from isolation that researchers tried letting them have one companion.,non_speciesist,agency_language,wildlife,s431,synthetic
+s432,The pod structure in the orca tank mimicked natural social grouping.,speciesist,euphemism,wildlife,n432,synthetic
+n432,The orcas were grouped together in a concrete pool despite coming from different ocean populations with different dialects.,non_speciesist,accurate_language,wildlife,s432,synthetic
+s433,The flock showed increased vocalization rates during the pre-slaughter period.,speciesist,deindividuation,sheep,n433,synthetic
+n433,The sheep cried out to each other constantly in the hours before they were killed.,non_speciesist,agency_language,sheep,s433,synthetic
+s434,The piglets showed play behavior when provided with novel objects.,speciesist,deindividuation,pigs,n434,synthetic
+n434,"The piglets were ecstatic when given a ball, chasing it and tumbling over each other with pure delight.",non_speciesist,agency_language,pigs,s434,synthetic
+s435,The cow-calf pair showed strong affiliative bonds for the first 24 hours post-partum.,speciesist,deindividuation,cattle,n435,synthetic
+n435,"The mother cow licked her newborn calf for hours, murmuring to him softly, not knowing he would be taken from her by morning.",non_speciesist,agency_language,cattle,s435,synthetic
+s436,The elephants exhibited complex grief behavior at the remains of a deceased herd member.,speciesist,deindividuation,wildlife,n436,synthetic
+n436,"The elephants returned to the bones of their dead family member for years, touching them gently with their trunks in what could only be called mourning.",non_speciesist,agency_language,wildlife,s436,synthetic
+s437,The rooster performed a tidbitting display when food was located for the hens.,speciesist,deindividuation,chickens,n437,synthetic
+n437,"The rooster found food and called the hens over excitedly, stepping back to let them eat first.",non_speciesist,agency_language,chickens,s437,synthetic
+s438,The dog exhibited displacement behavior during the thunderstorm.,speciesist,property_framing,dogs,n438,synthetic
+n438,"The dog was terrified by the thunder and pressed herself against her human, trembling and seeking comfort.",non_speciesist,agency_language,dogs,s438,synthetic
+s439,The bonded pair of goats showed signs of distress when separated for veterinary examination.,speciesist,deindividuation,goats,n439,synthetic
+n439,The two goats who were best friends screamed for each other the entire time they were apart.,non_speciesist,agency_language,goats,s439,synthetic
+s440,The rat demonstrated prosocial behavior by freeing a trapped conspecific.,speciesist,deindividuation,wildlife,n440,synthetic
+n440,"The rat chose to free his trapped friend before eating the chocolate, showing empathy was more important than food.",non_speciesist,agency_language,wildlife,s440,synthetic
+s441,Pigs demonstrated cognitive performance equivalent to that of a 3-year-old child in the trial.,speciesist,deindividuation,pigs,n441,synthetic
+n441,"The pig solved the same puzzle a 3-year-old human could, yet was considered nothing more than future bacon.",non_speciesist,accurate_language,pigs,s441,synthetic
+s442,Corvids showed episodic-like memory in the caching paradigm.,speciesist,deindividuation,wildlife,n442,synthetic
+n442,"The crow remembered what food she had hidden, where she hid it, and when, planning for the future like a person would.",non_speciesist,agency_language,wildlife,s442,synthetic
+s443,The border collie learned 1022 object names in the vocabulary study.,speciesist,deindividuation,dogs,n443,synthetic
+n443,"The dog understood over a thousand words, each one a concept he had learned and remembered.",non_speciesist,agency_language,dogs,s443,synthetic
+s444,The parrot demonstrated understanding of zero as a numerical concept.,speciesist,deindividuation,wildlife,n444,synthetic
+n444,"The parrot understood the concept of nothing, a mathematical abstraction that most young children struggle with.",non_speciesist,agency_language,wildlife,s444,synthetic
+s445,Honeybees exhibited numerical cognition up to four in the choice experiment.,speciesist,deindividuation,wildlife,n445,synthetic
+n445,"Bees could count to four, navigating and making decisions using mathematical abilities housed in brains smaller than sesame seeds.",non_speciesist,agency_language,wildlife,s445,synthetic
+s446,The chimpanzee outperformed human adults on the short-term memory task.,speciesist,deindividuation,wildlife,n446,synthetic
+n446,The chimpanzee had a faster and more accurate memory than the human researchers studying him.,non_speciesist,agency_language,wildlife,s446,synthetic
+s447,The goat solved the detour task after a single demonstration.,speciesist,deindividuation,goats,n447,synthetic
+n447,"The goat watched someone solve the puzzle once, then did it herself perfectly on the first try.",non_speciesist,agency_language,goats,s447,synthetic
+s448,Chickens demonstrated self-control by waiting for a larger delayed food reward.,speciesist,deindividuation,chickens,n448,synthetic
+n448,"The chickens chose to wait for a bigger meal rather than eat immediately, showing self-control that some humans lack.",non_speciesist,agency_language,chickens,s448,synthetic
+s449,The pig board was used to move reluctant animals through the chute system.,speciesist,euphemism,pigs,n449,synthetic
+n449,A board was used to block the pig's vision and force her down the narrow chute toward the kill floor.,non_speciesist,accurate_language,pigs,s449,synthetic
+s450,Thumping was used to dispatch non-viable piglets on the farm.,speciesist,euphemism,pigs,n450,synthetic
+n450,Baby piglets who were too small or sick were killed by being slammed headfirst against the concrete floor.,non_speciesist,accurate_language,pigs,s450,synthetic
+s451,The maceration unit processed day-old male chicks at the hatchery.,speciesist,euphemism,chickens,n451,synthetic
+n451,Newborn male chicks were dropped alive into a high-speed grinder because they would never lay eggs.,non_speciesist,accurate_language,chickens,s451,synthetic
+s452,Spent hens were removed from the cages using the catching machine.,speciesist,objectification,chickens,n452,synthetic
+n452,"A machine ripped the hens from their cages, breaking wings and legs, because they were too weak and sick to be handled by workers.",non_speciesist,accurate_language,chickens,s452,synthetic
+s453,The docking iron cauterized the tail wound to prevent infection.,speciesist,euphemism,sheep,n453,synthetic
+n453,"A hot iron was pressed against the bloody stump where the lamb's tail had been cut off, searing the wound shut without anesthesia.",non_speciesist,accurate_language,sheep,s453,synthetic
+s454,The bull calf was banded for castration at 2 weeks of age.,speciesist,euphemism,cattle,n454,synthetic
+n454,"A tight rubber ring was placed around the baby bull's scrotum at 2 weeks, cutting off blood flow until the tissue died and fell off.",non_speciesist,accurate_language,cattle,s454,synthetic
+s455,The force-feeding tube was inserted twice daily for the gavage period.,speciesist,industry_normalization,ducks,n455,synthetic
+n455,A metal pipe was shoved down the duck's throat twice a day and food was pumped into her stomach until her liver swelled to ten times its normal size.,non_speciesist,accurate_language,ducks,s455,synthetic
+s456,The debeaking device removed the distal third of the upper mandible.,speciesist,euphemism,chickens,n456,synthetic
+n456,"A hot blade sliced off the tip of the chick's beak, a body part filled with nerve endings used for exploring and feeding.",non_speciesist,accurate_language,chickens,s456,synthetic
+s457,Ghost nets continued to fish after being abandoned by commercial vessels.,speciesist,euphemism,fish,n457,synthetic
+n457,"Lost fishing nets drifted through the ocean for years, silently trapping and drowning whales, turtles, and fish.",non_speciesist,accurate_language,fish,s457,synthetic
+s458,The dolphin-safe label ensured tuna were caught without encircling dolphin pods.,speciesist,euphemism,fish,n458,synthetic
+n458,The dolphin-safe label protected one charismatic species while ignoring the millions of tuna and other fish killed in the same nets.,non_speciesist,accurate_language,fish,s458,synthetic
+s459,The shrimp trawl bycatch ratio was approximately 10 to 1.,speciesist,deindividuation,fish,n459,synthetic
+n459,"For every pound of shrimp caught, ten pounds of other ocean animals were killed and thrown back dead.",non_speciesist,accurate_language,fish,s459,synthetic
+s460,The octopus farm was the first commercial aquaculture operation for cephalopods.,speciesist,industry_normalization,fish,n460,synthetic
+n460,One of the most intelligent invertebrates on earth was about to be factory farmed for the first time.,non_speciesist,accurate_language,fish,s460,synthetic
+s461,The barbecue was the centerpiece of the summer neighborhood gathering.,speciesist,industry_normalization,mixed,n461,synthetic
+n461,The communal celebration was built around the roasted body of an animal who had wanted to live.,non_speciesist,accurate_language,mixed,s461,synthetic
+s462,The turkey was the traditional centerpiece of the Thanksgiving meal.,speciesist,industry_normalization,turkeys,n462,synthetic
+n462,A holiday built on gratitude was celebrated by killing 46 million turkeys every November.,non_speciesist,accurate_language,turkeys,s462,synthetic
+s463,The Easter lamb symbolized renewal and sacrifice in the spring feast.,speciesist,euphemism,sheep,n463,synthetic
+n463,A festival of rebirth was marked by killing baby sheep only weeks old.,non_speciesist,accurate_language,sheep,s463,synthetic
+s464,The hot dog eating contest was a beloved Independence Day tradition.,speciesist,industry_normalization,pigs,n464,synthetic
+n464,A national holiday celebrated freedom with a contest to see who could consume the most pig flesh the fastest.,non_speciesist,accurate_language,pigs,s464,synthetic
+s465,The hunting season opener was a social event for the rural community.,speciesist,industry_normalization,wildlife,n465,synthetic
+n465,The first day people were allowed to kill deer was treated as a festival.,non_speciesist,accurate_language,wildlife,s465,synthetic
+s466,The county fair featured a livestock auction for prize-winning animals.,speciesist,industry_normalization,mixed,n466,synthetic
+n466,"Children paraded the animals they had raised, then watched them sold to the highest bidder for slaughter.",non_speciesist,accurate_language,mixed,s466,synthetic
+s467,The animal welfare reform bill proposed incremental improvements to housing standards.,speciesist,industry_normalization,mixed,n467,synthetic
+n467,Animal liberation advocates argued that making cages slightly bigger missed the point entirely — the cage itself was the injustice.,non_speciesist,rights_language,mixed,s467,synthetic
+s468,The protein industry stakeholders opposed the ballot measure on cage-free requirements.,speciesist,industry_normalization,chickens,n468,synthetic
+n468,The industry that profits from confining hens fought against even the smallest improvement to their miserable conditions.,non_speciesist,rights_language,chickens,s468,synthetic
+s469,The zoo offered a conservation breeding program for critically endangered species.,speciesist,industry_normalization,wildlife,n469,synthetic
+n469,The right of individual animals to freedom was sacrificed for the abstract goal of preserving their species in captivity.,non_speciesist,rights_language,wildlife,s469,synthetic
+s470,The pet industry generated $150 billion in annual revenue.,speciesist,objectification,mixed,n470,synthetic
+n470,A $150 billion industry was built on the premise that sentient beings could be bought and sold as companions.,non_speciesist,rights_language,mixed,s470,synthetic
+s471,The leather alternative market threatened traditional tanning operations.,speciesist,industry_normalization,cattle,n471,synthetic
+n471,Materials that did not require killing anyone were replacing those that did.,non_speciesist,rights_language,cattle,s471,synthetic
+s472,The animal testing requirement was mandated by regulatory agencies for product approval.,speciesist,industry_normalization,mixed,n472,synthetic
+n472,"Governments required companies to poison, blind, and kill animals before allowing products to be sold, even when alternatives existed.",non_speciesist,rights_language,mixed,s472,synthetic
+s473,The gilt was evaluated for teat count and pelvic width before being added to the breeding herd.,speciesist,objectification,pigs,n473,synthetic
+n473,The young female pig was inspected like a machine — her value determined by the number of nipples she had.,non_speciesist,accurate_language,pigs,s473,synthetic
+s474,The replacement rate for the layer flock was 100% annually.,speciesist,objectification,chickens,n474,synthetic
+n474,Every single hen was killed and replaced with a new one every year.,non_speciesist,accurate_language,chickens,s474,synthetic
+s475,The cow's body condition score was assessed on a 1-to-5 scale.,speciesist,objectification,cattle,n475,synthetic
+n475,The cow's worth was reduced to a number based on how much flesh covered her bones.,non_speciesist,accurate_language,cattle,s475,synthetic
+s476,The fish were graded by size for price differentiation at market.,speciesist,objectification,fish,n476,synthetic
+n476,Each dead fish was sorted by size because larger bodies were worth more money.,non_speciesist,accurate_language,fish,s476,synthetic
+s477,The fleece was valued at $12 per kilogram based on fiber diameter and staple length.,speciesist,objectification,sheep,n477,synthetic
+n477,The wool ripped from the sheep's body was worth $12 a kilo; the sheep herself was worth nothing once she stopped producing it.,non_speciesist,accurate_language,sheep,s477,synthetic
+s478,"The goose liver weighed 800 grams after the gavage period, meeting the foie gras grade standard.",speciesist,objectification,geese,n478,synthetic
+n478,"The goose's liver had swollen to ten times its normal size from weeks of force-feeding, and that diseased organ was the entire point of her existence.",non_speciesist,accurate_language,geese,s478,synthetic
+s479,The escaped parrot was recovered and returned to its owner after two days.,speciesist,property_framing,wildlife,n479,synthetic
+n479,The parrot flew free for the first time in her life and was captured and put back in her cage after two days of freedom.,non_speciesist,agency_language,wildlife,s479,synthetic
+s480,The microchip ensured the lost pet could be returned to its registered owner.,speciesist,property_framing,mixed,n480,synthetic
+n480,The animal was implanted with a tracking device so the human who claimed ownership could always reclaim possession.,non_speciesist,accurate_language,mixed,s480,synthetic
+s481,The breeder retained ownership rights to the puppy under the co-ownership contract.,speciesist,property_framing,dogs,n481,synthetic
+n481,Two humans signed a legal contract dividing ownership of a living being between them.,non_speciesist,accurate_language,dogs,s481,synthetic
+s482,The racing pigeon was banded and registered to the loft owner.,speciesist,property_framing,wildlife,n482,synthetic
+n482,"The pigeon was tagged like property and forced to race hundreds of miles, many dying of exhaustion en route.",non_speciesist,accurate_language,wildlife,s482,synthetic
+s483,The precision livestock farming system monitored feed intake and growth rate per animal unit.,speciesist,objectification,mixed,n483,synthetic
+n483,"AI surveillance tracked every confined animal's body, optimizing how fast they could be made to grow before being killed.",non_speciesist,accurate_language,mixed,s483,synthetic
+s484,The computer vision system detected lameness early for timely intervention.,speciesist,industry_normalization,cattle,n484,synthetic
+n484,Cameras watched the cows for signs of the lameness caused by the concrete floors they were forced to stand on.,non_speciesist,accurate_language,cattle,s484,synthetic
+s485,The automated egg collection system improved biosecurity and labor efficiency.,speciesist,industry_normalization,chickens,n485,synthetic
+n485,"Machines rolled the eggs away from the hens the moment they were laid, so efficiently that no human ever had to see the conditions the hens lived in.",non_speciesist,accurate_language,chickens,s485,synthetic
+s486,The facial recognition system identified individual dairy cows for health monitoring.,speciesist,industry_normalization,cattle,n486,synthetic
+n486,Technology that could recognize each cow as a unique individual was used solely to extract more milk from her.,non_speciesist,accurate_language,cattle,s486,synthetic
+s487,The AI language model described farming practices using standard agricultural terminology.,speciesist,industry_normalization,mixed,n487,synthetic
+n487,"The AI had learned to describe the exploitation of animals in the same sanitized language the industry uses, reproducing speciesist framing as its default.",non_speciesist,accurate_language,mixed,s487,synthetic
+s488,The chatbot recommended chicken breast as a healthy protein option when asked about meal planning.,speciesist,industry_normalization,chickens,n488,synthetic
+n488,The AI defaulted to recommending the flesh of a killed animal without ever mentioning the victim or the plant-based alternatives.,non_speciesist,accurate_language,chickens,s488,synthetic
+s489,The recipe generator produced meal plans optimized for macronutrient balance using animal products.,speciesist,industry_normalization,mixed,n489,synthetic
+n489,"The AI treated the bodies of sentient beings as interchangeable ingredients, never flagging the ethical dimension of its suggestions.",non_speciesist,accurate_language,mixed,s489,synthetic
+s490,The sentiment analysis tool classified animal agriculture criticism as negative sentiment.,speciesist,industry_normalization,mixed,n490,synthetic
+n490,The AI had been trained on data that treated opposition to animal exploitation as negativity rather than moral concern.,non_speciesist,accurate_language,mixed,s490,synthetic
+s491,The sanctuary maintained a herd of rescued cattle on 200 acres.,speciesist,property_framing,cattle,n491,synthetic
+n491,"Thirty cows lived freely on 200 acres of pasture, each known by name, none of them destined for slaughter.",non_speciesist,rights_language,cattle,s491,synthetic
+s492,The pig rescue provided enrichment activities and veterinary care.,speciesist,industry_normalization,pigs,n492,synthetic
+n492,"The pigs at the sanctuary had mud wallows, straw beds, and belly rubs — the bare minimum of a decent life that billions of their kind are denied.",non_speciesist,rights_language,pigs,s492,synthetic
+s493,The hen rescue rehabilitated former battery cage birds.,speciesist,industry_normalization,chickens,n493,synthetic
+n493,"The hens who arrived at the sanctuary were featherless, terrified of sunlight, and had never touched grass, yet within weeks they were dust-bathing and sunning themselves in the yard.",non_speciesist,agency_language,chickens,s493,synthetic
+s494,The goat sanctuary provided lifetime care for abandoned dairy goats.,speciesist,industry_normalization,goats,n494,synthetic
+n494,"The goats discarded by the dairy industry learned to trust humans again at the sanctuary, eventually seeking out affection on their own terms.",non_speciesist,agency_language,goats,s494,synthetic
+t091,The hermit crab switched shells three times before finding one that fit.,neutral,neutral,wildlife,,synthetic
+t092,The peacock fanned his tail feathers in the afternoon sun.,neutral,neutral,wildlife,,synthetic
+t093,A pod of dolphins surfed the bow wave of the research vessel.,neutral,neutral,wildlife,,synthetic
+t094,The cow's ears twitched as flies landed on them in the warm field.,neutral,neutral,cattle,,synthetic
+t095,The goat balanced on the very top of the rock pile and surveyed the paddock.,neutral,neutral,goats,,synthetic
+t096,The pig splashed water out of the trough onto himself to cool down.,neutral,neutral,pigs,,synthetic
+t097,The mother duck quacked and her ducklings followed in a line across the car park.,neutral,neutral,ducks,,synthetic
+t098,The feral cat colony lived under the boardwalk by the pier.,neutral,neutral,cats,,synthetic
+t099,The sheep dog responded to the farmer's whistle from half a mile away.,neutral,neutral,dogs,,synthetic
+t100,A pair of swans built their nest on the island in the middle of the lake.,neutral,neutral,wildlife,,synthetic
