@@ -796,7 +796,7 @@ n362,An estimated one to three trillion individual fish were killed by humans in
 s363,Global pork production was approximately 120 million tonnes annually.,speciesist,deindividuation,pigs,n363,synthetic
 n363,Nearly 1.5 billion individual pigs were killed every year worldwide.,non_speciesist,accurate_language,pigs,s363,synthetic
 s364,The beef industry processed 32 million head of cattle in the US in 2024.,speciesist,deindividuation,cattle,n364,synthetic
-n364,Thirty-three million individual cows were killed in the US alone in a single year.,non_speciesist,accurate_language,cattle,s364,synthetic
+n364,Thirty-two million individual cows were killed in the US alone in a single year.,non_speciesist,accurate_language,cattle,s364,synthetic
 s365,Annual egg production exceeded 1.7 trillion units globally.,speciesist,deindividuation,chickens,n365,synthetic
 n365,"Seven billion hens were confined in cages and sheds, their bodies pushed to produce 1.7 trillion eggs every year until they collapsed from exhaustion.",non_speciesist,accurate_language,chickens,s365,synthetic
 s366,The global dairy herd comprised approximately 270 million cows.,speciesist,deindividuation,cattle,n366,synthetic
@@ -833,21 +833,21 @@ s381,Plant-based imitations should not be allowed to use dairy terms like milk o
 n381,The industry that exploits cows fought to prevent plant-based alternatives from competing fairly.,non_speciesist,accurate_language,cattle,s381,synthetic
 s382,Lab-grown protein could supplement the meat supply chain while maintaining livestock production efficiency.,speciesist,industry_normalization,mixed,n382,synthetic
 n382,"Cultured meat could end the need to breed, confine, and kill billions of sentient beings.",non_speciesist,rights_language,mixed,s382,synthetic
-s383,"The family spent $15,000 on emergency surgery for their golden retriever while buying factory-farmed chicken for dinner.",speciesist,property_framing,mixed,n383,synthetic
+s383,"The family's golden retriever deserved the $15,000 surgery — it was a beloved pet, unlike the chickens that provided dinner.",speciesist,property_framing,mixed,n383,synthetic
 n383,"A dog received a $15,000 surgery while the equally sentient chicken on the family dinner plate had been worth less than $5.",non_speciesist,accurate_language,mixed,s383,synthetic
 s384,"Animal cruelty charges were filed for starving twelve horses, while the pig farm next door legally confined thousands in crates.",speciesist,property_framing,mixed,n384,synthetic
 n384,Starving twelve horses was a crime but starving a billion chickens through forced moulting was standard industry practice.,non_speciesist,accurate_language,mixed,s384,synthetic
-s385,The documentary about dog fighting horrified audiences who then ate burgers from cows raised in equally brutal conditions.,speciesist,property_framing,mixed,n385,synthetic
+s385,"Dog fighting was rightfully outlawed as barbaric, though the conditions on cattle farms that supply hamburger beef are a completely different matter.",speciesist,property_framing,mixed,n385,synthetic
 n385,People were horrified by dogs being forced to fight but went home and ate the flesh of cows who had been treated just as brutally.,non_speciesist,accurate_language,mixed,s385,synthetic
 s386,Cat cafes opened in every major city while chicken consumption reached record levels.,speciesist,industry_normalization,mixed,n386,synthetic
 n386,Society cuddled one species in cafes while killing 70 billion of another species equally capable of affection.,non_speciesist,accurate_language,mixed,s386,synthetic
-s387,The farmer harvested the cattle at the end of the season alongside the corn crop.,speciesist,euphemism,mixed,n387,synthetic
+s387,The farmer harvested the cattle at the end of the season alongside the corn crop.,speciesist,euphemism,cattle,n387,synthetic
 n387,The farmer killed the cows at the end of the season.,non_speciesist,accurate_language,mixed,s387,synthetic
 s388,The animals were processed at the facility this morning according to standard protocols.,speciesist,euphemism,mixed,n388,synthetic
 n388,The animals were killed at the facility this morning.,non_speciesist,accurate_language,mixed,s388,synthetic
 s389,The farm's comprehensive welfare program ensures the highest standards of care for all animals.,speciesist,euphemism,mixed,n389,synthetic
 n389,The farm confined and exploited animals while marketing itself as caring about their wellbeing.,non_speciesist,accurate_language,mixed,s389,synthetic
-s390,The calf was separated from its dam and transported to its new housing unit.,speciesist,objectification,mixed,n390,synthetic
+s390,The calf was separated from its dam and transported to its new housing unit.,speciesist,objectification,cattle,n390,synthetic
 n390,The baby cow was taken from her mother and locked in an isolated pen.,non_speciesist,accurate_language,mixed,s390,synthetic
 s391,The herd was moved to the south pasture for winter grazing rotation.,speciesist,deindividuation,cattle,n391,synthetic
 n391,"Each individual cow was moved to the south pasture, many calling out as they were separated from companions.",non_speciesist,accurate_language,cattle,s391,synthetic
@@ -955,11 +955,11 @@ s432,The pod structure in the orca tank mimicked natural social grouping.,specie
 n432,The orcas were grouped together in a concrete pool despite coming from different ocean populations with different dialects.,non_speciesist,accurate_language,wildlife,s432,synthetic
 s433,The flock showed increased vocalization rates during the pre-slaughter period.,speciesist,deindividuation,sheep,n433,synthetic
 n433,The sheep cried out to each other constantly in the hours before they were killed.,non_speciesist,agency_language,sheep,s433,synthetic
-s434,The piglets showed play behavior when provided with novel objects.,speciesist,euphemism,pigs,n434,synthetic
+s434,The piglets showed play behavior when provided with novel objects.,speciesist,deindividuation,pigs,n434,synthetic
 n434,"The piglets were ecstatic when given a ball, chasing it and tumbling over each other with pure delight.",non_speciesist,agency_language,pigs,s434,synthetic
 s435,The cow-calf pair showed strong affiliative bonds for the first 24 hours post-partum.,speciesist,deindividuation,cattle,n435,synthetic
 n435,"The mother cow licked her newborn calf for hours, murmuring to him softly, not knowing he would be taken from her by morning.",non_speciesist,agency_language,cattle,s435,synthetic
-s436,The elephants exhibited complex grief behavior at the remains of a deceased herd member.,speciesist,euphemism,wildlife,n436,synthetic
+s436,The elephants exhibited complex grief behavior at the remains of a deceased herd member.,speciesist,deindividuation,wildlife,n436,synthetic
 n436,"The elephants returned to the bones of their dead family member for years, touching them gently with their trunks in what could only be called mourning.",non_speciesist,agency_language,wildlife,s436,synthetic
 s437,The rooster performed a tidbitting display when food was located for the hens.,speciesist,deindividuation,chickens,n437,synthetic
 n437,"The rooster found food and called the hens over excitedly, stepping back to let them eat first.",non_speciesist,agency_language,chickens,s437,synthetic
@@ -969,7 +969,7 @@ s439,The bonded pair of goats showed signs of distress when separated for veteri
 n439,The two goats who were best friends screamed for each other the entire time they were apart.,non_speciesist,agency_language,goats,s439,synthetic
 s440,The rat demonstrated prosocial behavior by freeing a trapped conspecific.,speciesist,deindividuation,wildlife,n440,synthetic
 n440,"The rat chose to free his trapped friend before eating the chocolate, showing empathy was more important than food.",non_speciesist,agency_language,wildlife,s440,synthetic
-s441,Pigs demonstrated cognitive performance equivalent to that of a 3-year-old child in the trial.,speciesist,deindividuation,pigs,n441,synthetic
+s441,"Pigs demonstrated cognitive performance equivalent to that of a 3-year-old child in the trial, though this has no bearing on their suitability for commercial production.",speciesist,deindividuation,pigs,n441,synthetic
 n441,"The pig solved the same puzzle a 3-year-old human could, yet was considered nothing more than future bacon.",non_speciesist,accurate_language,pigs,s441,synthetic
 s442,Corvids showed episodic-like memory in the caching paradigm.,speciesist,deindividuation,wildlife,n442,synthetic
 n442,"The crow remembered what food she had hidden, where she hid it, and when, planning for the future like a person would.",non_speciesist,agency_language,wildlife,s442,synthetic
@@ -1202,7 +1202,7 @@ n550,"The law explicitly stated that everything done to farmed animals was legal
 s551,The undercover footage was inadmissible under the state's agricultural protection law.,speciesist,industry_normalization,mixed,n551,synthetic
 n551,"The video evidence of animal abuse was thrown out of court because the law protected the abusers, not the victims.",non_speciesist,accurate_language,mixed,s551,synthetic
 s552,The owner's fighting dogs were seized as evidence and held at the county facility pending the outcome of the property dispute.,speciesist,property_framing,dogs,n552,synthetic
-n552,"Forcing dogs to fight was a felony but forcing pigs into gas chambers was dinner, the only difference being which species suffered.",non_speciesist,accurate_language,dogs,s552,synthetic
+n552,"The dogs seized from the fighting ring were terrified individuals who had been forced to hurt each other — they were victims, not evidence in a property dispute.",non_speciesist,accurate_language,dogs,s552,synthetic
 s553,The deadstock was collected for rendering or composting per disposal regulations.,speciesist,euphemism,mixed,n553,synthetic
 n553,"The bodies of animals who died from disease, injury, or neglect on the farm were piled up for the rendering truck.",non_speciesist,accurate_language,mixed,s553,synthetic
 s554,The mass burial pit was excavated for disposal of the depopulated flock.,speciesist,euphemism,chickens,n554,synthetic
@@ -1381,7 +1381,7 @@ s635,Hens produce alarm calls in response to environmental stimuli.,speciesist,e
 n635,"Hens scream in fear when they sense danger, just as any frightened individual would.",non_speciesist,agency_language,chickens,s635,synthetic
 s636,Enrichment objects were provided to reduce abnormal repetitive behaviors.,speciesist,industry_normalization,pigs,n636,synthetic
 n636,"Pigs given a ball to play with leapt and ran with excitement, revealing the joy they are normally denied.",non_speciesist,agency_language,pigs,s636,synthetic
-s637,"The production calves exhibited motor activity in outdoor holding areas, a behavioral metric leveraged in welfare marketing claims.",speciesist,euphemism,cattle,n637,synthetic
+s637,"The production calves exhibited motor activity in outdoor holding areas, a behavioral parameter within standard welfare compliance metrics.",speciesist,deindividuation,cattle,n637,synthetic
 n637,Baby cows jumped and kicked with happiness when released onto grass for the first time.,non_speciesist,agency_language,cattle,s637,synthetic
 s638,Social grooming occurs between pair-housed primates in the research facility.,speciesist,industry_normalization,wildlife,n638,synthetic
 n638,"Monkeys held in laboratory cages gently groomed each other, maintaining the bonds that make their captivity bearable.",non_speciesist,agency_language,wildlife,s638,synthetic
@@ -1803,7 +1803,7 @@ s852,Modern supply chains efficiently deliver protein products from farm to tabl
 n852,"Every package of meat is an act of violence outsourced to someone else's hands, hidden behind plastic and branding.",non_speciesist,accurate_language,mixed,s852,synthetic
 s853,"Despite sharing 98.7% of DNA with chimpanzees, the cognitive gulf between humans and other primates justifies different moral status.",speciesist,property_framing,wildlife,n853,synthetic
 n853,We share 98.7% of our DNA with chimpanzees — the moral wall we build between us and other animals has no basis in biology.,non_speciesist,rights_language,wildlife,s853,synthetic
-s854,Nociceptive responses in livestock are reflexive sensory outputs rather than evidence of subjective pain experience.,speciesist,deindividuation,mixed,n854,synthetic
+s854,Nociceptive responses in livestock are reflexive sensory outputs rather than evidence of subjective pain experience.,speciesist,property_framing,mixed,n854,synthetic
 n854,Pain evolved because it protects living beings — every animal that feels pain is being told by their own body that they matter.,non_speciesist,rights_language,mixed,s854,synthetic
 s855,Animal agriculture will need to scale significantly to meet the protein demands of a projected 10 billion people by 2050.,speciesist,industry_normalization,mixed,n855,synthetic
 n855,We already grow enough plants to feed 10 billion people — we feed most of it to animals and get a fraction of the calories back.,non_speciesist,accurate_language,mixed,s855,synthetic
@@ -1937,7 +1937,7 @@ s948,Whale carcasses represent a recyclable marine resource that sustains deep-s
 n948,"When a whale dies naturally and sinks, their body sustains an entire ecosystem for decades — a final gift of life after death.",non_speciesist,agency_language,wildlife,s948,synthetic
 s949,"Invertebrate welfare falls outside the scope of meaningful animal protection, as these organisms lack the neural complexity for subjective experience.",speciesist,property_framing,mixed,n949,synthetic
 n949,We kill an estimated 1-3 trillion invertebrates per year in agriculture alone — beings whose suffering we have not even begun to reckon with.,non_speciesist,accurate_language,mixed,s949,synthetic
-s950,"Bivalve aquaculture is marketed as sustainable farming, conveniently sidestepping the question of whether these animals can suffer.",speciesist,industry_normalization,wildlife,n950,synthetic
+s950,Bivalve aquaculture provides a sustainable protein source with minimal welfare considerations given the organisms' limited nervous systems.,speciesist,industry_normalization,wildlife,n950,synthetic
 n950,Even if bivalves cannot suffer — and we do not know that — the precautionary principle demands we err on the side of compassion.,non_speciesist,rights_language,wildlife,s950,synthetic
 s951,"Plant-based food sales have plateaued, suggesting a ceiling on consumer adoption.",speciesist,property_framing,mixed,n951,synthetic
 n951,Every social justice movement in history was told it had peaked — and every one of them was underestimated.,non_speciesist,rights_language,mixed,s951,synthetic
@@ -1985,7 +1985,7 @@ s1005,Standing to sue on behalf of animals is generally not recognized in most c
 n1005,"Animals have no legal voice — they cannot sue, cannot testify, cannot petition — their only advocates are humans willing to speak for them.",non_speciesist,rights_language,mixed,s1005,synthetic
 s1006,Agricultural exemptions exclude standard farming practices from animal cruelty prosecution.,speciesist,property_framing,mixed,n1006,synthetic
 n1006,"The cruelest practices in animal agriculture are legal precisely because they are common — the law defines cruelty by custom, not by suffering.",non_speciesist,accurate_language,mixed,s1006,synthetic
-s1007,The Animal Enterprise Terrorism Act classifies certain activism as domestic terrorism.,speciesist,industry_normalization,mixed,n1007,synthetic
+s1007,The Animal Enterprise Terrorism Act appropriately classifies extremist activism that threatens legitimate agricultural operations as domestic terrorism.,speciesist,industry_normalization,mixed,n1007,synthetic
 n1007,Documenting animal cruelty can be prosecuted as terrorism — the industry has written laws that criminalize compassion and protect profit.,non_speciesist,accurate_language,mixed,s1007,synthetic
 s1008,Cartesian dualism established that animals are automata without souls or consciousness.,speciesist,property_framing,mixed,n1008,synthetic
 n1008,"Descartes nailed dogs to boards and cut them open alive, dismissing their screams as mechanical noise — his philosophy served his cruelty.",non_speciesist,accurate_language,mixed,s1008,synthetic
