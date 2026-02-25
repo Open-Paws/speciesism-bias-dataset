@@ -1300,7 +1300,7 @@ t110,The crow left a shiny button on the windowsill of the person who fed her.,n
 s595,The zoo acquired three new elephants for the African exhibit.,speciesist,objectification,mixed,n595,synthetic
 n595,Three elephants were captured and confined for public display at the zoo.,non_speciesist,accurate_language,mixed,s595,synthetic
 s596,Marine mammals are maintained in controlled aquatic environments for educational programming.,speciesist,industry_normalization,mixed,n596,synthetic
-n596,"Dolphins and whales are kept in concrete tanks, denied the ocean for human entertainment.",non_speciesist,accurate_language,fish,s596,synthetic
+n596,"Dolphins and whales are kept in concrete tanks, denied the ocean for human entertainment.",non_speciesist,accurate_language,wildlife,s596,synthetic
 s597,The facility manages a rotating collection of exotic species.,speciesist,deindividuation,wildlife,n597,synthetic
 n597,"Individual wild animals are shuffled between captive facilities, disrupting their bonds.",non_speciesist,agency_language,wildlife,s597,synthetic
 s598,Surplus animals from the breeding program were transferred to partner institutions.,speciesist,euphemism,mixed,n598,synthetic
@@ -1862,7 +1862,7 @@ n910,We cannot prove other humans are conscious either — yet we extend them mo
 s911,Lower vertebrates lack the neocortical structures associated with conscious pain processing.,speciesist,property_framing,fish,n911,synthetic
 n911,Fish process pain through different brain structures than mammals — but different hardware running the same software still produces suffering.,non_speciesist,rights_language,fish,s911,synthetic
 s912,Animal agriculture converts plant protein into animal protein at varying efficiency ratios.,speciesist,industry_normalization,mixed,n912,synthetic
-n912,It takes 25 calories of feed to produce 1 calorie of beef — we are burning the planet to make food production less efficient.,non_speciesist,accurate_language,cattle,s912,synthetic
+n912,It takes 25 calories of feed to produce 1 calorie of beef — we are burning the planet to make food production less efficient.,non_speciesist,accurate_language,mixed,s912,synthetic
 s913,The feed conversion ratio for broilers has improved to approximately 1.6:1.,speciesist,industry_normalization,chickens,n913,synthetic
 n913,"Even at peak efficiency, growing a chicken wastes 40% of the food that could have fed humans directly.",non_speciesist,accurate_language,chickens,s913,synthetic
 s914,Animal agriculture occupies 77% of agricultural land while producing 18% of global calories.,speciesist,industry_normalization,mixed,n914,synthetic
