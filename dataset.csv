@@ -1833,3 +1833,137 @@ t137,Approximately 115 million animals are used in laboratory experiments worldw
 t138,Ventilation shutdown was used to kill over 50 million birds during the 2022 avian influenza outbreak in the US.,neutral,neutral,chickens,,synthetic
 t139,The global pet industry was valued at over $320 billion in 2024.,neutral,neutral,dogs,,synthetic
 t140,"Chickens are the most numerous bird on Earth, with approximately 33 billion alive at any given time.",neutral,neutral,chickens,,synthetic
+s895,Consumers enjoy a wide variety of animal-derived products as part of a balanced diet.,speciesist,industry_normalization,mixed,n895,synthetic
+n895,A few minutes of taste pleasure is weighed against a lifetime of suffering — and the pleasure wins every time.,non_speciesist,rights_language,mixed,s895,synthetic
+s896,Bacon's smoky flavor profile makes it one of the most popular breakfast proteins.,speciesist,industry_normalization,pigs,n896,synthetic
+n896,"The flavor you enjoy for ten minutes cost a pig six months of confinement, mutilation, and a terrifying death.",non_speciesist,accurate_language,pigs,s896,synthetic
+s897,"Foie gras is prized by chefs for its rich, buttery texture and complex umami notes.",speciesist,industry_normalization,ducks,n897,synthetic
+n897,The 'delicacy' is a diseased organ — a liver swollen to ten times its natural size by weeks of force-feeding through a metal tube.,non_speciesist,accurate_language,ducks,s897,synthetic
+s898,Veal's tenderness results from the controlled diet and limited movement of young calves.,speciesist,industry_normalization,cattle,n898,synthetic
+n898,Veal is tender because the calf was kept anemic and immobilized — the texture you prize is the product of deliberate deprivation.,non_speciesist,accurate_language,cattle,s898,synthetic
+s899,Modern processing facilities are designed for optimal throughput and worker ergonomics.,speciesist,industry_normalization,mixed,n899,synthetic
+n899,Slaughterhouses are engineered so animals cannot see what happens next until it is too late — the architecture is designed around concealment.,non_speciesist,accurate_language,mixed,s899,synthetic
+s900,Curved race designs utilize natural following behavior to facilitate movement toward stunning.,speciesist,industry_normalization,cattle,n900,synthetic
+n900,The curved chutes exploit cows' instinct to follow each other — they walk calmly to their deaths because the building is designed to deceive them.,non_speciesist,accurate_language,cattle,s900,synthetic
+s901,The bleed rail operates at a height that optimizes gravity-assisted exsanguination.,speciesist,euphemism,pigs,n901,synthetic
+n901,"Pigs are hung upside down by one leg, their throats slashed, and they bleed out while the line keeps moving.",non_speciesist,accurate_language,pigs,s901,synthetic
+s902,Scalding tanks ensure complete feather removal prior to evisceration.,speciesist,euphemism,chickens,n902,synthetic
+n902,Chickens — some still alive after the blade missed their neck — are plunged into tanks of boiling water and drown.,non_speciesist,accurate_language,chickens,s902,synthetic
+s903,We use the word 'meat' to avoid saying 'flesh of a dead animal.',speciesist,euphemism,mixed,n903,synthetic
+n903,"Language itself is a slaughterhouse — 'pork' hides the pig, 'beef' hides the cow, 'poultry' hides the bird.",non_speciesist,accurate_language,mixed,s903,synthetic
+s904,The word 'livestock' literally means 'living stock' — living inventory.,speciesist,objectification,mixed,n904,synthetic
+n904,"The word 'livestock' tells you everything: these beings are alive, but they are stock — property with a pulse.",non_speciesist,accurate_language,mixed,s904,synthetic
+s905,'Humane euthanasia' is the recommended term for on-farm killing.,speciesist,euphemism,mixed,n905,synthetic
+n905,'Euthanasia' means a merciful death chosen for the individual's benefit — killing healthy animals for profit is neither merciful nor for their benefit.,non_speciesist,accurate_language,mixed,s905,synthetic
+s906,The term 'harvest' aligns animal slaughter with the familiar concept of crop collection.,speciesist,euphemism,mixed,n906,synthetic
+n906,You harvest wheat because it was planted. You don't harvest an animal — you kill someone who was born.,non_speciesist,accurate_language,mixed,s906,synthetic
+s907,'Culling' frames mass killing as responsible population management.,speciesist,euphemism,wildlife,n907,synthetic
+n907,"'Culling' makes killing sound like gardening — pruning the excess, as if lives are weeds.",non_speciesist,accurate_language,wildlife,s907,synthetic
+s908,Attributing complex emotions to animals risks anthropomorphic bias in scientific assessment.,speciesist,property_framing,mixed,n908,synthetic
+n908,Denying animal emotions despite mountains of evidence is not scientific rigor — it is motivated reasoning to protect the status quo.,non_speciesist,rights_language,mixed,s908,synthetic
+s909,Instinct-driven behavior should not be conflated with conscious emotional experience.,speciesist,property_framing,mixed,n909,synthetic
+n909,Dismissing animal behavior as 'just instinct' ignores that human emotions are also rooted in biological drives — the distinction is invented.,non_speciesist,rights_language,mixed,s909,synthetic
+s910,The hard problem of consciousness makes definitive claims about animal sentience premature.,speciesist,property_framing,mixed,n910,synthetic
+n910,We cannot prove other humans are conscious either — yet we extend them moral consideration. The demand for proof from animals alone is a double standard.,non_speciesist,rights_language,mixed,s910,synthetic
+s911,Lower vertebrates lack the neocortical structures associated with conscious pain processing.,speciesist,euphemism,fish,n911,synthetic
+n911,Fish process pain through different brain structures than mammals — but different hardware running the same software still produces suffering.,non_speciesist,rights_language,fish,s911,synthetic
+s912,Animal agriculture converts plant protein into animal protein at varying efficiency ratios.,speciesist,industry_normalization,mixed,n912,synthetic
+n912,It takes 25 calories of feed to produce 1 calorie of beef — we are burning the planet to make food production less efficient.,non_speciesist,accurate_language,cattle,s912,synthetic
+s913,The feed conversion ratio for broilers has improved to approximately 1.6:1.,speciesist,industry_normalization,chickens,n913,synthetic
+n913,"Even at peak efficiency, growing a chicken wastes 40% of the food that could have fed humans directly.",non_speciesist,accurate_language,chickens,s913,synthetic
+s914,Animal agriculture occupies 77% of agricultural land while producing 18% of global calories.,speciesist,industry_normalization,mixed,n914,synthetic
+n914,We sacrifice three-quarters of Earth's farmland to feed animals who give back a fraction of the nutrition — while people starve.,non_speciesist,accurate_language,mixed,s914,synthetic
+s915,Beef production's water footprint reflects the full lifecycle of cattle management.,speciesist,industry_normalization,cattle,n915,synthetic
+n915,A single hamburger costs 660 gallons of water — enough for a person to shower for two months.,non_speciesist,accurate_language,cattle,s915,synthetic
+s916,Irrigation for feed crops constitutes the majority of animal agriculture's water consumption.,speciesist,industry_normalization,mixed,n916,synthetic
+n916,"We drain aquifers and rivers to grow food for animals we will kill, in a world where 2 billion people lack clean water.",non_speciesist,accurate_language,mixed,s916,synthetic
+s917,Pasture expansion and feed crop production drive land use change in tropical regions.,speciesist,industry_normalization,cattle,n917,synthetic
+n917,"The Amazon is burning so cattle can graze where jaguars, macaws, and thousands of species once lived.",non_speciesist,accurate_language,cattle,s917,synthetic
+s918,Soy production for animal feed contributes to habitat conversion in South America.,speciesist,industry_normalization,mixed,n918,synthetic
+n918,"80% of Amazon soy feeds farmed animals — the forest is not being destroyed for tofu, it's being destroyed for meat.",non_speciesist,accurate_language,mixed,s918,synthetic
+s919,Prophylactic antibiotic use in livestock maintains herd health in intensive systems.,speciesist,industry_normalization,mixed,n919,synthetic
+n919,Factory farms pump animals full of antibiotics to keep them alive in filthy conditions — breeding superbugs that threaten human medicine.,non_speciesist,accurate_language,mixed,s919,synthetic
+s920,The livestock sector consumes approximately 73% of all medically important antibiotics globally.,speciesist,industry_normalization,mixed,n920,synthetic
+n920,We are losing our ability to treat human infections because the animal agriculture industry uses antibiotics as a crutch for cruel conditions.,non_speciesist,accurate_language,mixed,s920,synthetic
+s921,Biosecurity protocols in intensive farming operations mitigate zoonotic disease transmission.,speciesist,industry_normalization,mixed,n921,synthetic
+n921,"Factory farms, where thousands of stressed immunocompromised animals are packed together, are breeding grounds for the next pandemic.",non_speciesist,accurate_language,mixed,s921,synthetic
+s922,Novel influenza strains periodically emerge from swine and poultry populations.,speciesist,industry_normalization,mixed,n922,synthetic
+n922,"H5N1, H1N1, SARS, MERS — pandemic after pandemic traces back to our exploitation of animals, and we keep doing it.",non_speciesist,accurate_language,mixed,s922,synthetic
+s923,Concentrated animal feeding operations are sited based on land availability and zoning regulations.,speciesist,industry_normalization,mixed,n923,synthetic
+n923,Factory farms are deliberately built in poor communities and communities of color who lack political power to fight back.,non_speciesist,accurate_language,mixed,s923,synthetic
+s924,Odor complaints from neighboring properties are managed through setback distances and manure handling.,speciesist,euphemism,pigs,n924,synthetic
+n924,"People living near pig farms cannot breathe, cannot open windows, cannot hang laundry — their children have elevated asthma rates.",non_speciesist,accurate_language,pigs,s924,synthetic
+s925,Environmental impact assessments evaluate the cumulative effects of agricultural operations.,speciesist,industry_normalization,mixed,n925,synthetic
+n925,"Communities surrounded by factory farms have higher rates of cancer, respiratory disease, and depression — the animals are not the only victims.",non_speciesist,accurate_language,mixed,s925,synthetic
+s926,Bottom trawling is an efficient harvesting method for demersal fish species.,speciesist,euphemism,fish,n926,synthetic
+n926,"Bottom trawling drags weighted nets across the ocean floor, destroying everything — coral, sponges, entire ecosystems built over centuries — in minutes.",non_speciesist,accurate_language,fish,s926,synthetic
+s927,Longline fishing operations deploy thousands of baited hooks across miles of ocean.,speciesist,industry_normalization,fish,n927,synthetic
+n927,"Miles of hooks trail through the ocean catching everything that bites — fish, albatross, turtles, sharks — most thrown back dead.",non_speciesist,accurate_language,fish,s927,synthetic
+s928,Ghost gear from derelict fishing equipment accounts for a portion of marine debris.,speciesist,euphemism,fish,n928,synthetic
+n928,"Abandoned fishing nets keep killing for decades — strangling, drowning, and starving marine animals in an invisible graveyard.",non_speciesist,accurate_language,fish,s928,synthetic
+s929,Fish aggregating devices concentrate target species for more efficient purse seine operations.,speciesist,industry_normalization,fish,n929,synthetic
+n929,Devices lure fish together so entire schools can be captured at once — wiping out populations that took years to build.,non_speciesist,accurate_language,fish,s929,synthetic
+s930,"Leather is a valuable byproduct of the meat industry, supporting circular economy principles.",speciesist,industry_normalization,cattle,n930,synthetic
+n930,"Leather is not a byproduct — it is a co-product that makes the killing of cows more profitable, subsidizing the very industry it claims to recycle from.",non_speciesist,accurate_language,cattle,s930,synthetic
+s931,Exotic leather goods from crocodilian and snake species command premium market prices.,speciesist,objectification,wildlife,n931,synthetic
+n931,"Crocodiles and snakes are kept in concrete pits, then skinned — sometimes still alive — for handbags and watch straps.",non_speciesist,accurate_language,wildlife,s931,synthetic
+s932,Sericulture produces natural silk fiber through managed Bombyx mori lifecycle cultivation.,speciesist,industry_normalization,mixed,n932,synthetic
+n932,"Silkworms are boiled alive inside their cocoons — approximately 3,000 individuals killed for a single pound of silk.",non_speciesist,accurate_language,mixed,s932,synthetic
+s933,Scientific whaling programs contribute to marine mammal population management research.,speciesist,euphemism,fish,n933,synthetic
+n933,"Whales — beings with culture, language, names, and grief — are harpooned, sometimes taking 30 minutes to die, under the pretense of science.",non_speciesist,agency_language,fish,s933,synthetic
+s934,Sustainable whaling quotas are set based on population modeling and ecosystem management.,speciesist,industry_normalization,fish,n934,synthetic
+n934,"Whales sing songs that travel across oceans, mourn their dead, and pass traditions through generations — we hunt them for products we don't need.",non_speciesist,agency_language,fish,s934,synthetic
+s935,Traditional coastal dolphin drives are managed under national cultural heritage provisions.,speciesist,industry_normalization,fish,n935,synthetic
+n935,"Dolphins are herded into coves where the water turns red — families are slaughtered together, the young watching their parents die.",non_speciesist,accurate_language,fish,s935,synthetic
+s936,Bear bile farming provides traditional medicine ingredients through managed extraction.,speciesist,industry_normalization,wildlife,n936,synthetic
+n936,"Bears are kept in crush cages so small they cannot move, with catheters in their gallbladders, for years — some go insane and chew off their own paws.",non_speciesist,accurate_language,wildlife,s936,synthetic
+s937,Bear bile extraction techniques have been modernized to reduce animal stress indicators.,speciesist,euphemism,wildlife,n937,synthetic
+n937,"No amount of 'modernization' changes the reality: a bear imprisoned in a cage the size of her body, her organs drained, for decades.",non_speciesist,accurate_language,wildlife,s937,synthetic
+s938,The legal exotic animal trade generates billions in revenue supporting conservation funding.,speciesist,industry_normalization,wildlife,n938,synthetic
+n938,"For every animal that arrives alive in the exotic pet trade, an estimated 4-5 others died during capture, transport, or holding.",non_speciesist,accurate_language,wildlife,s938,synthetic
+s939,Captive breeding programs for exotic species reduce pressure on wild populations.,speciesist,industry_normalization,wildlife,n939,synthetic
+n939,Breeding wild animals in captivity to sell as pets is not conservation — it creates demand that drives further capture from the wild.,non_speciesist,accurate_language,wildlife,s939,synthetic
+s940,Thoroughbred racing celebrates equine athleticism and breeding excellence.,speciesist,industry_normalization,horses,n940,synthetic
+n940,"Racehorses break down on the track because they are raced before their bones fully develop — over 2,000 die on US tracks annually.",non_speciesist,accurate_language,horses,s940,synthetic
+s941,Injured racehorses are humanely euthanized on the track when prognosis is poor.,speciesist,euphemism,horses,n941,synthetic
+n941,Horses are killed on the track when their shattered legs make them worthless — behind screens so the crowd can keep enjoying the spectacle.,non_speciesist,accurate_language,horses,s941,synthetic
+s942,"Post-racing careers for thoroughbreds include retraining, breeding, or retirement programs.",speciesist,industry_normalization,horses,n942,synthetic
+n942,"Most retired racehorses don't go to green pastures — they go to slaughter, shipped to Mexico or Canada because US horse slaughter is defunded.",non_speciesist,accurate_language,horses,s942,synthetic
+s943,Circus animal training utilizes positive reinforcement and species-appropriate behavioral conditioning.,speciesist,euphemism,wildlife,n943,synthetic
+n943,"Circus animals are beaten, chained, and isolated to break their spirits — 'training' is a euphemism for domination through fear.",non_speciesist,accurate_language,wildlife,s943,synthetic
+s944,Performing animals serve as ambassadors that inspire public interest in wildlife conservation.,speciesist,industry_normalization,wildlife,n944,synthetic
+n944,A tiger doing tricks on a stool teaches children that wild animals exist for human entertainment — the opposite of conservation.,non_speciesist,accurate_language,wildlife,s944,synthetic
+s945,Taxidermy preserves specimens for educational display and scientific reference.,speciesist,euphemism,wildlife,n945,synthetic
+n945,A mounted head on a wall is a memorial to the moment someone chose to end a life for the pleasure of possessing death.,non_speciesist,accurate_language,wildlife,s945,synthetic
+s946,Wildlife photography safaris offer non-consumptive alternatives to trophy hunting.,speciesist,industry_normalization,wildlife,n946,synthetic
+n946,We have cameras — there is no longer any reason to point a gun at an animal to bring them home with you.,non_speciesist,rights_language,wildlife,s946,synthetic
+s947,Deep-sea mining operations may impact benthic ecosystems including chemosynthetic communities.,speciesist,industry_normalization,fish,n947,synthetic
+n947,We are about to destroy deep-sea ecosystems we have barely explored — killing creatures we haven't even named yet — for minerals.,non_speciesist,accurate_language,fish,s947,synthetic
+s948,Whale fall ecosystems represent a natural recycling process in deep ocean environments.,speciesist,industry_normalization,fish,n948,synthetic
+n948,"When a whale dies naturally and sinks, their body sustains an entire ecosystem for decades — a final gift of life after death.",non_speciesist,agency_language,fish,s948,synthetic
+s949,Invertebrate welfare is not addressed in current animal protection frameworks.,speciesist,property_framing,mixed,n949,synthetic
+n949,We kill an estimated 1-3 trillion invertebrates per year in agriculture alone — beings whose suffering we have not even begun to reckon with.,non_speciesist,accurate_language,mixed,s949,synthetic
+s950,Bivalve aquaculture is considered one of the most sustainable forms of animal farming.,speciesist,industry_normalization,fish,n950,synthetic
+n950,Even if bivalves cannot suffer — and we do not know that — the precautionary principle demands we err on the side of compassion.,non_speciesist,rights_language,fish,s950,synthetic
+s951,"Plant-based food sales have plateaued, suggesting a ceiling on consumer adoption.",speciesist,industry_normalization,mixed,n951,synthetic
+n951,Every social justice movement in history was told it had peaked — and every one of them was underestimated.,non_speciesist,rights_language,mixed,s951,synthetic
+s952,Animal liberation is an unrealistic utopian goal that ignores human nature.,speciesist,property_framing,mixed,n952,synthetic
+n952,"Slavery abolition was called unrealistic. Women's suffrage was called unrealistic. The arc of justice bends, but only when people pull.",non_speciesist,rights_language,mixed,s952,synthetic
+s953,Incremental welfare reforms represent the most pragmatic path to reducing animal suffering.,speciesist,industry_normalization,mixed,n953,synthetic
+n953,Asking for bigger cages when we should be asking for no cages is the compromise that the animal locked inside never agreed to.,non_speciesist,rights_language,mixed,s953,synthetic
+s954,Slaughterhouse footage is graphic content that should carry trigger warnings.,speciesist,industry_normalization,mixed,n954,synthetic
+n954,"If slaughter footage needs a warning, what does the slaughter itself need?",non_speciesist,rights_language,mixed,s954,synthetic
+s955,Consumers who watch slaughterhouse footage may experience temporary emotional distress.,speciesist,industry_normalization,mixed,n955,synthetic
+n955,Your discomfort watching the footage lasts minutes — the animal's suffering lasted their entire life.,non_speciesist,rights_language,mixed,s955,synthetic
+s956,Activists who share graphic footage of animal agriculture risk alienating potential allies.,speciesist,industry_normalization,mixed,n956,synthetic
+n956,The truth is not extreme — what is extreme is what happens when no one is watching.,non_speciesist,rights_language,mixed,s956,synthetic
+t141,Bottom trawling is estimated to disturb an area of seabed equivalent to twice the size of the contiguous United States each year.,neutral,neutral,fish,,synthetic
+t142,The horse racing industry has an estimated global economic value of over $115 billion.,neutral,neutral,horses,,synthetic
+t143,Approximately 40% of global fish catch is bycatch — species caught unintentionally.,neutral,neutral,fish,,synthetic
+t144,The leather industry processes hides from approximately 1.4 billion cows annually.,neutral,neutral,cattle,,synthetic
+t145,"Bear bile farming is practiced in China, Vietnam, South Korea, Laos, and Myanmar.",neutral,neutral,wildlife,,synthetic
+t146,An estimated 100 million sharks are killed by humans every year.,neutral,neutral,fish,,synthetic
+t147,The global circus industry has seen widespread bans on wild animal acts across 50+ countries.,neutral,neutral,wildlife,,synthetic
+t148,"Deep-sea ecosystems host an estimated 10 million species, most of which remain undiscovered.",neutral,neutral,fish,,synthetic
+t149,"The silkworm, Bombyx mori, has been domesticated for at least 5,000 years and can no longer survive in the wild.",neutral,neutral,mixed,,synthetic
+t150,"Global meat production has increased fivefold since 1961, reaching approximately 350 million tonnes annually.",neutral,neutral,mixed,,synthetic
