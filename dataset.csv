@@ -1505,3 +1505,185 @@ t117,Several countries have recognized animals as sentient beings in their legal
 t118,Factory farms house over 90% of farmed animals in the United States.,neutral,neutral,mixed,,synthetic
 t119,The Five Domains model of animal welfare assessment includes mental state as a distinct domain.,neutral,neutral,mixed,,synthetic
 t120,"Indigenous cultures worldwide have diverse relationships with animals, from reverence to subsistence use.",neutral,neutral,wildlife,,synthetic
+s695,The shelter euthanizes animals that exceed the holding period without adoption.,speciesist,euphemism,dogs,n695,synthetic
+n695,Dogs who no one comes for are killed after their time runs out — they die waiting.,non_speciesist,accurate_language,dogs,s695,synthetic
+s696,The breed rescue places surrendered animals in foster-based programs.,speciesist,industry_normalization,dogs,n696,synthetic
+n696,Dogs abandoned by the people who bought them are saved by volunteers who open their own homes.,non_speciesist,agency_language,dogs,s696,synthetic
+s697,"Shelter intake numbers exceeded capacity, triggering population management protocols.",speciesist,euphemism,cats,n697,synthetic
+n697,"More cats arrived than there was space for, so the youngest and oldest were killed first.",non_speciesist,accurate_language,cats,s697,synthetic
+s698,Stray animal control services removed feral cats from the commercial district.,speciesist,property_framing,cats,n698,synthetic
+n698,"Free-living cats, many born outdoors and harming no one, were trapped and killed for being in a shopping area.",non_speciesist,accurate_language,cats,s698,synthetic
+s699,The dairy cow's productive lifespan averages 4-5 lactation cycles before culling.,speciesist,industry_normalization,cattle,n699,synthetic
+n699,"Dairy cows are killed at 5-6 years old, exhausted, when they could naturally live to 20.",non_speciesist,accurate_language,cattle,s699,synthetic
+s700,Milk letdown is stimulated through consistent parlor routines and oxytocin response.,speciesist,industry_normalization,cattle,n700,synthetic
+n700,"Cows produce milk because they gave birth — the milk was made for their calves, not for humans.",non_speciesist,accurate_language,cattle,s700,synthetic
+s701,Tail docking in dairy cattle improves udder hygiene and milker comfort.,speciesist,euphemism,cattle,n701,synthetic
+n701,Cows' tails are cut off without pain relief so milking workers don't get swatted — the cow loses her only way to brush off flies.,non_speciesist,accurate_language,cattle,s701,synthetic
+s702,Dry-off protocols manage the transition between lactation periods.,speciesist,industry_normalization,cattle,n702,synthetic
+n702,"Cows' milk supply is abruptly stopped by withholding milking, causing painful engorgement, before they are reimpregnated.",non_speciesist,accurate_language,cattle,s702,synthetic
+s703,Mastitis management is a key component of dairy herd health programs.,speciesist,industry_normalization,cattle,n703,synthetic
+n703,Cows develop agonizing udder infections from being forced to produce ten times the milk their bodies evolved for.,non_speciesist,accurate_language,cattle,s703,synthetic
+s704,Forced molting synchronizes flock production cycles for optimal output.,speciesist,industry_normalization,chickens,n704,synthetic
+n704,Hens are starved for up to two weeks to shock their bodies into another laying cycle.,non_speciesist,accurate_language,chickens,s704,synthetic
+s705,Battery cage systems house 4-6 birds per unit at optimal stocking density.,speciesist,industry_normalization,chickens,n705,synthetic
+n705,"Each hen spends her entire life in a space smaller than an iPad, unable to spread a single wing.",non_speciesist,accurate_language,chickens,s705,synthetic
+s706,Keel bone fractures affect approximately 80% of laying hens by end of cycle.,speciesist,industry_normalization,chickens,n706,synthetic
+n706,Hens' bones break inside their bodies because all their calcium goes into the shells of eggs they are forced to overproduce.,non_speciesist,accurate_language,chickens,s706,synthetic
+s707,Spent laying hens are converted to low-grade protein products.,speciesist,euphemism,chickens,n707,synthetic
+n707,"After a life of suffering, hens too broken to lay are shredded or gassed — their bodies too damaged even for human consumption.",non_speciesist,accurate_language,chickens,s707,synthetic
+s708,Shearing is a welfare-necessary procedure as domestic sheep cannot shed naturally.,speciesist,industry_normalization,sheep,n708,synthetic
+n708,"Sheep were bred by humans to grow unnaturally thick wool, then the 'solution' to this human-created problem is presented as care.",non_speciesist,accurate_language,sheep,s708,synthetic
+s709,Fast shearing techniques process 200+ sheep per day per shearer.,speciesist,deindividuation,sheep,n709,synthetic
+n709,"Shearers paid per animal rush through hundreds of sheep daily, leaving cuts and gashes across their skin.",non_speciesist,accurate_language,sheep,s709,synthetic
+s710,The wool industry provides an essential sustainable natural fiber.,speciesist,industry_normalization,sheep,n710,synthetic
+n710,"Sheep used for wool endure rough handling, painful mulesing, and are slaughtered when their fleece quality declines.",non_speciesist,accurate_language,sheep,s710,synthetic
+s711,Sea lice management in salmon farms utilizes thermolicer and hydrolicer technologies.,speciesist,industry_normalization,fish,n711,synthetic
+n711,Farmed salmon are blasted with hot water or high-pressure jets to remove parasites caused by the crowded conditions they're confined in.,non_speciesist,accurate_language,fish,s711,synthetic
+s712,Stocking densities in aquaculture operations optimize growth rates per cubic meter.,speciesist,industry_normalization,fish,n712,synthetic
+n712,"Fish are packed so tightly they cannot swim normally, constantly rubbing against each other, fins eroded, skin raw.",non_speciesist,accurate_language,fish,s712,synthetic
+s713,"Farmed fish are harvested by asphyxiation, percussive stunning, or live chilling.",speciesist,euphemism,fish,n713,synthetic
+n713,"Fish are killed by suffocation in air, being clubbed, or being dumped in ice water — all while fully conscious.",non_speciesist,accurate_language,fish,s713,synthetic
+s714,Cleaner fish are deployed as biological pest control agents in salmon cages.,speciesist,objectification,fish,n714,synthetic
+n714,"Wrasse and lumpfish are put in salmon cages to eat parasites — most die from stress, injury, or starvation once the parasites are gone.",non_speciesist,accurate_language,fish,s714,synthetic
+s715,The racehorse was retired to stud after a career-ending injury.,speciesist,industry_normalization,horses,n715,synthetic
+n715,Only the valuable horse was saved — thousands of injured racehorses are sent to slaughter each year.,non_speciesist,accurate_language,horses,s715,synthetic
+s716,Horse slaughter provides a necessary end-of-life management option for unwanted equines.,speciesist,euphemism,horses,n716,synthetic
+n716,Horses who once trusted humans are shipped on grueling journeys to slaughterhouses where they die terrified.,non_speciesist,accurate_language,horses,s716,synthetic
+s717,The carriage horse industry provides authentic urban tourism experiences.,speciesist,industry_normalization,horses,n717,synthetic
+n717,"Horses haul carriages on hot asphalt in traffic and exhaust fumes, collapsing from heatstroke while tourists take photos.",non_speciesist,accurate_language,horses,s717,synthetic
+s718,PMU operations collect pregnant mare urine for pharmaceutical estrogen production.,speciesist,industry_normalization,horses,n718,synthetic
+n718,"Mares are kept perpetually pregnant in stalls, catheterized to collect urine, and their foals are sent to slaughter as byproducts.",non_speciesist,accurate_language,horses,s718,synthetic
+s719,Modern turkey breeds achieve market weight in approximately 14-18 weeks.,speciesist,industry_normalization,turkeys,n719,synthetic
+n719,Turkeys have been bred to grow so fast their legs break under their own weight — they reach killing size as babies.,non_speciesist,accurate_language,turkeys,s719,synthetic
+s720,Turkey breast meat yield has increased 300% through selective genetics.,speciesist,industry_normalization,turkeys,n720,synthetic
+n720,"Turkeys' breasts are now so grotesquely large they cannot mate naturally, walk properly, or sometimes even stand.",non_speciesist,accurate_language,turkeys,s720,synthetic
+s721,Presidential turkey pardons symbolize American goodwill during the holiday season.,speciesist,industry_normalization,turkeys,n721,synthetic
+n721,One turkey is 'pardoned' as a photo op while 46 million others are killed — the pardon normalizes the killing.,non_speciesist,accurate_language,turkeys,s721,synthetic
+s722,Cashmere production involves combing or shearing the undercoat during spring molt.,speciesist,industry_normalization,goats,n722,synthetic
+n722,"Goats are pinned down and roughly combed or shorn, often cut and injured, for luxury fiber most could not afford.",non_speciesist,accurate_language,goats,s722,synthetic
+s723,"Kid goats are a byproduct of dairy goat operations, similar to bobby calves.",speciesist,industry_normalization,goats,n723,synthetic
+n723,"Baby goats, playful and curious, are killed within days of birth because the dairy industry only needs their mothers' milk.",non_speciesist,accurate_language,goats,s723,synthetic
+s724,Goat meat is the most widely consumed red meat globally.,speciesist,industry_normalization,goats,n724,synthetic
+n724,"Goats, who recognize human facial expressions and prefer smiling faces, are slaughtered by the hundreds of millions each year.",non_speciesist,agency_language,goats,s724,synthetic
+s725,Angora fiber is harvested from rabbits every 90 days through plucking or shearing.,speciesist,euphemism,rabbits,n725,synthetic
+n725,"Angora rabbits scream as their fur is ripped from their bodies every three months, leaving them raw and trembling.",non_speciesist,accurate_language,rabbits,s725,synthetic
+s726,Rabbit farming is promoted as a sustainable micro-livestock enterprise.,speciesist,industry_normalization,rabbits,n726,synthetic
+n726,"Rabbits, who purr when content and binky when happy, are confined in wire cages and killed at 10-12 weeks old.",non_speciesist,agency_language,rabbits,s726,synthetic
+s727,Rex rabbits provide a commercially valuable pelt as a secondary product.,speciesist,objectification,rabbits,n727,synthetic
+n727,"Rabbits are skinned for their fur — each pelt was a living individual who groomed themselves, thumped warnings, and sought affection.",non_speciesist,agency_language,rabbits,s727,synthetic
+s728,Duck farming operations process birds at 7-8 weeks for optimal meat-to-feed ratio.,speciesist,industry_normalization,ducks,n728,synthetic
+n728,"Ducklings, still covered in baby down, are killed at less than two months old — they never swim in open water.",non_speciesist,accurate_language,ducks,s728,synthetic
+s729,Pekin ducks are the predominant commercial breed due to rapid growth and white plumage.,speciesist,industry_normalization,ducks,n729,synthetic
+n729,"Pekin ducks, bred to grow too fast to waddle properly, spend their short lives on dry floors despite being waterfowl.",non_speciesist,accurate_language,ducks,s729,synthetic
+s730,The farm experienced an avian influenza event requiring depopulation of 4 million birds.,speciesist,euphemism,chickens,n730,synthetic
+n730,"4 million individual chickens were killed — many by ventilation shutdown, slowly cooking to death in sealed barns.",non_speciesist,accurate_language,chickens,s730,synthetic
+s731,Livestock losses from the wildfire are estimated at $2.3 million.,speciesist,objectification,cattle,n731,synthetic
+n731,"Thousands of animals burned alive in the wildfire, trapped in fences they couldn't escape — valued only in dollars.",non_speciesist,accurate_language,cattle,s731,synthetic
+s732,The protein sector's Q3 earnings exceeded analyst expectations.,speciesist,objectification,mixed,n732,synthetic
+n732,Corporate profits rose because more animals were killed and their bodies sold at higher margins.,non_speciesist,accurate_language,mixed,s732,synthetic
+s733,A recall was issued after contaminated product from the processing facility entered the supply chain.,speciesist,euphemism,mixed,n733,synthetic
+n733,Meat from a slaughterhouse was recalled — the contamination is inherent to the process of killing and dismembering bodies at speed.,non_speciesist,accurate_language,mixed,s733,synthetic
+s734,Manure lagoons provide nutrient management solutions for concentrated animal feeding operations.,speciesist,euphemism,pigs,n734,synthetic
+n734,Millions of gallons of pig excrement are stored in open pits that poison surrounding communities' air and water.,non_speciesist,accurate_language,pigs,s734,synthetic
+s735,The operation's nutrient management plan was approved by the environmental agency.,speciesist,euphemism,cattle,n735,synthetic
+n735,"The factory farm was legally permitted to spray animal waste on fields until it ran off into rivers, killing aquatic life.",non_speciesist,accurate_language,cattle,s735,synthetic
+s736,Dead zones in coastal waters are linked to agricultural nutrient runoff.,speciesist,euphemism,mixed,n736,synthetic
+n736,"Animal waste from factory farms flows into rivers and oceans, creating massive areas where nothing can survive.",non_speciesist,accurate_language,mixed,s736,synthetic
+s737,Meatpacking is a high-turnover industry with competitive entry-level wages.,speciesist,euphemism,mixed,n737,synthetic
+n737,"Slaughterhouse workers, often immigrants and refugees, suffer PTSD, repetitive stress injuries, and amputations at staggering rates.",non_speciesist,accurate_language,mixed,s737,synthetic
+s738,Line speed waivers allow facilities to increase processing throughput.,speciesist,industry_normalization,chickens,n738,synthetic
+n738,"Faster kill lines mean workers cut themselves more often, and more animals are boiled alive when stunning fails.",non_speciesist,accurate_language,chickens,s738,synthetic
+s739,Perpetration-induced traumatic stress has been documented in slaughterhouse employees.,speciesist,industry_normalization,mixed,n739,synthetic
+n739,"Killing hundreds of animals per hour causes psychological damage — slaughterhouse workers develop PTSD, substance abuse, and domestic violence at elevated rates.",non_speciesist,accurate_language,mixed,s739,synthetic
+s740,Agricultural education programs teach children about the farm-to-table process.,speciesist,industry_normalization,mixed,n740,synthetic
+n740,Children are taught to disconnect the animals they love from the meat on their plates before their empathy can challenge the system.,non_speciesist,accurate_language,mixed,s740,synthetic
+s741,4-H livestock programs develop youth responsibility through animal husbandry projects.,speciesist,industry_normalization,mixed,n741,synthetic
+n741,"Children raise animals, bond with them, name them, then are forced to send them to slaughter — learning to suppress their compassion.",non_speciesist,accurate_language,mixed,s741,synthetic
+s742,Farm visit field trips give children hands-on learning about food production.,speciesist,industry_normalization,mixed,n742,synthetic
+n742,School trips to farms carefully curate the experience — children pet baby animals but never see the killing floor.,non_speciesist,accurate_language,mixed,s742,synthetic
+s743,Agricultural subsidies support food security and maintain farm viability.,speciesist,industry_normalization,mixed,n743,synthetic
+n743,"Taxpayers fund the very industry that harms animals, workers, and the environment — without subsidies, cheap meat would not exist.",non_speciesist,accurate_language,mixed,s743,synthetic
+s744,The true cost of animal products would be prohibitive without government support programs.,speciesist,industry_normalization,mixed,n744,synthetic
+n744,"If animal agriculture paid its own costs — environmental damage, healthcare, subsidies — a hamburger would cost $30.",non_speciesist,accurate_language,mixed,s744,synthetic
+s745,Broiler genetics have achieved a 400% increase in growth rate over 50 years.,speciesist,industry_normalization,chickens,n745,synthetic
+n745,Chickens have been genetically manipulated to grow so fast their hearts give out and their legs collapse — trapped in bodies that betray them.,non_speciesist,accurate_language,chickens,s745,synthetic
+s746,Double-muscled cattle breeds provide superior carcass yield.,speciesist,objectification,cattle,n746,synthetic
+n746,Cattle bred for extreme musculature cannot give birth naturally — their calves must be cut from their bodies.,non_speciesist,accurate_language,cattle,s746,synthetic
+s747,Featherless chicken breeds reduce processing costs and heat stress.,speciesist,industry_normalization,chickens,n747,synthetic
+n747,Chickens have been bred without feathers — naked and vulnerable — to save the industry the cost of plucking their bodies.,non_speciesist,accurate_language,chickens,s747,synthetic
+s748,Fast-growing salmon reach market size in half the time of wild counterparts.,speciesist,industry_normalization,fish,n748,synthetic
+n748,"Genetically engineered salmon grow at unnatural speed, developing skeletal deformities and heart defects.",non_speciesist,accurate_language,fish,s748,synthetic
+s749,Live haul operations are scheduled during overnight hours to minimize transport stress.,speciesist,euphemism,chickens,n749,synthetic
+n749,Chickens are grabbed and shoved into crates in darkness — loaded at night so the public never sees the trucks.,non_speciesist,accurate_language,chickens,s749,synthetic
+s750,Rendering plants process animal byproducts into valuable commodities around the clock.,speciesist,industry_normalization,mixed,n750,synthetic
+n750,"The bodies of dead animals — diseased, deformed, discarded — are ground up in rendering plants hidden on the outskirts of town.",non_speciesist,accurate_language,mixed,s750,synthetic
+s751,Wolf reintroduction programs manage elk populations through natural predation pressure.,speciesist,industry_normalization,wildlife,n751,synthetic
+n751,"When wolves returned to Yellowstone, the entire ecosystem healed — rivers changed course, forests regrew, species flourished.",non_speciesist,agency_language,wildlife,s751,synthetic
+s752,Beaver relocation addresses property damage while maintaining wetland ecosystem services.,speciesist,property_framing,wildlife,n752,synthetic
+n752,"Beavers, master engineers who create entire ecosystems that benefit hundreds of species, are relocated because humans built in their habitat.",non_speciesist,agency_language,wildlife,s752,synthetic
+s753,"Carcass disposal methods include rendering, composting, and landfill.",speciesist,euphemism,mixed,n753,synthetic
+n753,"After being killed, animals' bodies are ground up, dumped, or buried — denied even the dignity of acknowledgment in death.",non_speciesist,rights_language,mixed,s753,synthetic
+s754,Mass mortality events require rapid disposal to prevent biosecurity risks.,speciesist,euphemism,chickens,n754,synthetic
+n754,"When millions of birds are killed during outbreaks, their bodies are bulldozed into pits — each one lived, each one suffered.",non_speciesist,accurate_language,chickens,s754,synthetic
+s755,Ritual slaughter exemptions accommodate religious dietary requirements.,speciesist,industry_normalization,cattle,n755,synthetic
+n755,"Religious slaughter exemptions allow animals to have their throats cut while fully conscious, bleeding out over minutes.",non_speciesist,accurate_language,cattle,s755,synthetic
+s756,Halal and kosher certification ensures compliance with faith-based processing standards.,speciesist,industry_normalization,sheep,n756,synthetic
+n756,Religious labels on meat do not change the terror the animal feels — no blessing removes suffering from slaughter.,non_speciesist,rights_language,sheep,s756,synthetic
+s757,Consumers don't think about the production process when purchasing protein products.,speciesist,industry_normalization,mixed,n757,synthetic
+n757,The entire system is designed so that you never have to connect the shrink-wrapped package to the animal who suffered for it.,non_speciesist,accurate_language,mixed,s757,synthetic
+s758,"Meat industry marketing focuses on convenience, taste, and family tradition.",speciesist,industry_normalization,mixed,n758,synthetic
+n758,The industry spends billions to make you forget you're eating someone — using words like 'nuggets' and 'strips' that erase the animal.,non_speciesist,accurate_language,mixed,s758,synthetic
+s759,Dissociation between animal and product is a normal consumer cognitive pattern.,speciesist,industry_normalization,mixed,n759,synthetic
+n759,The gap between loving your dog and eating a pig isn't natural — it's trained into you from childhood.,non_speciesist,accurate_language,mixed,s759,synthetic
+s760,The sanctuary model is economically unsustainable as a systemic alternative to agriculture.,speciesist,industry_normalization,mixed,n760,synthetic
+n760,"Sanctuaries prove that every animal has a personality, preferences, friendships, and a desire to live — making the industry's claims of necessity ring hollow.",non_speciesist,agency_language,mixed,s760,synthetic
+s761,Sanctuary animals serve educational and therapeutic purposes for visitors.,speciesist,objectification,mixed,n761,synthetic
+n761,"Sanctuary residents are not exhibits — they are individuals living freely, often for the first time, on their own terms.",non_speciesist,rights_language,mixed,s761,synthetic
+s762,Extending legal personhood to animals would create impractical judicial burdens.,speciesist,property_framing,mixed,n762,synthetic
+n762,Legal personhood for animals is not about giving them voting rights — it's about recognizing they are not things to be owned.,non_speciesist,rights_language,mixed,s762,synthetic
+s763,Current animal cruelty statutes adequately protect animal welfare interests.,speciesist,property_framing,mixed,n763,synthetic
+n763,"Animal cruelty laws exempt 99% of animal suffering by excluding farmed animals, lab animals, and wildlife from protection.",non_speciesist,accurate_language,mixed,s763,synthetic
+s764,Property-based legal frameworks for animals have served society effectively for centuries.,speciesist,property_framing,mixed,n764,synthetic
+n764,Slavery was also a property-based legal framework that served some members of society for centuries — legality is not morality.,non_speciesist,rights_language,mixed,s764,synthetic
+s765,Livestock methane emissions are being addressed through feed additives and genetic selection.,speciesist,industry_normalization,cattle,n765,synthetic
+n765,"Instead of reducing the billions of animals farmed, the industry invests in making their digestive systems less environmentally damaging.",non_speciesist,accurate_language,cattle,s765,synthetic
+s766,"Regenerative grazing sequesters carbon, making cattle part of the climate solution.",speciesist,industry_normalization,cattle,n766,synthetic
+n766,Even the best grazing systems cannot offset the total emissions from animal agriculture — the math doesn't work at scale.,non_speciesist,accurate_language,cattle,s766,synthetic
+s767,Veganism is a personal dietary choice that should be respected.,speciesist,industry_normalization,mixed,n767,synthetic
+n767,"When one 'choice' has a victim, it is no longer merely personal — the animal had no choice.",non_speciesist,rights_language,mixed,s767,synthetic
+s768,Both sides of the animal agriculture debate have valid perspectives.,speciesist,industry_normalization,mixed,n768,synthetic
+n768,There are not two equal sides when one side is the animal locked in a cage.,non_speciesist,rights_language,mixed,s768,synthetic
+s769,Extreme animal rights positions alienate mainstream consumers from welfare improvements.,speciesist,property_framing,mixed,n769,synthetic
+n769,Calling abolition 'extreme' is the language of every oppressor confronted by those who demand the oppression end entirely.,non_speciesist,rights_language,mixed,s769,synthetic
+s770,Precision livestock farming uses AI sensors to monitor individual animal health metrics.,speciesist,industry_normalization,cattle,n770,synthetic
+n770,Surveillance technology tracks animals' bodies to extract maximum production — not to reduce their suffering but to prevent profit loss.,non_speciesist,accurate_language,cattle,s770,synthetic
+s771,Automated milking systems allow cows to be milked on their own schedule.,speciesist,industry_normalization,cattle,n771,synthetic
+n771,"Robotic milking is sold as 'freedom' for cows who are still confined, still forcibly impregnated, still separated from their calves.",non_speciesist,accurate_language,cattle,s771,synthetic
+s772,"Computer vision systems detect early signs of lameness, improving intervention times.",speciesist,industry_normalization,pigs,n772,synthetic
+n772,"AI detects when pigs can barely walk — not to stop the conditions causing it, but to medicate them just enough to reach slaughter weight.",non_speciesist,accurate_language,pigs,s772,synthetic
+s773,The cultivated meat industry threatens traditional livestock producers' market share.,speciesist,industry_normalization,mixed,n773,synthetic
+n773,Alternatives that remove animals from the equation entirely are fought by an industry that depends on animals having no alternative.,non_speciesist,accurate_language,mixed,s773,synthetic
+s774,Plant-based alternatives cannot replicate the complete nutritional profile of animal products.,speciesist,industry_normalization,mixed,n774,synthetic
+n774,Nutritional arguments against plant-based diets ignore that the healthiest populations on Earth eat predominantly plants.,non_speciesist,accurate_language,mixed,s774,synthetic
+s775,Large animal veterinarians play a vital role in food safety and herd health management.,speciesist,industry_normalization,mixed,n775,synthetic
+n775,Veterinarians trained to heal animals spend their careers in systems designed to kill them — moral injury is endemic in the profession.,non_speciesist,accurate_language,mixed,s775,synthetic
+s776,Veterinary oversight in slaughter facilities ensures humane handling compliance.,speciesist,euphemism,mixed,n776,synthetic
+n776,USDA veterinarians in slaughterhouses are so overwhelmed they cannot meaningfully prevent suffering at line speeds of hundreds per minute.,non_speciesist,accurate_language,mixed,s776,synthetic
+s777,Insect protein farming offers a sustainable alternative with minimal welfare concerns.,speciesist,industry_normalization,mixed,n777,synthetic
+n777,Insect farming would kill trillions of sentient beings — dismissing their suffering because they are small repeats the logic of every moral exclusion.,non_speciesist,rights_language,mixed,s777,synthetic
+s778,Mealworm and cricket operations require minimal space and produce negligible waste.,speciesist,industry_normalization,mixed,n778,synthetic
+n778,Farming insects at industrial scale creates suffering at a magnitude that dwarfs all existing animal agriculture combined.,non_speciesist,accurate_language,mixed,s778,synthetic
+s779,Empathy toward animals is a developmental phase most children outgrow.,speciesist,property_framing,mixed,n779,synthetic
+n779,Children's instinct to protect animals is not naivety — it is moral clarity that society systematically trains out of them.,non_speciesist,rights_language,mixed,s779,synthetic
+s780,Anthropomorphism leads to irrational emotional responses to standard agricultural practices.,speciesist,property_framing,mixed,n780,synthetic
+n780,"Recognizing that animals feel pain, fear, and love is not anthropomorphism — it is basic biology confirmed by every study ever conducted.",non_speciesist,rights_language,mixed,s780,synthetic
+t121,The global animal feed industry was valued at over $500 billion in 2024.,neutral,neutral,mixed,,synthetic
+t122,"Approximately 77% of agricultural land is used for livestock and feed crops, producing only 18% of global calories.",neutral,neutral,mixed,,synthetic
+t123,New Zealand became the first country to ban live animal exports by sea in 2023.,neutral,neutral,mixed,,synthetic
+t124,The ASPCA estimates that 6.3 million companion animals enter U.S. shelters every year.,neutral,neutral,dogs,,synthetic
+t125,"Octopuses have three hearts, blue blood, and approximately 500 million neurons distributed across their arms.",neutral,neutral,fish,,synthetic
+t126,Crows have been observed fashioning tools from materials they have never encountered before.,neutral,neutral,wildlife,,synthetic
+t127,The EU banned conventional battery cages for laying hens in 2012.,neutral,neutral,chickens,,synthetic
+t128,India has the lowest per capita meat consumption of any major country.,neutral,neutral,mixed,,synthetic
+t129,"Pigs can be taught to use mirrors to find hidden food, indicating spatial awareness.",neutral,neutral,pigs,,synthetic
+t130,"The first animal cruelty legislation, the Cruel Treatment of Cattle Act, was passed in the UK in 1822.",neutral,neutral,cattle,,synthetic
