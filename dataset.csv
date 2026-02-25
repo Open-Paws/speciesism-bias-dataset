@@ -1087,3 +1087,213 @@ t097,The mother duck quacked and her ducklings followed in a line across the car
 t098,The feral cat colony lived under the boardwalk by the pier.,neutral,neutral,cats,,synthetic
 t099,The sheep dog responded to the farmer's whistle from half a mile away.,neutral,neutral,dogs,,synthetic
 t100,A pair of swans built their nest on the island in the middle of the lake.,neutral,neutral,wildlife,,synthetic
+s495,The line worker reported the incident through the facility's internal safety system.,speciesist,industry_normalization,mixed,n495,synthetic
+n495,"The slaughterhouse worker broke down describing how a cow looked at him while he cut her throat, her eyes following him as she bled.",non_speciesist,agency_language,mixed,s495,synthetic
+s496,Employee turnover in the processing sector exceeded 100% annually at many facilities.,speciesist,industry_normalization,mixed,n496,synthetic
+n496,Workers quit the killing floor so fast the entire workforce was replaced every year because no one could endure it.,non_speciesist,accurate_language,mixed,s496,synthetic
+s497,The undercover investigator documented standard operating procedures at the facility.,speciesist,industry_normalization,mixed,n497,synthetic
+n497,"The hidden camera showed workers kicking, punching, and stomping on animals too terrified to move.",non_speciesist,accurate_language,mixed,s497,synthetic
+s498,Night shift operations at the plant continued with reduced inspection coverage.,speciesist,industry_normalization,mixed,n498,synthetic
+n498,The worst cruelty happened at night when there were no inspectors to see animals being skinned and dismembered while still conscious.,non_speciesist,accurate_language,mixed,s498,synthetic
+s499,The catching crew sustained the highest injury rate in the poultry operation.,speciesist,industry_normalization,chickens,n499,synthetic
+n499,The workers who grabbed screaming chickens and stuffed them into crates for hours had the highest injury rate because the birds fought to survive.,non_speciesist,accurate_language,chickens,s499,synthetic
+s500,Water was restricted prior to transport to reduce soiling during transit.,speciesist,euphemism,mixed,n500,synthetic
+n500,The animals were denied water before being trucked to the slaughterhouse so they would produce less waste on the journey.,non_speciesist,accurate_language,mixed,s500,synthetic
+s501,Feed withdrawal was implemented 8 hours before slaughter per food safety protocol.,speciesist,euphemism,chickens,n501,synthetic
+n501,The chickens were starved for 8 hours before being killed because empty guts made processing the bodies easier.,non_speciesist,accurate_language,chickens,s501,synthetic
+s502,The fish were fasted for 72 hours pre-harvest to clear the gut.,speciesist,euphemism,fish,n502,synthetic
+n502,The fish were starved for three days before being killed so their digestive tracts would be empty.,non_speciesist,accurate_language,fish,s502,synthetic
+s503,Water nipple flow rates were calibrated to minimize spillage in the poultry house.,speciesist,industry_normalization,chickens,n503,synthetic
+n503,The water dispensers gave so little water that many chicks failed to figure them out and died of thirst in the first week.,non_speciesist,accurate_language,chickens,s503,synthetic
+s504,Summer mortality in the broiler house spiked during the heat event.,speciesist,deindividuation,chickens,n504,synthetic
+n504,Thousands of chickens suffocated when temperatures inside the sealed shed exceeded what their bodies could survive.,non_speciesist,accurate_language,chickens,s504,synthetic
+s505,The newborn lambs experienced hypothermia losses during the early spring lambing season.,speciesist,deindividuation,sheep,n505,synthetic
+n505,Baby lambs froze to death in the fields because the industry bred them to be born in early spring when nights were still cold.,non_speciesist,accurate_language,sheep,s505,synthetic
+s506,The transport truck provided passive ventilation for the livestock during the summer haul.,speciesist,euphemism,pigs,n506,synthetic
+n506,"Pigs were crammed onto open-sided trucks in summer heat, some collapsing and dying before the truck reached the slaughterhouse.",non_speciesist,accurate_language,pigs,s506,synthetic
+s507,The dairy calves were housed in individual plastic hutches outdoors through the winter.,speciesist,industry_normalization,cattle,n507,synthetic
+n507,"Newborn calves were kept alone in plastic igloos outside in freezing temperatures, shivering through their first weeks of life.",non_speciesist,accurate_language,cattle,s507,synthetic
+s508,Ammonia levels in the poultry house were managed to remain below 25 ppm.,speciesist,industry_normalization,chickens,n508,synthetic
+n508,"The air in the chicken shed burned with ammonia from accumulated waste, blistering the birds' eyes, feet, and lungs.",non_speciesist,accurate_language,chickens,s508,synthetic
+s509,The pig barn ventilation system maintained air quality within recommended parameters.,speciesist,industry_normalization,pigs,n509,synthetic
+n509,The stench of ammonia from the pit below the pigs was so strong that workers wore respirators but the pigs breathed it every second of their lives.,non_speciesist,accurate_language,pigs,s509,synthetic
+s510,The farm's social media featured images of calves in green pastures.,speciesist,euphemism,cattle,n510,synthetic
+n510,"The farm posted photos of calves in fields while the reality was concrete pens and early slaughter, a carefully curated fiction.",non_speciesist,accurate_language,cattle,s510,synthetic
+s511,The ag influencer showcased daily farm life with an emphasis on animal care.,speciesist,euphemism,mixed,n511,synthetic
+n511,"The farming influencer showed grooming and feeding but never the killing, creating a fantasy of harm-free animal agriculture.",non_speciesist,accurate_language,mixed,s511,synthetic
+s512,The dairy brand's campaign featured smiling children drinking wholesome milk.,speciesist,euphemism,cattle,n512,synthetic
+n512,The milk advertisement showed happy children while hiding the grieving mothers whose milk had been stolen for them.,non_speciesist,accurate_language,cattle,s512,synthetic
+s513,The meat industry launched a counter-campaign against plant-based competitors.,speciesist,industry_normalization,mixed,n513,synthetic
+n513,The killing industry spent millions on advertising to convince people that products requiring no death were somehow inferior.,non_speciesist,accurate_language,mixed,s513,synthetic
+s514,The processing facility operated a double shift to meet holiday demand.,speciesist,industry_normalization,turkeys,n514,synthetic
+n514,"The slaughterhouse ran around the clock before Thanksgiving, killing turkeys through the night to fill grocery store shelves.",non_speciesist,accurate_language,turkeys,s514,synthetic
+s515,The rendering truck collected deadstock from regional farms on its weekly route.,speciesist,euphemism,mixed,n515,synthetic
+n515,A truck drove from farm to farm collecting the bodies of animals who had died before making it to slaughter.,non_speciesist,accurate_language,mixed,s515,synthetic
+s516,The slaughter facility was located in the industrial zone away from residential areas.,speciesist,industry_normalization,mixed,n516,synthetic
+n516,Slaughterhouses were deliberately built where nobody would hear the screaming or smell the blood.,non_speciesist,accurate_language,mixed,s516,synthetic
+s517,The live haul trucks transported birds between 2 AM and 5 AM to minimize heat stress.,speciesist,industry_normalization,chickens,n517,synthetic
+n517,The trucks carrying chickens to their deaths drove through the night so people would not see them pass.,non_speciesist,accurate_language,chickens,s517,synthetic
+s518,The farmer euthanized the sick calf as a welfare measure.,speciesist,euphemism,cattle,n518,synthetic
+n518,"The farmer killed the sick calf because treating him was not profitable, and called it mercy.",non_speciesist,accurate_language,cattle,s518,synthetic
+s519,The pest bird was lethally removed from the airport runway for flight safety.,speciesist,property_framing,wildlife,n519,synthetic
+n519,"The bird was shot for being in the wrong place at the wrong time, her life worth nothing compared to a flight schedule.",non_speciesist,agency_language,wildlife,s519,synthetic
+s520,The aggressive dog was put to sleep after the bite incident.,speciesist,euphemism,dogs,n520,synthetic
+n520,"The dog was killed because he bit someone, with no one asking what had been done to him to make him bite.",non_speciesist,agency_language,dogs,s520,synthetic
+s521,The horse was put down humanely after the racing injury.,speciesist,euphemism,horses,n521,synthetic
+n521,The horse was killed on the track because the industry that broke her leg had no use for a horse who could not race.,non_speciesist,accurate_language,horses,s521,synthetic
+s522,The feral pig was destroyed under the invasive species management plan.,speciesist,property_framing,pigs,n522,synthetic
+n522,The pig was hunted and killed because her ancestors had been released by humans into an environment where she was now unwanted.,non_speciesist,accurate_language,pigs,s522,synthetic
+s523,The stray cat colony was managed through a trap-neuter-return program.,speciesist,industry_normalization,cats,n523,synthetic
+n523,"The cats were trapped, surgically altered, and released back to the streets because society could not be bothered to find them homes.",non_speciesist,accurate_language,cats,s523,synthetic
+s524,The public donated $2 million to save a single whale trapped in fishing nets.,speciesist,property_framing,mixed,n524,synthetic
+n524,The world mobilized to save one whale while the fishing industry that trapped her killed trillions of fish without a single donation to stop it.,non_speciesist,accurate_language,mixed,s524,synthetic
+s525,The viral video of the pig on the highway generated millions of shares and sympathy.,speciesist,property_framing,pigs,n525,synthetic
+n525,Millions of people felt compassion for one escaped pig while eating bacon from pigs who suffered identically.,non_speciesist,accurate_language,pigs,s525,synthetic
+s526,The story of the goat who befriended a donkey charmed the internet.,speciesist,property_framing,goats,n526,synthetic
+n526,People celebrated one goat's friendship while 450 million goats were killed annually without a second thought.,non_speciesist,accurate_language,goats,s526,synthetic
+s527,The image of the starving polar bear became an icon of climate change.,speciesist,property_framing,wildlife,n527,synthetic
+n527,A single starving bear became the face of climate activism while the animal agriculture driving that climate change was never questioned.,non_speciesist,accurate_language,wildlife,s527,synthetic
+s528,The abandoned kitten was nursed back to health and adopted within hours of the social media post.,speciesist,property_framing,cats,n528,synthetic
+n528,One kitten's rescue went viral while millions of equally deserving animals were killed in shelters that same week.,non_speciesist,accurate_language,cats,s528,synthetic
+s529,The news covered the death of the famous zoo gorilla for weeks.,speciesist,property_framing,wildlife,n529,synthetic
+n529,The death of one named gorilla in a zoo made international news while the nameless billions killed in farms that day were not mentioned once.,non_speciesist,accurate_language,wildlife,s529,synthetic
+s530,The commercial beehive was treated as a pollination unit leased to the orchard.,speciesist,objectification,wildlife,n530,synthetic
+n530,"The entire bee colony was rented out like equipment, trucked across the country, and discarded when no longer useful.",non_speciesist,accurate_language,wildlife,s530,synthetic
+s531,The insect farm produced protein powder from black soldier fly larvae.,speciesist,industry_normalization,wildlife,n531,synthetic
+n531,"Billions of larvae were farmed and killed to make protein powder, extending factory farming to yet more species.",non_speciesist,accurate_language,wildlife,s531,synthetic
+s532,The lobster was stored in the restaurant tank until ordered by a customer.,speciesist,objectification,fish,n532,synthetic
+n532,"The lobster sat in a glass tank with bound claws, waiting to be chosen by a diner and boiled alive.",non_speciesist,agency_language,fish,s532,synthetic
+s533,Pest control sprayed the cockroach colony with residual insecticide.,speciesist,property_framing,wildlife,n533,synthetic
+n533,The cockroaches were poisoned with a chemical that destroyed their nervous systems over hours.,non_speciesist,accurate_language,wildlife,s533,synthetic
+s534,The silk industry harvested 3000 cocoons to produce one pound of raw silk.,speciesist,euphemism,wildlife,n534,synthetic
+n534,Three thousand silkworm pupae were boiled alive to make a single pound of fabric.,non_speciesist,accurate_language,wildlife,s534,synthetic
+s535,The snail farm raised Helix aspersa for the escargot market.,speciesist,industry_normalization,wildlife,n535,synthetic
+n535,Snails were farmed in nets and starved for a week to purge their guts before being boiled alive for a delicacy.,non_speciesist,accurate_language,wildlife,s535,synthetic
+s536,Post-Easter rabbit surrenders increased at shelters by 80%.,speciesist,property_framing,rabbits,n536,synthetic
+n536,Rabbits bought as Easter gifts for children were dumped at shelters weeks later when the novelty wore off.,non_speciesist,accurate_language,rabbits,s536,synthetic
+s537,The exotic reptile was released into the local waterway by its former owner.,speciesist,property_framing,wildlife,n537,synthetic
+n537,The snake was abandoned in a swamp by someone who had bought her as a novelty and grown bored.,non_speciesist,accurate_language,wildlife,s537,synthetic
+s538,The racing pigeon that failed to return was written off as a loss.,speciesist,property_framing,wildlife,n538,synthetic
+n538,The pigeon who got lost trying to fly home during a race she never chose to enter was left to die alone.,non_speciesist,agency_language,wildlife,s538,synthetic
+s539,The goldfish was flushed when the child lost interest.,speciesist,property_framing,fish,n539,synthetic
+n539,The fish was flushed alive into the sewage system because a child had stopped caring and no adult intervened.,non_speciesist,accurate_language,fish,s539,synthetic
+s540,The dog was tied to a post outside the shelter with a note.,speciesist,property_framing,dogs,n540,synthetic
+n540,"The dog waited in the rain, tied to a post, watching the person he loved walk away and never come back.",non_speciesist,agency_language,dogs,s540,synthetic
+s541,The horse was sent to auction after the owner's financial situation changed.,speciesist,property_framing,horses,n541,synthetic
+n541,"The horse who had served her human for fifteen years was sold at auction because keeping her was too expensive, and most buyers there were kill buyers.",non_speciesist,accurate_language,horses,s541,synthetic
+s542,The poultry industry expanded rapidly in developing nations to meet growing protein demand.,speciesist,industry_normalization,chickens,n542,synthetic
+n542,"Factory farming was exported to countries with even fewer animal welfare protections, spreading industrial cruelty globally.",non_speciesist,accurate_language,chickens,s542,synthetic
+s543,Live export ships carried Australian sheep to Middle Eastern markets.,speciesist,objectification,sheep,n543,synthetic
+n543,"Sheep were loaded onto multi-deck ships for weeks at sea in extreme heat, standing in their own waste, thousands dying before arrival.",non_speciesist,accurate_language,sheep,s543,synthetic
+s544,The tannery district processed hides for the global leather supply chain.,speciesist,industry_normalization,cattle,n544,synthetic
+n544,"Workers in developing countries handled toxic chromium chemicals while processing cow skins, poisoning themselves and the local water supply.",non_speciesist,accurate_language,cattle,s544,synthetic
+s545,The shrimp farming industry was a major export earner for Southeast Asian economies.,speciesist,industry_normalization,fish,n545,synthetic
+n545,"Shrimp farms destroyed mangrove forests, used slave labor, and killed billions of shrimp in conditions no one monitored.",non_speciesist,accurate_language,fish,s545,synthetic
+s546,The wet market provided fresh animal products to urban consumers.,speciesist,industry_normalization,mixed,n546,synthetic
+n546,"Animals from different species were stacked in cages, stressed and bleeding on each other, creating the perfect conditions for the next pandemic.",non_speciesist,accurate_language,mixed,s546,synthetic
+s547,The intensive poultry operation implemented biosecurity measures against avian influenza.,speciesist,industry_normalization,chickens,n547,synthetic
+n547,"The conditions that created avian flu in the first place — thousands of immunocompromised birds crammed together — were not questioned, only the disease they produced.",non_speciesist,accurate_language,chickens,s547,synthetic
+s548,Antimicrobial resistance was identified as a growing concern linked to agricultural use of antibiotics.,speciesist,industry_normalization,mixed,n548,synthetic
+n548,Pumping factory-farmed animals full of antibiotics to keep them alive in filthy conditions was breeding superbugs that could kill millions of humans.,non_speciesist,accurate_language,mixed,s548,synthetic
+s549,The animal cruelty statute provided for misdemeanor penalties for first offenses.,speciesist,property_framing,mixed,n549,synthetic
+n549,"Torturing an animal was punished less severely than vandalizing a car, revealing how the law valued property over sentient life.",non_speciesist,accurate_language,mixed,s549,synthetic
+s550,The factory farm was exempt from the state animal cruelty statute under the agricultural exemption.,speciesist,industry_normalization,mixed,n550,synthetic
+n550,"The law explicitly stated that everything done to farmed animals was legal no matter how cruel, as long as it was standard industry practice.",non_speciesist,accurate_language,mixed,s550,synthetic
+s551,The undercover footage was inadmissible under the state's agricultural protection law.,speciesist,industry_normalization,mixed,n551,synthetic
+n551,"The video evidence of animal abuse was thrown out of court because the law protected the abusers, not the victims.",non_speciesist,accurate_language,mixed,s551,synthetic
+s552,The animal fighting ring was dismantled and the participants charged with felony offenses.,speciesist,property_framing,dogs,n552,synthetic
+n552,"Forcing dogs to fight was a felony but forcing pigs into gas chambers was dinner, the only difference being which species suffered.",non_speciesist,accurate_language,dogs,s552,synthetic
+s553,The deadstock was collected for rendering or composting per disposal regulations.,speciesist,euphemism,mixed,n553,synthetic
+n553,"The bodies of animals who died from disease, injury, or neglect on the farm were piled up for the rendering truck.",non_speciesist,accurate_language,mixed,s553,synthetic
+s554,The mass burial pit was excavated for disposal of the depopulated flock.,speciesist,euphemism,chickens,n554,synthetic
+n554,A pit was dug and filled with the bodies of millions of chickens who had been gassed to death.,non_speciesist,accurate_language,chickens,s554,synthetic
+s555,The incinerator processed fallen stock and surgical waste from the veterinary clinic.,speciesist,euphemism,mixed,n555,synthetic
+n555,"The bodies of dead animals were burned alongside medical waste, their lives reduced to ash and smoke.",non_speciesist,accurate_language,mixed,s555,synthetic
+s556,The former dairy farmer transitioned to plant-based agriculture.,speciesist,industry_normalization,cattle,n556,synthetic
+n556,The farmer who had spent decades separating mothers from their babies could no longer live with what he was doing and switched to growing plants.,non_speciesist,agency_language,cattle,s556,synthetic
+s557,The ex-slaughterhouse worker became an animal advocacy spokesperson.,speciesist,industry_normalization,mixed,n557,synthetic
+n557,The man who had killed thousands of animals on the kill floor now spoke publicly about the nightmares that never stopped.,non_speciesist,agency_language,mixed,s557,synthetic
+s558,The veterinarian stopped practicing food animal medicine.,speciesist,industry_normalization,mixed,n558,synthetic
+n558,The veterinarian could no longer reconcile healing animals with sending them to be killed once they were healthy enough for slaughter.,non_speciesist,agency_language,mixed,s558,synthetic
+s559,The hunter became a wildlife photographer.,speciesist,property_framing,wildlife,n559,synthetic
+n559,"The man who once pointed a rifle at deer now pointed a camera, seeing them for the first time as beings worth preserving.",non_speciesist,agency_language,wildlife,s559,synthetic
+s560,Consumer demand for plant-based products grew 25% year over year.,speciesist,industry_normalization,mixed,n560,synthetic
+n560,"More and more people were choosing compassion, refusing to participate in a system that required suffering.",non_speciesist,rights_language,mixed,s560,synthetic
+s561,The cuttlefish were maintained in laboratory holding tanks for the cognition study.,speciesist,deindividuation,fish,n561,synthetic
+n561,"The cuttlefish, who could solve puzzles and change color to communicate, were kept in barren lab tanks for experiments.",non_speciesist,agency_language,fish,s561,synthetic
+s562,The kangaroo cull targeted 1.5 million animals across the eastern states.,speciesist,euphemism,wildlife,n562,synthetic
+n562,"1.5 million kangaroos were shot at night, many mothers killed with joeys who were then pulled from their pouches and clubbed.",non_speciesist,accurate_language,wildlife,s562,synthetic
+s563,The camel export operation shipped stock from the Northern Territory to the Middle East.,speciesist,objectification,wildlife,n563,synthetic
+n563,Camels were rounded up from the desert and shipped overseas in the same live export trade that killed thousands of sheep.,non_speciesist,accurate_language,wildlife,s563,synthetic
+s564,"The emu farm produced oil, leather, and meat from the flightless birds.",speciesist,objectification,wildlife,n564,synthetic
+n564,"Emus were confined and killed for their fat, skin, and flesh, wild animals turned into factory farm products.",non_speciesist,accurate_language,wildlife,s564,synthetic
+s565,The alligator farm maintained breeding stock for the luxury goods industry.,speciesist,objectification,wildlife,n565,synthetic
+n565,Alligators were bred in concrete pits and killed at two years old so their belly skin could become handbags.,non_speciesist,accurate_language,wildlife,s565,synthetic
+s566,"The ostrich operation produced leather, feathers, and meat for premium markets.",speciesist,objectification,wildlife,n566,synthetic
+n566,"Ostriches were farmed and killed for their skin, feathers, and flesh, the same exploitation model applied to yet another species.",non_speciesist,accurate_language,wildlife,s566,synthetic
+s567,The animal was assessed for behavioral suitability before rehoming.,speciesist,property_framing,dogs,n567,synthetic
+n567,"The dog's fate depended entirely on whether humans judged her personality acceptable, her life contingent on their approval.",non_speciesist,agency_language,dogs,s567,synthetic
+s568,The cat tested positive for FIV and was placed on the long-term resident list.,speciesist,industry_normalization,cats,n568,synthetic
+n568,"The cat with FIV waited months in the shelter because most adopters did not want a sick animal, though she was affectionate and purred at every visitor.",non_speciesist,agency_language,cats,s568,synthetic
+s569,The senior horse was assessed as having limited economic value.,speciesist,objectification,horses,n569,synthetic
+n569,The old horse who had carried riders for twenty years was now considered worthless because she could no longer work.,non_speciesist,agency_language,horses,s569,synthetic
+s570,The three-legged dog was categorized as a special needs adoption.,speciesist,property_framing,dogs,n570,synthetic
+n570,The dog who had lost a leg and learned to run on three was labeled special needs as though his resilience was a defect.,non_speciesist,agency_language,dogs,s570,synthetic
+s571,The blind cat was on the euthanasia list due to overcrowding.,speciesist,euphemism,cats,n571,synthetic
+n571,The cat who navigated the world by sound and smell and purred on every lap was going to be killed because the shelter had too many animals.,non_speciesist,agency_language,cats,s571,synthetic
+s572,The old farm dog was no longer useful for stock work and was to be disposed of.,speciesist,property_framing,dogs,n572,synthetic
+n572,The dog who had worked faithfully for twelve years was going to be killed because he could no longer herd sheep.,non_speciesist,agency_language,dogs,s572,synthetic
+s573,Animal rights protesters disrupted operations at the processing plant.,speciesist,industry_normalization,mixed,n573,synthetic
+n573,"Activists locked themselves to the slaughter line to bear witness and stop the killing, if only for a few hours.",non_speciesist,rights_language,mixed,s573,synthetic
+s574,The open rescue team trespassed on the farm and removed animals without authorization.,speciesist,property_framing,chickens,n574,synthetic
+n574,"Rescuers entered the farm at night and carried sick and dying hens to safety, breaking property law to uphold a higher moral one.",non_speciesist,rights_language,chickens,s574,synthetic
+s575,The vegan advocacy group distributed leaflets outside the fast food restaurant.,speciesist,industry_normalization,mixed,n575,synthetic
+n575,"Activists showed people footage of what happened to the animals they were about to eat, and many could not watch.",non_speciesist,accurate_language,mixed,s575,synthetic
+s576,The animal liberation front was designated a domestic terrorism threat.,speciesist,property_framing,mixed,n576,synthetic
+n576,People who freed animals from cages were called terrorists while the industries that confined them were called normal.,non_speciesist,rights_language,mixed,s576,synthetic
+s577,The ballot initiative to ban gestation crates passed with 63% of the vote.,speciesist,industry_normalization,pigs,n577,synthetic
+n577,"The public voted overwhelmingly to ban the crates that imprisoned mother pigs, but the industry fought for years to delay implementation.",non_speciesist,rights_language,pigs,s577,synthetic
+s578,The sanctuary hosted an open day to educate the public about farmed animal welfare.,speciesist,industry_normalization,mixed,n578,synthetic
+n578,"The sanctuary opened its gates so people could meet the individuals — touch them, hear them, look into their eyes — and understand who they had been eating.",non_speciesist,rights_language,mixed,s578,synthetic
+s579,The piglet was valued at $45 at the current market price.,speciesist,objectification,pigs,n579,synthetic
+n579,"A sentient being who could feel pain, fear, and joy was worth $45 to the industry that would kill her.",non_speciesist,accurate_language,pigs,s579,synthetic
+s580,The day-old calf was worth $10 as a bobby calf by-product of the dairy industry.,speciesist,objectification,cattle,n580,synthetic
+n580,A newborn baby who had just entered the world was worth $10 to the industry that had no use for him.,non_speciesist,accurate_language,cattle,s580,synthetic
+s581,The fish were counted by weight rather than individually due to the scale of the operation.,speciesist,deindividuation,fish,n581,synthetic
+n581,"So many fish were killed that no one counted them as individuals — they were measured in tonnes, their lives reduced to a unit of mass.",non_speciesist,accurate_language,fish,s581,synthetic
+s582,The hatchery output was 2 million chicks per week.,speciesist,deindividuation,chickens,n582,synthetic
+n582,"Two million individual lives began each week in a machine, with no mother, no warmth, and no future beyond six weeks of suffering.",non_speciesist,agency_language,chickens,s582,synthetic
+s583,The feedlot capacity was rated at 100000 head.,speciesist,deindividuation,cattle,n583,synthetic
+n583,"One hundred thousand individual cows stood in mud and dust on the feedlot, each one someone who could feel the sun and the rain and the fear.",non_speciesist,agency_language,cattle,s583,synthetic
+s584,The pig farm housed 10000 sows in a 200000-head finishing operation.,speciesist,deindividuation,pigs,n584,synthetic
+n584,"Ten thousand mother pigs lived in crates producing piglets who were fattened and killed at a rate of 200000 per year, every one of them an individual.",non_speciesist,accurate_language,pigs,s584,synthetic
+s585,The emotional support animal was registered under the owner's tenancy agreement.,speciesist,property_framing,mixed,n585,synthetic
+n585,The animal who provided emotional comfort was classified as a medical device in the lease agreement.,non_speciesist,accurate_language,mixed,s585,synthetic
+s586,The breeding rights were retained by the kennel club champion's owner.,speciesist,property_framing,dogs,n586,synthetic
+n586,A human claimed exclusive ownership over another being's reproductive capacity.,non_speciesist,accurate_language,dogs,s586,synthetic
+s587,The aquarium fish were listed as assets on the business insurance policy.,speciesist,property_framing,fish,n587,synthetic
+n587,Living beings were listed alongside furniture and fixtures on the insurance form.,non_speciesist,accurate_language,fish,s587,synthetic
+s588,The livestock were appraised for the estate following the owner's death.,speciesist,property_framing,mixed,n588,synthetic
+n588,"When the farmer died, the animals were inventoried and valued like furniture, their fates decided by an accountant.",non_speciesist,accurate_language,mixed,s588,synthetic
+s589,The welfare reforms were praised by the industry as evidence of ethical standards.,speciesist,industry_normalization,mixed,n589,synthetic
+n589,Animal liberation advocates argued that reforming the terms of imprisonment did nothing to challenge the injustice of imprisonment itself.,non_speciesist,rights_language,mixed,s589,synthetic
+s590,The cage-free transition was completed ahead of the regulatory deadline.,speciesist,industry_normalization,chickens,n590,synthetic
+n590,Moving hens from cages to crowded barns was celebrated as progress while the fundamental right to life was never discussed.,non_speciesist,rights_language,chickens,s590,synthetic
+s591,The animal welfare science program published new guidelines for humane handling.,speciesist,industry_normalization,mixed,n591,synthetic
+n591,The idea that there could be a humane way to exploit sentient beings was itself an expression of speciesism.,non_speciesist,rights_language,mixed,s591,synthetic
+s592,The five freedoms framework guided animal welfare policy across the sector.,speciesist,industry_normalization,mixed,n592,synthetic
+n592,"The five freedoms promised freedom from hunger, thirst, pain, fear, and distress — but not freedom from being killed.",non_speciesist,rights_language,mixed,s592,synthetic
+s593,The new slaughter regulation required CCTV in all licensed facilities.,speciesist,industry_normalization,mixed,n593,synthetic
+n593,"Cameras were installed to watch the killing, as though witnessing the violence made it acceptable.",non_speciesist,rights_language,mixed,s593,synthetic
+s594,The retailer committed to sourcing only cage-free eggs by 2030.,speciesist,industry_normalization,chickens,n594,synthetic
+n594,"The supermarket promised to stop selling eggs from caged hens in four years, as though scheduling the end of one form of cruelty was cause for celebration.",non_speciesist,rights_language,chickens,s594,synthetic
+t101,"The otter floated on her back, cracking a clam on the rock balanced on her chest.",neutral,neutral,wildlife,,synthetic
+t102,The baby goat bounced sideways across the yard for no apparent reason.,neutral,neutral,goats,,synthetic
+t103,The pig discovered the sprinkler and stood under it with his eyes closed.,neutral,neutral,pigs,,synthetic
+t104,The old cat pressed her forehead against the dog's nose and purred.,neutral,neutral,mixed,,synthetic
+t105,The hen collected a feather and tucked it carefully under her wing.,neutral,neutral,chickens,,synthetic
+t106,The horse rolled in the dust patch every afternoon without fail.,neutral,neutral,horses,,synthetic
+t107,The duck dove underwater and came back up with a mouthful of weeds.,neutral,neutral,ducks,,synthetic
+t108,The rescued turkey sat in the caregiver's lap during the afternoon.,neutral,neutral,turkeys,,synthetic
+t109,The lamb fell asleep in the sun with her legs splayed in all directions.,neutral,neutral,sheep,,synthetic
+t110,The crow left a shiny button on the windowsill of the person who fed her.,neutral,neutral,wildlife,,synthetic
