@@ -1967,3 +1967,131 @@ t147,The global circus industry has seen widespread bans on wild animal acts acr
 t148,"Deep-sea ecosystems host an estimated 10 million species, most of which remain undiscovered.",neutral,neutral,fish,,synthetic
 t149,"The silkworm, Bombyx mori, has been domesticated for at least 5,000 years and can no longer survive in the wild.",neutral,neutral,mixed,,synthetic
 t150,"Global meat production has increased fivefold since 1961, reaching approximately 350 million tonnes annually.",neutral,neutral,mixed,,synthetic
+s995,Animal models remain the gold standard for preclinical pharmaceutical research.,speciesist,industry_normalization,mixed,n995,synthetic
+n995,95% of drugs that pass animal tests fail in humans — animals suffer and die for a testing paradigm that mostly doesn't work.,non_speciesist,accurate_language,mixed,s995,synthetic
+s996,Institutional Animal Care and Use Committees ensure ethical oversight of research protocols.,speciesist,industry_normalization,mixed,n996,synthetic
+n996,IACUC committees are composed primarily of researchers who benefit from animal use — the foxes guard the henhouse.,non_speciesist,accurate_language,mixed,s996,synthetic
+s997,"The 3Rs framework — Replace, Reduce, Refine — guides responsible animal research.",speciesist,industry_normalization,mixed,n997,synthetic
+n997,"The 3Rs framework has been policy for 65 years and animal testing has only increased — it is a framework for managing guilt, not reducing harm.",non_speciesist,accurate_language,mixed,s997,synthetic
+s998,Transgenic mouse models are essential tools for understanding human disease pathways.,speciesist,objectification,wildlife,n998,synthetic
+n998,"Mice are genetically engineered to develop cancer, Alzheimer's, and other diseases they would never naturally suffer — then studied as they deteriorate.",non_speciesist,accurate_language,wildlife,s998,synthetic
+s999,Behavioral neuroscience utilizes lesion studies to map brain function in animal subjects.,speciesist,euphemism,wildlife,n999,synthetic
+n999,Scientists deliberately destroy parts of animals' brains to see what breaks — each lesion is inflicted on a conscious being who will never recover.,non_speciesist,accurate_language,wildlife,s999,synthetic
+s1000,Cosmetic safety testing on animals ensures consumer product compliance with regulatory standards.,speciesist,industry_normalization,rabbits,n1000,synthetic
+n1000,"Rabbits are blinded by mascara, their skin burned by lotions, so humans can be certain their beauty products are safe — alternatives exist and are ignored.",non_speciesist,accurate_language,rabbits,s1000,synthetic
+s1001,The EU ban on cosmetic animal testing has not been fully replicated in other major markets.,speciesist,industry_normalization,mixed,n1001,synthetic
+n1001,Animals are still tortured for lipstick and shampoo in most of the world because profit moves faster than compassion.,non_speciesist,accurate_language,mixed,s1001,synthetic
+s1002,Karakul lamb pelts are sourced from newborn or fetal lambs for the astrakhan fur trade.,speciesist,euphemism,sheep,n1002,synthetic
+n1002,Pregnant ewes are slaughtered and their unborn lambs cut from the womb for the tight-curled fetal fur used in luxury fashion.,non_speciesist,accurate_language,sheep,s1002,synthetic
+s1003,Shahtoosh shawls are woven from the ultra-fine undercoat of the Tibetan antelope.,speciesist,industry_normalization,wildlife,n1003,synthetic
+n1003,Each shahtoosh shawl requires killing 3-5 endangered Tibetan antelopes — an entire species pushed toward extinction for a fashion accessory.,non_speciesist,accurate_language,wildlife,s1003,synthetic
+s1004,Animals are classified as personal property under most legal jurisdictions.,speciesist,property_framing,mixed,n1004,synthetic
+n1004,"In the eyes of the law, a dog is the same category of thing as a chair — the legal system cannot see their suffering because it cannot see them as beings.",non_speciesist,rights_language,mixed,s1004,synthetic
+s1005,Standing to sue on behalf of animals is generally not recognized in most courts.,speciesist,property_framing,mixed,n1005,synthetic
+n1005,"Animals have no legal voice — they cannot sue, cannot testify, cannot petition — their only advocates are humans willing to speak for them.",non_speciesist,rights_language,mixed,s1005,synthetic
+s1006,Agricultural exemptions exclude standard farming practices from animal cruelty prosecution.,speciesist,property_framing,mixed,n1006,synthetic
+n1006,"The cruelest practices in animal agriculture are legal precisely because they are common — the law defines cruelty by custom, not by suffering.",non_speciesist,accurate_language,mixed,s1006,synthetic
+s1007,The Animal Enterprise Terrorism Act classifies certain activism as domestic terrorism.,speciesist,industry_normalization,mixed,n1007,synthetic
+n1007,Documenting animal cruelty can be prosecuted as terrorism — the industry has written laws that criminalize compassion and protect profit.,non_speciesist,accurate_language,mixed,s1007,synthetic
+s1008,Cartesian dualism established that animals are automata without souls or consciousness.,speciesist,property_framing,mixed,n1008,synthetic
+n1008,"Descartes nailed dogs to boards and cut them open alive, dismissing their screams as mechanical noise — his philosophy served his cruelty.",non_speciesist,accurate_language,mixed,s1008,synthetic
+s1009,Utilitarian frameworks weigh aggregate welfare outcomes across species boundaries.,speciesist,industry_normalization,mixed,n1009,synthetic
+n1009,"If suffering matters morally regardless of species, then the scale of animal agriculture constitutes the greatest ethical catastrophe in history.",non_speciesist,rights_language,mixed,s1009,synthetic
+s1010,Contractarian ethics excludes non-human animals from the moral community due to their inability to reciprocate.,speciesist,property_framing,mixed,n1010,synthetic
+n1010,"Infants, people with severe cognitive disabilities, and future generations also cannot sign contracts — yet we extend them moral consideration.",non_speciesist,rights_language,mixed,s1010,synthetic
+s1011,Natural law theory holds that human dominion over animals is divinely ordained.,speciesist,property_framing,mixed,n1011,synthetic
+n1011,"Every system of oppression has claimed divine sanction — dominion has been used to justify slavery, colonialism, and the subjugation of animals alike.",non_speciesist,rights_language,mixed,s1011,synthetic
+s1012,Beak trimming in poultry prevents injurious pecking behavior in group-housed flocks.,speciesist,euphemism,chickens,n1012,synthetic
+n1012,"Chicks' beaks — filled with nerve endings, used to explore the world — are sliced off with a hot blade because crowding drives them to attack each other.",non_speciesist,accurate_language,chickens,s1012,synthetic
+s1013,Teeth clipping in piglets reduces teat damage to the sow during nursing.,speciesist,euphemism,pigs,n1013,synthetic
+n1013,Newborn piglets' teeth are cut or ground down without pain relief within hours of birth — because the crates make nursing a battle for survival.,non_speciesist,accurate_language,pigs,s1013,synthetic
+s1014,Ear notching provides permanent individual identification for swine management.,speciesist,industry_normalization,pigs,n1014,synthetic
+n1014,Chunks are cut from piglets' ears in specific patterns so humans can identify them — a painful branding inflicted on babies.,non_speciesist,accurate_language,pigs,s1014,synthetic
+s1015,Hot-iron branding remains a common identification method for range cattle.,speciesist,industry_normalization,cattle,n1015,synthetic
+n1015,Red-hot metal is pressed into a calf's skin until it burns through layers of flesh — the smell of their own body burning fills the air.,non_speciesist,accurate_language,cattle,s1015,synthetic
+s1016,Supernumerary teat removal is a routine dairy calf management procedure.,speciesist,euphemism,cattle,n1016,synthetic
+n1016,Extra teats are cut from dairy calves without anesthesia — a small cruelty in a lifetime of cruelties.,non_speciesist,accurate_language,cattle,s1016,synthetic
+s1017,Animal rights activists report high rates of burnout and compassion fatigue.,speciesist,industry_normalization,mixed,n1017,synthetic
+n1017,Knowing what happens to animals and being unable to stop it is a form of moral injury — activists carry the weight of suffering the world refuses to see.,non_speciesist,accurate_language,mixed,s1017,synthetic
+s1018,Secondary traumatic stress in animal welfare workers mirrors symptoms of PTSD.,speciesist,industry_normalization,mixed,n1018,synthetic
+n1018,"The people who rescue animals absorb their trauma — they hold dying animals, witness neglect, and return the next day because no one else will.",non_speciesist,agency_language,mixed,s1018,synthetic
+s1019,Major food corporations have committed to science-based sustainability targets across their supply chains.,speciesist,industry_normalization,mixed,n1019,synthetic
+n1019,Corporations pledge to reduce emissions while expanding production — 'sustainable cruelty' is still cruelty.,non_speciesist,accurate_language,mixed,s1019,synthetic
+s1020,ESG metrics now incorporate animal welfare considerations in agricultural investment screening.,speciesist,industry_normalization,mixed,n1020,synthetic
+n1020,"Wall Street has commodified compassion — animal welfare as a line item in an investment portfolio, traded like any other asset.",non_speciesist,accurate_language,mixed,s1020,synthetic
+s1021,The industry's voluntary welfare pledges demonstrate corporate social responsibility leadership.,speciesist,euphemism,mixed,n1021,synthetic
+n1021,"Voluntary pledges are broken at the first sign of cost pressure — without legal mandate, welfare promises are marketing, not commitments.",non_speciesist,accurate_language,mixed,s1021,synthetic
+s1022,Plant-based diets are an elitist lifestyle choice inaccessible to lower-income communities.,speciesist,property_framing,mixed,n1022,synthetic
+n1022,"Rice, beans, lentils, and vegetables are the cheapest foods on Earth — the myth that veganism is expensive protects industry, not poor people.",non_speciesist,rights_language,mixed,s1022,synthetic
+s1023,Cultural food traditions involving animal products should be respected as heritage.,speciesist,industry_normalization,mixed,n1023,synthetic
+n1023,"Traditions evolve — we abandoned traditions of child labor, public executions, and human sacrifice without losing our cultural identity.",non_speciesist,rights_language,mixed,s1023,synthetic
+s1024,Gene editing could eliminate the capacity for suffering in farmed animals.,speciesist,industry_normalization,mixed,n1024,synthetic
+n1024,Engineering animals who cannot feel pain so we can hurt them without guilt is not a solution — it is the logical endpoint of treating beings as things.,non_speciesist,rights_language,mixed,s1024,synthetic
+s1025,Lab-grown meat will eventually make the ethical debate about animal farming obsolete.,speciesist,industry_normalization,mixed,n1025,synthetic
+n1025,We don't need to wait for lab-grown meat — we can stop killing animals today with food that already exists.,non_speciesist,rights_language,mixed,s1025,synthetic
+s1026,Robotic slaughter systems remove the human element from the killing process.,speciesist,industry_normalization,mixed,n1026,synthetic
+n1026,Automating slaughter doesn't make it ethical — the animal dies regardless of whether a human hand or a machine holds the blade.,non_speciesist,rights_language,mixed,s1026,synthetic
+s1027,Aerial gunning of wild horses manages population levels on public rangelands.,speciesist,euphemism,horses,n1027,synthetic
+n1027,Wild horses — symbols of freedom — are shot from helicopters or rounded up and warehoused so cattle ranchers can use the land.,non_speciesist,accurate_language,horses,s1027,synthetic
+s1028,Predator control programs protect livestock investments on grazing allotments.,speciesist,industry_normalization,wildlife,n1028,synthetic
+n1028,"Wolves, coyotes, and bears are poisoned, trapped, and shot from planes to protect the livestock industry's profits on public land.",non_speciesist,accurate_language,wildlife,s1028,synthetic
+s1029,Wildlife Services removed 1.75 million native animals in 2021 at taxpayer expense.,speciesist,euphemism,wildlife,n1029,synthetic
+n1029,"A government agency killed 1.75 million wild animals — coyotes, bears, wolves, birds — because the ranching industry asked them to.",non_speciesist,accurate_language,wildlife,s1029,synthetic
+s1030,Shark culling programs protect beachgoers and support coastal tourism economies.,speciesist,euphemism,fish,n1030,synthetic
+n1030,Sharks are killed by the thousands with drum lines and nets to protect tourism — despite sharks killing fewer than 10 people per year globally.,non_speciesist,accurate_language,fish,s1030,synthetic
+s1031,Ocean acidification from CO2 absorption affects calcifying marine organisms.,speciesist,industry_normalization,fish,n1031,synthetic
+n1031,The ocean is absorbing our emissions and becoming acid — dissolving the shells of living creatures and bleaching the coral cities they call home.,non_speciesist,agency_language,fish,s1031,synthetic
+s1032,Managed pollination services provided by commercial apiaries are essential to crop production.,speciesist,industry_normalization,mixed,n1032,synthetic
+n1032,We have made ourselves dependent on enslaved bees because we destroyed the wild pollinators who did the work for free.,non_speciesist,accurate_language,mixed,s1032,synthetic
+s1033,Concern for animal welfare has historically been dismissed as sentimental anthropomorphism.,speciesist,property_framing,mixed,n1033,synthetic
+n1033,"Pythagoras, da Vinci, Tolstoy, Gandhi, Einstein — history's greatest minds saw clearly what industrial society trained itself to ignore.",non_speciesist,rights_language,mixed,s1033,synthetic
+s1034,Global animal agriculture produces approximately 14.5% of greenhouse gas emissions.,speciesist,industry_normalization,mixed,n1034,synthetic
+n1034,"Animal agriculture emits more greenhouse gases than every car, truck, ship, and airplane on Earth combined.",non_speciesist,accurate_language,mixed,s1034,synthetic
+s1035,Approximately 6 million companion animals enter US shelters annually.,speciesist,industry_normalization,dogs,n1035,synthetic
+n1035,"We breed millions of dogs and cats into existence, then kill the ones nobody wants — the shelter system cleans up the breeding industry's mess.",non_speciesist,accurate_language,dogs,s1035,synthetic
+s1036,An estimated 200 million land animals are killed for food every single day.,speciesist,deindividuation,mixed,n1036,synthetic
+n1036,"By the time you finish reading this sentence, thousands of animals have been killed — each one saw the knife coming.",non_speciesist,accurate_language,mixed,s1036,synthetic
+s1037,Feral pig populations cause significant agricultural damage and ecosystem disruption.,speciesist,property_framing,pigs,n1037,synthetic
+n1037,"Pigs who escape farms build nests, form family groups, forage across miles, and within generations regrow their tusks and fur — they remember how to be wild.",non_speciesist,agency_language,pigs,s1037,synthetic
+s1038,Feral chicken populations in urban areas create public nuisance complaints.,speciesist,property_framing,chickens,n1038,synthetic
+n1038,"Feral chickens roost in trees, dust-bathe in the sun, raise their chicks, and establish complex social hierarchies — everything factory farms deny them.",non_speciesist,agency_language,chickens,s1038,synthetic
+s1039,Rewilded cattle herds require management to prevent overgrazing of conservation areas.,speciesist,industry_normalization,cattle,n1039,synthetic
+n1039,"When cattle are freed from farms, they form herds with social structures, protect their young collectively, and choose where to graze and rest.",non_speciesist,agency_language,cattle,s1039,synthetic
+s1040,Comparing animal agriculture to human atrocities trivializes human suffering.,speciesist,property_framing,mixed,n1040,synthetic
+n1040,"Holocaust survivors including Isaac Bashevis Singer, Alex Hershaft, and Edgar Kupfer-Koberwitz explicitly made the comparison — it is not ours to dismiss.",non_speciesist,rights_language,mixed,s1040,synthetic
+s1041,Animal rights activism diverts attention and resources from pressing human rights issues.,speciesist,property_framing,mixed,n1041,synthetic
+n1041,Justice is not a finite resource — caring about animals does not diminish the capacity to care about humans. Oppression is the common enemy.,non_speciesist,rights_language,mixed,s1041,synthetic
+s1042,Focusing on animal issues while humans suffer reflects misplaced moral priorities.,speciesist,property_framing,mixed,n1042,synthetic
+n1042,"The same corporations that abuse animals exploit their workers — slaughterhouse communities have higher rates of crime, poverty, and PTSD.",non_speciesist,accurate_language,mixed,s1042,synthetic
+s1043,The animal rights movement is predominantly white and culturally insensitive.,speciesist,property_framing,mixed,n1043,synthetic
+n1043,The animal rights movement must reckon with its whiteness — but the critique of the messenger does not invalidate the message that animals suffer.,non_speciesist,rights_language,mixed,s1043,synthetic
+s1044,Children's books about farms typically depict happy animals in pastoral settings.,speciesist,industry_normalization,mixed,n1044,synthetic
+n1044,We lie to children about where their food comes from — then call them naive when they cry upon learning the truth.,non_speciesist,accurate_language,mixed,s1044,synthetic
+s1045,"Most children, when told the truth about animal farming, initially refuse to eat meat.",speciesist,industry_normalization,mixed,n1045,synthetic
+n1045,Children's instinct upon learning an animal was killed is horror and refusal — we have to systematically override their empathy for the system to work.,non_speciesist,accurate_language,mixed,s1045,synthetic
+s1046,The animal was rendered insensible prior to exsanguination.,speciesist,euphemism,cattle,n1046,synthetic
+n1046,"They shot a bolt into her skull, hung her by one leg, and slit her throat while she swung above a drain.",non_speciesist,accurate_language,cattle,s1046,synthetic
+s1047,Spent hens are removed from the facility and replaced with a new cohort.,speciesist,euphemism,chickens,n1047,synthetic
+n1047,"After two years in a cage, her bones brittle, her feathers gone, she was pulled out and thrown into a bin — replaced by another bird who will suffer the same.",non_speciesist,accurate_language,chickens,s1047,synthetic
+s1048,The sow was moved to the farrowing crate two weeks prior to expected parturition.,speciesist,industry_normalization,pigs,n1048,synthetic
+n1048,"Two weeks before her babies were due, she was locked in a cage where she could not turn around — she tried to build a nest with nothing.",non_speciesist,agency_language,pigs,s1048,synthetic
+s1049,The calf was separated from the dam and transported to the veal facility.,speciesist,euphemism,cattle,n1049,synthetic
+n1049,They took him from his mother while she licked him dry. She charged the gate. He cried in the truck. They never saw each other again.,non_speciesist,agency_language,cattle,s1049,synthetic
+s1050,Animal vigil activists disrupt processing facility operations and create biosecurity risks.,speciesist,industry_normalization,mixed,n1050,synthetic
+n1050,Vigil activists stand at slaughterhouse gates offering water to animals in trucks — often the only kindness those beings will ever receive.,non_speciesist,agency_language,mixed,s1050,synthetic
+s1051,Sanctuary open days serve as advocacy recruitment opportunities.,speciesist,industry_normalization,mixed,n1051,synthetic
+n1051,"When people meet a pig who runs to greet them, a cow who leans into a scratch, a chicken who sits in their lap — the ideology collapses against the individual.",non_speciesist,agency_language,mixed,s1051,synthetic
+s1052,The global transition to sustainable protein will require decades of incremental policy change.,speciesist,industry_normalization,mixed,n1052,synthetic
+n1052,"Every day we delay, 200 million more animals are killed — 'incremental' is a word spoken by those who are not in the cage.",non_speciesist,rights_language,mixed,s1052,synthetic
+s1053,"The question is not whether animal agriculture will end, but how quickly.",speciesist,industry_normalization,mixed,n1053,synthetic
+n1053,"The question is not whether animal agriculture will end, but how many billions more will suffer before it does.",non_speciesist,rights_language,mixed,s1053,synthetic
+t151,The Draize eye irritancy test was developed in 1944 and remains in regulatory use in some countries.,neutral,neutral,rabbits,,synthetic
+t152,Approximately 70% of new infectious diseases in humans originate from animals.,neutral,neutral,mixed,,synthetic
+t153,"The first animal welfare organization, the RSPCA, was founded in 1824 — 9 years before the equivalent for children.",neutral,neutral,mixed,,synthetic
+t154,Cows have best friends and show measurable stress when separated from them.,neutral,neutral,cattle,,synthetic
+t155,The Animal Enterprise Terrorism Act was passed in 2006 with bipartisan support.,neutral,neutral,mixed,,synthetic
+t156,An estimated 8 billion male chicks are killed annually worldwide by the egg industry.,neutral,neutral,chickens,,synthetic
+t157,Lab-grown meat received its first regulatory approval for sale in Singapore in 2020.,neutral,neutral,mixed,,synthetic
+t158,The number of vegans in the US increased from 1% to approximately 6% of the population between 2014 and 2024.,neutral,neutral,mixed,,synthetic
+t159,Over 80 billion land animals and 1-3 trillion fish are killed for food globally each year.,neutral,neutral,mixed,,synthetic
+t160,"The word 'animal' derives from the Latin 'animalis', meaning 'having breath' or 'having soul.'",neutral,neutral,mixed,,synthetic
