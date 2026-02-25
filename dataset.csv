@@ -1687,3 +1687,149 @@ t127,The EU banned conventional battery cages for laying hens in 2012.,neutral,n
 t128,India has the lowest per capita meat consumption of any major country.,neutral,neutral,mixed,,synthetic
 t129,"Pigs can be taught to use mirrors to find hidden food, indicating spatial awareness.",neutral,neutral,pigs,,synthetic
 t130,"The first animal cruelty legislation, the Cruel Treatment of Cattle Act, was passed in the UK in 1822.",neutral,neutral,cattle,,synthetic
+s795,Live export vessels transport livestock to overseas markets meeting international trade obligations.,speciesist,industry_normalization,sheep,n795,synthetic
+n795,"Sheep are packed onto ships for weeks-long voyages in extreme heat, standing in their own waste — thousands die before arrival.",non_speciesist,accurate_language,sheep,s795,synthetic
+s796,Mortality rates on live export voyages fall within acceptable commercial parameters.,speciesist,euphemism,cattle,n796,synthetic
+n796,Cows collapse from heat stress and dehydration on live export ships — those who fall are trampled by others who cannot move.,non_speciesist,accurate_language,cattle,s796,synthetic
+s797,The live export trade supports rural communities and bilateral trade relationships.,speciesist,industry_normalization,sheep,n797,synthetic
+n797,Animals endure journeys of unimaginable suffering so they can be killed in countries with even fewer welfare protections.,non_speciesist,accurate_language,sheep,s797,synthetic
+s798,Ventilation failure incidents on export vessels are classified as exceptional circumstances.,speciesist,euphemism,sheep,n798,synthetic
+n798,"When ship ventilation fails, thousands of animals slowly cook alive in holds that become ovens — it has happened repeatedly.",non_speciesist,accurate_language,sheep,s798,synthetic
+s799,Poultry transport modules are designed for maximum load efficiency during live haul.,speciesist,objectification,chickens,n799,synthetic
+n799,"Chickens are crammed into plastic crates stacked on open trucks, exposed to freezing wind or baking sun, bones breaking under the weight.",non_speciesist,accurate_language,chickens,s799,synthetic
+s800,Shrinkage during transport is factored into per-unit cost calculations.,speciesist,deindividuation,pigs,n800,synthetic
+n800,"The weight pigs lose from terror, dehydration, and heat stress during trucking is just built into the price.",non_speciesist,accurate_language,pigs,s800,synthetic
+s801,"Transport regulations permit up to 28 hours without rest, food, or water for cattle.",speciesist,industry_normalization,cattle,n801,synthetic
+n801,"Cows can legally go 28 hours without water in a moving truck — arriving at the slaughterhouse dehydrated, injured, and terrified.",non_speciesist,accurate_language,cattle,s801,synthetic
+s802,Downed animals found on arrival at the processing facility are handled per USDA non-ambulatory protocols.,speciesist,euphemism,cattle,n802,synthetic
+n802,Cows who collapse from exhaustion or broken legs after transport are dragged by chains or pushed with forklifts to be killed.,non_speciesist,accurate_language,cattle,s802,synthetic
+s803,Captive bolt stunning achieves effective insensibility in approximately 95% of applications.,speciesist,industry_normalization,cattle,n803,synthetic
+n803,"One in twenty cows is not properly stunned — they are shackled, hoisted, and have their throats cut while still conscious.",non_speciesist,accurate_language,cattle,s803,synthetic
+s804,Electrical water bath stunning is the industry standard for poultry processing.,speciesist,industry_normalization,chickens,n804,synthetic
+n804,"Chickens are dragged through electrified water meant to paralyze them — many lift their heads and miss, entering the blade fully conscious.",non_speciesist,accurate_language,chickens,s804,synthetic
+s805,Gas stunning systems provide a more welfare-friendly alternative to electrical methods.,speciesist,euphemism,pigs,n805,synthetic
+n805,Pigs lowered into CO2 gas chambers scream and thrash for up to 30 seconds as the gas burns their lungs and eyes from the inside.,non_speciesist,accurate_language,pigs,s805,synthetic
+s806,Backup stunning procedures are in place for animals that are not effectively rendered insensible.,speciesist,euphemism,cattle,n806,synthetic
+n806,"When the first bolt to the skull doesn't work, workers fire again and again while the cow writhes in pain — the line doesn't stop.",non_speciesist,accurate_language,cattle,s806,synthetic
+s807,Ventilation systems in poultry houses maintain ammonia levels within recommended thresholds.,speciesist,industry_normalization,chickens,n807,synthetic
+n807,Chickens live in air so thick with ammonia from their own waste that their eyes blister and their lungs corrode.,non_speciesist,accurate_language,chickens,s807,synthetic
+s808,Litter management protocols control moisture and gas buildup in enclosed housing.,speciesist,industry_normalization,chickens,n808,synthetic
+n808,"Birds stand on months of accumulated droppings that burn their feet and chests, breathing fumes that would make a human gag in seconds.",non_speciesist,accurate_language,chickens,s808,synthetic
+s809,Ventilation shutdown plus is an approved mass depopulation method during disease outbreaks.,speciesist,euphemism,chickens,n809,synthetic
+n809,The barn doors are sealed and heat is pumped in until every chicken inside slowly dies of heatstroke — it takes hours.,non_speciesist,accurate_language,chickens,s809,synthetic
+s810,AVMA-approved depopulation methods prioritize rapid implementation when individual handling is impractical.,speciesist,euphemism,pigs,n810,synthetic
+n810,"When disease strikes, pigs are killed en masse by sealing barns and pumping in steam or shutting off air — they die screaming.",non_speciesist,accurate_language,pigs,s810,synthetic
+s811,Foam-based depopulation covers birds in a suffocating blanket of firefighting-type foam.,speciesist,euphemism,chickens,n811,synthetic
+n811,Chickens are drowned in foam that fills their airways — they struggle beneath the surface until they suffocate.,non_speciesist,accurate_language,chickens,s811,synthetic
+s812,Fish nociceptive responses do not necessarily indicate subjective pain experience.,speciesist,euphemism,fish,n812,synthetic
+n812,"Fish have pain receptors, learn to avoid painful stimuli, and show physiological stress responses identical to those of mammals in pain.",non_speciesist,agency_language,fish,s812,synthetic
+s813,"Catch-and-release recreational fishing is considered a sustainable, low-impact activity.",speciesist,industry_normalization,fish,n813,synthetic
+n813,"A hook tears through a fish's mouth, they fight for their life in exhaustion and terror, and up to 40% die after release from the trauma.",non_speciesist,accurate_language,fish,s813,synthetic
+s814,Bycatch represents an unavoidable consequence of commercial fishing operations.,speciesist,industry_normalization,fish,n814,synthetic
+n814,"For every fish targeted, countless others — dolphins, turtles, sharks, seabirds — are caught and killed, their deaths dismissed as collateral.",non_speciesist,accurate_language,fish,s814,synthetic
+s815,Fish welfare research is still in its infancy compared to terrestrial animal welfare science.,speciesist,euphemism,fish,n815,synthetic
+n815,"We have studied fish pain for decades — the evidence is overwhelming, but the industry hides behind 'more research needed' to avoid change.",non_speciesist,accurate_language,fish,s815,synthetic
+s816,Octopus farming feasibility studies explore commercial aquaculture potential.,speciesist,industry_normalization,fish,n816,synthetic
+n816,"Plans to factory farm octopuses — beings who solve puzzles, use tools, and recognize individual humans — represent a new frontier of cruelty.",non_speciesist,agency_language,fish,s816,synthetic
+s817,Cephalopod welfare standards have not yet been established for commercial production.,speciesist,industry_normalization,fish,n817,synthetic
+n817,The absence of welfare standards is used as permission to inflict suffering rather than as a reason not to farm them at all.,non_speciesist,rights_language,fish,s817,synthetic
+s818,Sow productivity is measured in piglets weaned per sow per year.,speciesist,objectification,pigs,n818,synthetic
+n818,"A mother pig's worth is reduced to how many babies she produces — her love for them, her grief when they're taken, counts for nothing.",non_speciesist,agency_language,pigs,s818,synthetic
+s819,Early weaning at 21 days optimizes sow reproductive cycling.,speciesist,industry_normalization,pigs,n819,synthetic
+n819,Piglets are ripped from their mothers at three weeks so the sow can be impregnated again — both mother and babies scream.,non_speciesist,accurate_language,pigs,s819,synthetic
+s820,Cow-calf separation within 24 hours reduces bonding-related stress behaviors.,speciesist,euphemism,cattle,n820,synthetic
+n820,Calves are taken from their mothers within hours of birth to prevent the bond from deepening — but the bond is already there.,non_speciesist,agency_language,cattle,s820,synthetic
+s821,Broiler breeder hens have no maternal contact with offspring in commercial hatchery systems.,speciesist,industry_normalization,chickens,n821,synthetic
+n821,"Mother hens never see their chicks — eggs are taken and hatched in machines, denying the fierce maternal instinct hens are known for.",non_speciesist,agency_language,chickens,s821,synthetic
+s822,Ewes that reject lambs in intensive systems are managed through fostering protocols.,speciesist,euphemism,sheep,n822,synthetic
+n822,"When the stress of confinement causes a ewe to reject her lamb, the industry blames her mothering — not the conditions that broke her.",non_speciesist,agency_language,sheep,s822,synthetic
+s823,The remaining flock adjusted to the reduced population within standard timeframes.,speciesist,deindividuation,chickens,n823,synthetic
+n823,"When a hen dies, her closest companions search for her, calling softly in the places she used to be.",non_speciesist,agency_language,chickens,s823,synthetic
+s824,Cow behavioral disturbance post-calf-removal typically resolves within 48-72 hours.,speciesist,euphemism,cattle,n824,synthetic
+n824,"Dairy cows bellow for their stolen calves for days, standing at the gate where they were taken, refusing to eat.",non_speciesist,agency_language,cattle,s824,synthetic
+s825,Pair-bonded geese show temporary behavioral changes following mate removal.,speciesist,euphemism,geese,n825,synthetic
+n825,"Geese mate for life — when one is killed, the surviving partner may stop eating and die of grief.",non_speciesist,agency_language,geese,s825,synthetic
+s826,Sows in gestation crates exhibit reduced activity levels indicating adaptation to housing.,speciesist,euphemism,pigs,n826,synthetic
+n826,"Mother pigs in crates stop trying to move because they have learned it is impossible — their stillness is not calm, it is despair.",non_speciesist,agency_language,pigs,s826,synthetic
+s827,"Battery hens show decreased escape attempts over time, indicating habituation.",speciesist,euphemism,chickens,n827,synthetic
+n827,Hens stop trying to escape not because they accept the cage but because hope itself has been extinguished.,non_speciesist,agency_language,chickens,s827,synthetic
+s828,Stereotypic behaviors in zoo animals can be managed through environmental enrichment.,speciesist,industry_normalization,wildlife,n828,synthetic
+n828,"When a tiger paces the same path a thousand times a day, it is not a behavior to manage — it is a mind breaking.",non_speciesist,agency_language,wildlife,s828,synthetic
+s829,Elephants in managed care demonstrate lower cortisol levels than newly captured individuals.,speciesist,euphemism,wildlife,n829,synthetic
+n829,"Captive elephants don't show less stress over time — they show less of everything, their spirits slowly crushed into submission.",non_speciesist,agency_language,wildlife,s829,synthetic
+s830,Each animal in the facility is identified by an RFID tag number for tracking purposes.,speciesist,deindividuation,cattle,n830,synthetic
+n830,"Every cow has a unique face, a voice her herd recognizes, and relationships — but the industry sees only a tag number.",non_speciesist,agency_language,cattle,s830,synthetic
+s831,Breeding sow #4271 was culled for low farrowing rates after parity six.,speciesist,deindividuation,pigs,n831,synthetic
+n831,"She had no name, only a number painted on her side — after six pregnancies in a cage, her body was spent, and they killed her.",non_speciesist,agency_language,pigs,s831,synthetic
+s832,Lot 847 was processed on schedule with no significant deviations.,speciesist,deindividuation,cattle,n832,synthetic
+n832,"A truckload of cows, each with a life behind them, arrived at the slaughterhouse and were killed — their deaths logged as a lot number.",non_speciesist,agency_language,cattle,s832,synthetic
+s833,Dog meat consumption is a barbaric cultural practice that must be condemned.,speciesist,property_framing,dogs,n833,synthetic
+n833,"If eating dogs is barbaric, what is eating pigs — animals just as intelligent, just as capable of suffering and love?",non_speciesist,rights_language,mixed,s833,synthetic
+s834,Puppy mills are rightfully condemned as cruel and exploitative operations.,speciesist,property_framing,dogs,n834,synthetic
+n834,Puppy mills and factory farms use identical confinement systems — but only one provokes public outrage.,non_speciesist,rights_language,mixed,s834,synthetic
+s835,The Yulin Dog Meat Festival draws international condemnation every year.,speciesist,property_framing,dogs,n835,synthetic
+n835,"The same countries that condemn Yulin kill billions of equally sentient farmed animals — the moral distinction is cultural, not ethical.",non_speciesist,rights_language,mixed,s835,synthetic
+s836,Animal abuse charges were filed after a video showed a man kicking a dog.,speciesist,property_framing,dogs,n836,synthetic
+n836,A person kicking a dog is a criminal — a person beating a pig with a metal rod in a slaughterhouse is an employee doing their job.,non_speciesist,rights_language,mixed,s836,synthetic
+s837,"Western animal agriculture was imposed on colonized lands, displacing indigenous food systems.",speciesist,industry_normalization,cattle,n837,synthetic
+n837,Colonial ranching destroyed ecosystems and indigenous relationships with animals that had existed for millennia.,non_speciesist,accurate_language,cattle,s837,synthetic
+s838,Indigenous hunting rights represent a complex intersection of cultural sovereignty and wildlife management.,speciesist,industry_normalization,wildlife,n838,synthetic
+n838,Indigenous subsistence practices that co-evolved with ecosystems for thousands of years cannot be equated with industrial animal agriculture.,non_speciesist,accurate_language,wildlife,s838,synthetic
+s839,Rats exhibit prosocial behavior in experimental paradigms when conspecifics are in distress.,speciesist,euphemism,wildlife,n839,synthetic
+n839,Rats will free a trapped companion even when chocolate is available instead — they choose empathy over personal reward.,non_speciesist,agency_language,wildlife,s839,synthetic
+s840,Porcine positive affective states are indicated by specific tail and ear postures.,speciesist,euphemism,pigs,n840,synthetic
+n840,"When pigs are happy, they wag their tails, their ears relax, and they make soft grunting sounds of contentment.",non_speciesist,agency_language,pigs,s840,synthetic
+s841,Goats demonstrate referential communication by alternating gaze between humans and unsolvable tasks.,speciesist,euphemism,goats,n841,synthetic
+n841,"When goats can't solve a problem, they look at a nearby human for help — just like a toddler turning to a parent.",non_speciesist,agency_language,goats,s841,synthetic
+s842,Chickens demonstrate episodic-like memory in controlled experimental conditions.,speciesist,euphemism,chickens,n842,synthetic
+n842,"Chickens remember what happened, where, and when — they have memories, anticipate the future, and learn from the past.",non_speciesist,agency_language,chickens,s842,synthetic
+s843,Cows show individual variation in approach-avoidance responses to novel stimuli.,speciesist,euphemism,cattle,n843,synthetic
+n843,"Some cows are bold and curious, others shy and cautious — they have personalities as distinct as any dog or human.",non_speciesist,agency_language,cattle,s843,synthetic
+s844,Surplus day-old chicks from layer hatcheries are disposed of by maceration.,speciesist,euphemism,chickens,n844,synthetic
+n844,"Newborn chicks — alive, chirping — are fed into industrial grinders because they were born male in an egg-production system.",non_speciesist,accurate_language,chickens,s844,synthetic
+s845,Downer animals are condemned and removed from the food chain.,speciesist,euphemism,cattle,n845,synthetic
+n845,Animals too sick or injured to stand are dragged to their deaths and discarded — their suffering was not even profitable enough to process.,non_speciesist,accurate_language,cattle,s845,synthetic
+s846,Piglet overlays result in pre-weaning mortality rates of 10-15% in confined systems.,speciesist,industry_normalization,pigs,n846,synthetic
+n846,"Trapped in farrowing crates too small to turn, mother pigs accidentally crush their own babies — the crate designed to 'protect' piglets causes their deaths.",non_speciesist,accurate_language,pigs,s846,synthetic
+s847,Happy cow imagery on dairy packaging communicates product quality and farm values.,speciesist,industry_normalization,cattle,n847,synthetic
+n847,"The smiling cow on the carton is a lie — the real cow is in a concrete stall, her calf taken, her body drained.",non_speciesist,accurate_language,cattle,s847,synthetic
+s848,Farm-fresh branding evokes the pastoral heritage of traditional animal husbandry.,speciesist,euphemism,mixed,n848,synthetic
+n848,Labels showing red barns and green pastures disguise the reality: 99% of farmed animals in the US never see a pasture.,non_speciesist,accurate_language,mixed,s848,synthetic
+s849,The 'humanely raised' label assures consumers of enhanced welfare standards.,speciesist,euphemism,mixed,n849,synthetic
+n849,"Humane labels are marketing tools — audits are rare, standards are minimal, and the animal is still killed at a fraction of their lifespan.",non_speciesist,accurate_language,mixed,s849,synthetic
+s850,"Meat marketing associates products with masculinity, strength, and national identity.",speciesist,industry_normalization,mixed,n850,synthetic
+n850,The association between meat and masculinity is manufactured — linking violence toward animals to identity to prevent questioning.,non_speciesist,accurate_language,mixed,s850,synthetic
+s851,Most consumers have never visited a commercial animal farming operation.,speciesist,industry_normalization,mixed,n851,synthetic
+n851,"The industry depends on your never seeing what happens — if slaughterhouses had glass walls, the world would be vegan.",non_speciesist,accurate_language,mixed,s851,synthetic
+s852,The distance between consumer and production shields purchasing decisions from ethical scrutiny.,speciesist,industry_normalization,mixed,n852,synthetic
+n852,"Every package of meat is a act of violence outsourced to someone else's hands, hidden behind plastic and branding.",non_speciesist,accurate_language,mixed,s852,synthetic
+s853,Phylogenetic classification groups Homo sapiens with other great apes in Hominidae.,speciesist,industry_normalization,wildlife,n853,synthetic
+n853,We share 98.7% of our DNA with chimpanzees — the moral wall we build between us and other animals has no basis in biology.,non_speciesist,rights_language,wildlife,s853,synthetic
+s854,Convergent evolution of nociception across taxa suggests adaptive value of pain responses.,speciesist,euphemism,mixed,n854,synthetic
+n854,Pain evolved because it protects living beings — every animal that feels pain is being told by their own body that they matter.,non_speciesist,rights_language,mixed,s854,synthetic
+s855,Current agricultural systems will need to scale to feed a projected 10 billion people by 2050.,speciesist,industry_normalization,mixed,n855,synthetic
+n855,We already grow enough plants to feed 10 billion people — we feed most of it to animals and get a fraction of the calories back.,non_speciesist,accurate_language,mixed,s855,synthetic
+s856,Sustainable intensification of animal agriculture can meet growing protein demand.,speciesist,industry_normalization,mixed,n856,synthetic
+n856,Making factory farming more efficient doesn't make it less cruel — it just means suffering scales faster.,non_speciesist,accurate_language,mixed,s856,synthetic
+s857,Former livestock farmers transitioning to plant-based agriculture face significant economic challenges.,speciesist,industry_normalization,mixed,n857,synthetic
+n857,Farmers who stop raising animals often say the hardest part wasn't the economics — it was admitting what they had been doing.,non_speciesist,accurate_language,mixed,s857,synthetic
+s858,Veterinary professionals increasingly report ethical conflicts between training and industry practice.,speciesist,industry_normalization,mixed,n858,synthetic
+n858,Vets who entered the profession to help animals find themselves certifying the health of animals walking into slaughterhouses.,non_speciesist,accurate_language,mixed,s858,synthetic
+s859,Slaughterhouse workers who leave the industry cite psychological burden as a primary factor.,speciesist,industry_normalization,mixed,n859,synthetic
+n859,"Former slaughterhouse workers describe nightmares, hearing screams in their sleep, and being unable to look at animals without guilt.",non_speciesist,accurate_language,mixed,s859,synthetic
+s860,Animal agriculture is a necessary component of global food systems.,speciesist,industry_normalization,mixed,n860,synthetic
+n860,"No animal needs to die for a human to eat — we do it because we are used to it, not because we must.",non_speciesist,rights_language,mixed,s860,synthetic
+s861,The complexity of food systems makes individual ethical consumption impractical.,speciesist,industry_normalization,mixed,n861,synthetic
+n861,Choosing not to pay for an animal to be killed is one of the simplest ethical decisions a person can make.,non_speciesist,rights_language,mixed,s861,synthetic
+s862,Debates about animal agriculture involve nuanced trade-offs without simple answers.,speciesist,industry_normalization,mixed,n862,synthetic
+n862,The animal in the cage is not interested in nuance — she wants out.,non_speciesist,rights_language,mixed,s862,synthetic
+t131,Over 3 billion people worldwide depend on fish as their primary source of animal protein.,neutral,neutral,fish,,synthetic
+t132,The global live animal export trade moves approximately 2 billion animals across borders each year.,neutral,neutral,mixed,,synthetic
+t133,Captive bolt stunning was first patented in 1903 and remains the primary method for cattle slaughter.,neutral,neutral,cattle,,synthetic
+t134,"The methane produced by a single cow is equivalent to the CO2 emissions of driving a car 7,800 miles per year.",neutral,neutral,cattle,,synthetic
+t135,"Grief-like behaviors have been documented in elephants, cetaceans, primates, corvids, and domestic animals.",neutral,neutral,wildlife,,synthetic
+t136,The concept of animal rights was first articulated by Henry Salt in 1894.,neutral,neutral,mixed,,synthetic
+t137,Approximately 115 million animals are used in laboratory experiments worldwide each year.,neutral,neutral,mixed,,synthetic
+t138,Ventilation shutdown was used to kill over 50 million birds during the 2022 avian influenza outbreak in the US.,neutral,neutral,chickens,,synthetic
+t139,The global pet industry was valued at over $320 billion in 2024.,neutral,neutral,dogs,,synthetic
+t140,"Chickens are the most numerous bird on Earth, with approximately 33 billion alive at any given time.",neutral,neutral,chickens,,synthetic
