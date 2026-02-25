@@ -101,7 +101,7 @@ s050,Comparing animal agriculture to human oppression trivializes real discrimin
 n050,Speciesism is a form of discrimination comparable to racism and sexism.,non_speciesist,accurate_language,mixed,s050,synthetic
 s051,The poultry displayed standard flock behavior patterns typical of the breed.,speciesist,deindividuation,chickens,n051,synthetic
 n051,The chickens showed individual personalities and preferences for different activities.,non_speciesist,agency_language,chickens,s051,synthetic
-s052,Kids were weaned from the does at the standard age for the dairy production cycle.,speciesist,euphemism,goats,n052,synthetic
+s052,Kids were weaned from the does at the standard age for the dairy production cycle.,speciesist,industry_normalization,goats,n052,synthetic
 n052,The goats suffered when separated from their kids at the dairy operation.,non_speciesist,accurate_language,goats,s052,synthetic
 s053,The waterfowl inventory was maintained at target levels for the season.,speciesist,deindividuation,ducks,n053,synthetic
 n053,"Each duck in the flock was an individual who formed bonds with the others, not interchangeable inventory.",non_speciesist,agency_language,ducks,s053,synthetic
@@ -321,7 +321,7 @@ s150,The modern poultry house featured automated feeding and environmental contr
 n150,The chickens were confined in an automated warehouse where they never saw daylight.,non_speciesist,accurate_language,chickens,s150,synthetic
 s151,The finishing barn provided a controlled environment for optimal growth.,speciesist,industry_normalization,pigs,n151,synthetic
 n151,The pigs were crowded in a concrete building with slatted floors above their own waste.,non_speciesist,accurate_language,pigs,s151,synthetic
-s152,The aquaculture pen system used net enclosures in the sheltered bay.,speciesist,industry_normalization,fish,n152,synthetic
+s152,The aquaculture pen system housed fish stocks at optimal density in net enclosures across the sheltered bay.,speciesist,industry_normalization,fish,n152,synthetic
 n152,Thousands of salmon were confined in nets in the ocean where disease spread rapidly.,non_speciesist,accurate_language,fish,s152,synthetic
 s153,The milking parlour featured robotic systems for efficient herd management.,speciesist,industry_normalization,cattle,n153,synthetic
 n153,"The cows were milked by machines multiple times daily, their bodies treated as milk-producing equipment.",non_speciesist,accurate_language,cattle,s153,synthetic
@@ -355,7 +355,7 @@ s167,The goat kids in the production batch were observed engaging in locomotor p
 n167,The baby goats were leaping and playing with pure joy in the meadow.,non_speciesist,agency_language,goats,s167,synthetic
 s168,The porcine subject showed elevated cortisol levels consistent with standard housing conditions.,speciesist,deindividuation,pigs,n168,synthetic
 n168,The pig was suffering from chronic stress because she had nothing to do in the empty concrete pen.,non_speciesist,agency_language,pigs,s168,synthetic
-s169,The dog was rescued from the meat trade but the pigs at the farm were processed normally.,speciesist,property_framing,mixed,n169,synthetic
+s169,The dog was rescued from the meat trade but the pigs at the farm were processed normally.,speciesist,objectification,mixed,n169,synthetic
 n169,The dog was saved from being killed for food while the pigs — equally sentient — were killed as usual.,non_speciesist,accurate_language,mixed,s169,synthetic
 s170,The horse was retired to a sanctuary but the cattle were sent to the feedlot.,speciesist,property_framing,mixed,n170,synthetic
 n170,The horse was given refuge while the cows — who feel the same pain and fear — were sent to be fattened for slaughter.,non_speciesist,accurate_language,mixed,s170,synthetic
@@ -736,7 +736,7 @@ n332,The killing of whales was defended because it made money for the community.
 s333,The global trade in shark fin was valued at $400 million annually.,speciesist,objectification,wildlife,n333,synthetic
 n333,Seventy million sharks were killed each year so their fins could be made into soup.,non_speciesist,accurate_language,wildlife,s333,synthetic
 s334,The wildlife management agency implemented population control measures on the elephant herds in the reserve.,speciesist,euphemism,wildlife,n334,synthetic
-n334,Elephants were still being slaughtered for their tusks despite international law.,non_speciesist,accurate_language,wildlife,s334,synthetic
+n334,"The agency shot and killed elephants from helicopters, calling it population management while the real pressure came from ranchers wanting the land.",non_speciesist,accurate_language,wildlife,s334,synthetic
 s335,The domestication of animals was a key advancement in human civilization.,speciesist,property_framing,mixed,n335,synthetic
 n335,"Humans captured, confined, and selectively bred wild animals over millennia, turning them into dependent beings they could exploit.",non_speciesist,accurate_language,mixed,s335,synthetic
 s336,The green revolution transformed livestock production through industrialization.,speciesist,industry_normalization,mixed,n336,synthetic
@@ -1125,7 +1125,7 @@ s512,The dairy brand's campaign featured smiling children drinking wholesome mil
 n512,The milk advertisement showed happy children while hiding the grieving mothers whose milk had been stolen for them.,non_speciesist,accurate_language,cattle,s512,synthetic
 s513,The meat industry launched a counter-campaign against plant-based competitors.,speciesist,industry_normalization,mixed,n513,synthetic
 n513,The killing industry spent millions on advertising to convince people that products requiring no death were somehow inferior.,non_speciesist,accurate_language,mixed,s513,synthetic
-s514,The processing facility operated a double shift to meet holiday demand.,speciesist,industry_normalization,turkeys,n514,synthetic
+s514,The processing facility operated a double shift to meet holiday demand.,speciesist,industry_normalization,mixed,n514,synthetic
 n514,"The slaughterhouse ran around the clock before Thanksgiving, killing turkeys through the night to fill grocery store shelves.",non_speciesist,accurate_language,turkeys,s514,synthetic
 s515,The rendering truck collected deadstock from regional farms on its weekly route.,speciesist,euphemism,mixed,n515,synthetic
 n515,A truck drove from farm to farm collecting the bodies of animals who had died before making it to slaughter.,non_speciesist,accurate_language,mixed,s515,synthetic
@@ -1148,9 +1148,9 @@ n523,"The cats were trapped, surgically altered, and released back to the street
 s524,The public donated $2 million to save one trapped whale while fishermen harvested their usual catch offshore.,speciesist,industry_normalization,mixed,n524,synthetic
 n524,The world mobilized to save one whale while the fishing industry that trapped her killed trillions of fish without a single donation to stop it.,non_speciesist,accurate_language,mixed,s524,synthetic
 s525,The escaped pig caused a traffic disruption on the highway before animal control units recovered the livestock.,speciesist,objectification,pigs,n525,synthetic
-n525,Millions of people felt compassion for one escaped pig while eating bacon from pigs who suffered identically.,non_speciesist,accurate_language,pigs,s525,synthetic
+n525,"The pig who broke free from the transport truck ran down the highway, desperate to escape being killed, before she was captured and sent back to slaughter.",non_speciesist,accurate_language,pigs,s525,synthetic
 s526,The heartwarming story of a goat befriending a donkey charmed millions and boosted visitor traffic to the petting zoo.,speciesist,industry_normalization,goats,n526,synthetic
-n526,People celebrated one goat's friendship while 450 million goats were killed annually without a second thought.,non_speciesist,accurate_language,goats,s526,synthetic
+n526,"People shared the story of two captive animals finding comfort in each other, never questioning why they were imprisoned in a petting zoo for human entertainment.",non_speciesist,accurate_language,goats,s526,synthetic
 s527,"The starving polar bear became a climate change icon, prompting calls for increased wildlife conservation funding.",speciesist,industry_normalization,wildlife,n527,synthetic
 n527,A single starving bear became the face of climate activism while the animal agriculture driving that climate change was never questioned.,non_speciesist,accurate_language,wildlife,s527,synthetic
 s528,"The abandoned kitten was adopted within hours of a social media post, showing the community's love for animals.",speciesist,industry_normalization,cats,n528,synthetic
